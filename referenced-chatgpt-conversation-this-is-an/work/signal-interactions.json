@@ -1,0 +1,51 @@
+{
+  "report": [
+    {
+      "width": 1440,
+      "filter": true,
+      "evidence": true,
+      "response": true,
+      "demo": true,
+      "measurement": true,
+      "final": true,
+      "reducedMotion": true,
+      "axe": [],
+      "cls": 0,
+      "storage": false,
+      "print": true,
+      "nextStudy": true
+    },
+    {
+      "width": 390,
+      "filter": true,
+      "evidence": true,
+      "response": true,
+      "demo": true,
+      "measurement": true,
+      "final": true,
+      "reducedMotion": true,
+      "axe": [],
+      "cls": 0,
+      "storage": false,
+      "print": true,
+      "nextStudy": true
+    },
+    {
+      "width": 360,
+      "filter": true,
+      "evidence": true,
+      "response": true,
+      "demo": true,
+      "measurement": true,
+      "final": true,
+      "reducedMotion": true,
+      "axe": [],
+      "cls": 0,
+      "storage": false,
+      "print": true,
+      "nextStudy": true
+    }
+  ],
+  "errors": [],
+  "mutations": []
+}

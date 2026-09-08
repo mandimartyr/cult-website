@@ -1,0 +1,40 @@
+{
+  "errors": [],
+  "requests": [
+    "http://127.0.0.1:4179/media/strategy.mp4",
+    "http://127.0.0.1:4179/media/creative.mp4",
+    "http://127.0.0.1:4179/media/media.mp4",
+    "http://127.0.0.1:4179/media/search.mp4",
+    "http://127.0.0.1:4179/media/conversion.mp4",
+    "http://127.0.0.1:4179/media/measurement.mp4",
+    "http://127.0.0.1:4179/media/strategy-mobile.mp4",
+    "http://127.0.0.1:4179/media/conversion-mobile.mp4",
+    "http://127.0.0.1:4179/media/measurement-mobile.mp4"
+  ],
+  "blend": [
+    {
+      "class": "hero-film-layer ",
+      "opacity": 0
+    },
+    {
+      "class": "hero-film-layer is-outgoing",
+      "opacity": 1
+    },
+    {
+      "class": "hero-film-layer is-displayed",
+      "opacity": 0.511286
+    },
+    {
+      "class": "hero-film-layer ",
+      "opacity": 0
+    },
+    {
+      "class": "hero-film-layer ",
+      "opacity": 0
+    },
+    {
+      "class": "hero-film-layer ",
+      "opacity": 0
+    }
+  ]
+}

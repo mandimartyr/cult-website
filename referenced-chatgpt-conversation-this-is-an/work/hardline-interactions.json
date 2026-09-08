@@ -1,0 +1,37 @@
+{
+  "report": [
+    {
+      "width": 1440,
+      "validation": true,
+      "review": true,
+      "edit": true,
+      "back": true,
+      "reset": true,
+      "reducedMotion": true,
+      "nextStudy": true
+    },
+    {
+      "width": 390,
+      "validation": true,
+      "review": true,
+      "edit": true,
+      "back": true,
+      "reset": true,
+      "reducedMotion": true,
+      "nextStudy": true
+    },
+    {
+      "width": 360,
+      "validation": true,
+      "review": true,
+      "edit": true,
+      "back": true,
+      "reset": true,
+      "reducedMotion": true,
+      "nextStudy": true
+    }
+  ],
+  "errors": [],
+  "mutations": [],
+  "failures": []
+}

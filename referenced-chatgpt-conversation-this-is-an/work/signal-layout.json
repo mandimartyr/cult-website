@@ -1,0 +1,49 @@
+{
+  "report": [
+    {
+      "width": 390,
+      "scrollWidth": 415,
+      "overflow": [
+        {
+          "tag": "BR",
+          "cls": "",
+          "right": 415.25
+        }
+      ],
+      "violations": []
+    },
+    {
+      "width": 360,
+      "scrollWidth": 385,
+      "overflow": [
+        {
+          "tag": "BR",
+          "cls": "",
+          "right": 384.859375
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "violations": []
+    },
+    {
+      "width": 1280,
+      "scrollWidth": 1280,
+      "overflow": []
+    },
+    {
+      "width": 1024,
+      "scrollWidth": 1024,
+      "overflow": []
+    },
+    {
+      "width": 768,
+      "scrollWidth": 768,
+      "overflow": []
+    }
+  ],
+  "errors": []
+}

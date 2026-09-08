@@ -1,0 +1,4 @@
+import {chromium} from 'playwright';
+import assert from 'node:assert/strict';
+const b=await chromium.launch({headless:true,executablePath:'/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'});const p=await b.newPage({viewport:{width:1440,height:1000},reducedMotion:'reduce'});
+for(const width of [1440,768,390,360]) {await p.setViewportSize({width,height:1000});await p.goto('http://127.0.0.1:4179/work/hardline/');assert.equal(await p.locator('h1').innerText(),'HARDLINE.');assert.equal(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),true);await p.locator('.case-experience').scrollIntoViewIfNeeded();await p.waitForTimeout(400);await p.locator('.case-experience').screenshot({path:`../hardline-experience-${width}.png`});console.log(width+' HARDLINE verified');}await b.close();

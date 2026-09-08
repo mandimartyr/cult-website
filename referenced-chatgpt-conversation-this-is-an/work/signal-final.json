@@ -1,0 +1,207 @@
+{
+  "report": [
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "h1": "SIGNAL.",
+      "scenes": 9,
+      "images": [
+        {
+          "src": "http://127.0.0.1:4179/studies/signal/ooh-1536.webp",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:4179/studies/signal/station-1536.webp",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:4179/studies/signal/lobby-1536.webp",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:4179/studies/hardline-1536.webp",
+          "loaded": true
+        }
+      ],
+      "font": "figtree, \"figtree Fallback\", Arial, sans-serif",
+      "coldCampaignImages": 0
+    },
+    {
+      "width": 1280,
+      "scrollWidth": 1280,
+      "h1": "SIGNAL.",
+      "scenes": 9,
+      "images": [
+        {
+          "src": "http://127.0.0.1:4179/studies/signal/ooh-1536.webp",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:4179/studies/signal/station-1536.webp",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:4179/studies/signal/lobby-1536.webp",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:4179/studies/hardline-1536.webp",
+          "loaded": true
+        }
+      ],
+      "font": "figtree, \"figtree Fallback\", Arial, sans-serif",
+      "coldCampaignImages": 0
+    },
+    {
+      "width": 1024,
+      "scrollWidth": 1024,
+      "h1": "SIGNAL.",
+      "scenes": 9,
+      "images": [
+        {
+          "src": "http://127.0.0.1:4179/studies/signal/ooh-1536.webp",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:4179/studies/signal/station-1536.webp",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:4179/studies/signal/lobby-1536.webp",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:4179/studies/hardline-960.webp",
+          "loaded": true
+        }
+      ],
+      "font": "figtree, \"figtree Fallback\", Arial, sans-serif",
+      "coldCampaignImages": 0
+    },
+    {
+      "width": 768,
+      "scrollWidth": 768,
+      "h1": "SIGNAL.",
+      "scenes": 9,
+      "images": [
+        {
+          "src": "http://127.0.0.1:4179/studies/signal/ooh-960.webp",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:4179/studies/signal/station-960.webp",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:4179/studies/signal/lobby-960.webp",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:4179/studies/hardline-960.webp",
+          "loaded": true
+        }
+      ],
+      "font": "figtree, \"figtree Fallback\", Arial, sans-serif",
+      "coldCampaignImages": 0
+    },
+    {
+      "width": 390,
+      "scrollWidth": 390,
+      "h1": "SIGNAL.",
+      "scenes": 9,
+      "images": [
+        {
+          "src": "http://127.0.0.1:4179/studies/signal/ooh-480.webp",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:4179/studies/signal/station-480.webp",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:4179/studies/signal/lobby-480.webp",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:4179/studies/hardline-480.webp",
+          "loaded": true
+        }
+      ],
+      "font": "figtree, \"figtree Fallback\", Arial, sans-serif",
+      "coldCampaignImages": 0
+    },
+    {
+      "width": 360,
+      "scrollWidth": 360,
+      "h1": "SIGNAL.",
+      "scenes": 9,
+      "images": [
+        {
+          "src": "http://127.0.0.1:4179/studies/signal/ooh-480.webp",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:4179/studies/signal/station-480.webp",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:4179/studies/signal/lobby-480.webp",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:4179/studies/hardline-480.webp",
+          "loaded": true
+        }
+      ],
+      "font": "figtree, \"figtree Fallback\", Arial, sans-serif",
+      "coldCampaignImages": 0
+    }
+  ],
+  "routes": [
+    {
+      "route": "/",
+      "status": 200,
+      "h1": "Attention is built.\nDemand is engineered."
+    },
+    {
+      "route": "/work/",
+      "status": 200,
+      "h1": "Work built to move something."
+    },
+    {
+      "route": "/work/hardline/",
+      "status": 200,
+      "h1": "HARDLINE."
+    },
+    {
+      "route": "/work/noct/",
+      "status": 200,
+      "h1": "NOCT."
+    },
+    {
+      "route": "/work/aer/",
+      "status": 200,
+      "h1": "AER."
+    },
+    {
+      "route": "/work/field/",
+      "status": 200,
+      "h1": "FIELD."
+    },
+    {
+      "route": "/services/",
+      "status": 200,
+      "h1": "One strategy.\nThe right channels."
+    },
+    {
+      "route": "/about/",
+      "status": 200,
+      "h1": "Founder-led\nby design."
+    },
+    {
+      "route": "/contact/",
+      "status": 200,
+      "h1": "Tell us what needs to move."
+    }
+  ]
+}

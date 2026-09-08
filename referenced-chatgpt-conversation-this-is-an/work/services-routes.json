@@ -1,0 +1,67 @@
+[
+  {
+    "route": "/",
+    "status": 200,
+    "h1": 1
+  },
+  {
+    "route": "/work/",
+    "status": 200,
+    "h1": 1
+  },
+  {
+    "route": "/work/hardline/",
+    "status": 200,
+    "h1": 1
+  },
+  {
+    "route": "/work/noct/",
+    "status": 200,
+    "h1": 1
+  },
+  {
+    "route": "/work/aer/",
+    "status": 200,
+    "h1": 1
+  },
+  {
+    "route": "/work/field/",
+    "status": 200,
+    "h1": 1
+  },
+  {
+    "route": "/work/signal/",
+    "status": 200,
+    "h1": 1
+  },
+  {
+    "route": "/about/",
+    "status": 200,
+    "h1": 1
+  },
+  {
+    "route": "/contact/",
+    "status": 200,
+    "h1": 1
+  },
+  {
+    "route": "/services/",
+    "status": 200,
+    "h1": 1
+  },
+  {
+    "route": "/services/attention-audit/",
+    "status": 200,
+    "h1": 1
+  },
+  {
+    "route": "/services/growth-build/",
+    "status": 200,
+    "h1": 1
+  },
+  {
+    "route": "/services/partner/",
+    "status": 200,
+    "h1": 1
+  }
+]

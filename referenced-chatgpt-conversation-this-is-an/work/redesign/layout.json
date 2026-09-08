@@ -1,0 +1,212 @@
+[
+  {
+    "width": 1440,
+    "route": "/",
+    "w": 1440,
+    "scroll": 1440,
+    "h1": 1
+  },
+  {
+    "width": 1440,
+    "route": "/services/",
+    "w": 1440,
+    "scroll": 1440,
+    "h1": 1
+  },
+  {
+    "width": 1440,
+    "route": "/work/",
+    "w": 1440,
+    "scroll": 1440,
+    "h1": 1
+  },
+  {
+    "width": 1440,
+    "route": "/about/",
+    "w": 1440,
+    "scroll": 1440,
+    "h1": 1
+  },
+  {
+    "width": 1440,
+    "route": "/contact/",
+    "w": 1440,
+    "scroll": 1440,
+    "h1": 1
+  },
+  {
+    "width": 1280,
+    "route": "/",
+    "w": 1280,
+    "scroll": 1280,
+    "h1": 1
+  },
+  {
+    "width": 1280,
+    "route": "/services/",
+    "w": 1280,
+    "scroll": 1280,
+    "h1": 1
+  },
+  {
+    "width": 1280,
+    "route": "/work/",
+    "w": 1280,
+    "scroll": 1280,
+    "h1": 1
+  },
+  {
+    "width": 1280,
+    "route": "/about/",
+    "w": 1280,
+    "scroll": 1280,
+    "h1": 1
+  },
+  {
+    "width": 1280,
+    "route": "/contact/",
+    "w": 1280,
+    "scroll": 1280,
+    "h1": 1
+  },
+  {
+    "width": 1024,
+    "route": "/",
+    "w": 1024,
+    "scroll": 1024,
+    "h1": 1
+  },
+  {
+    "width": 1024,
+    "route": "/services/",
+    "w": 1024,
+    "scroll": 1024,
+    "h1": 1
+  },
+  {
+    "width": 1024,
+    "route": "/work/",
+    "w": 1024,
+    "scroll": 1024,
+    "h1": 1
+  },
+  {
+    "width": 1024,
+    "route": "/about/",
+    "w": 1024,
+    "scroll": 1024,
+    "h1": 1
+  },
+  {
+    "width": 1024,
+    "route": "/contact/",
+    "w": 1024,
+    "scroll": 1024,
+    "h1": 1
+  },
+  {
+    "width": 768,
+    "route": "/",
+    "w": 768,
+    "scroll": 768,
+    "h1": 1
+  },
+  {
+    "width": 768,
+    "route": "/services/",
+    "w": 768,
+    "scroll": 768,
+    "h1": 1
+  },
+  {
+    "width": 768,
+    "route": "/work/",
+    "w": 768,
+    "scroll": 768,
+    "h1": 1
+  },
+  {
+    "width": 768,
+    "route": "/about/",
+    "w": 768,
+    "scroll": 768,
+    "h1": 1
+  },
+  {
+    "width": 768,
+    "route": "/contact/",
+    "w": 768,
+    "scroll": 768,
+    "h1": 1
+  },
+  {
+    "width": 390,
+    "route": "/",
+    "w": 390,
+    "scroll": 390,
+    "h1": 1
+  },
+  {
+    "width": 390,
+    "route": "/services/",
+    "w": 390,
+    "scroll": 390,
+    "h1": 1
+  },
+  {
+    "width": 390,
+    "route": "/work/",
+    "w": 390,
+    "scroll": 390,
+    "h1": 1
+  },
+  {
+    "width": 390,
+    "route": "/about/",
+    "w": 390,
+    "scroll": 390,
+    "h1": 1
+  },
+  {
+    "width": 390,
+    "route": "/contact/",
+    "w": 390,
+    "scroll": 390,
+    "h1": 1
+  },
+  {
+    "width": 360,
+    "route": "/",
+    "w": 360,
+    "scroll": 360,
+    "h1": 1
+  },
+  {
+    "width": 360,
+    "route": "/services/",
+    "w": 360,
+    "scroll": 360,
+    "h1": 1
+  },
+  {
+    "width": 360,
+    "route": "/work/",
+    "w": 360,
+    "scroll": 360,
+    "h1": 1
+  },
+  {
+    "width": 360,
+    "route": "/about/",
+    "w": 360,
+    "scroll": 360,
+    "h1": 1
+  },
+  {
+    "width": 360,
+    "route": "/contact/",
+    "w": 360,
+    "scroll": 360,
+    "h1": 1
+  }
+]

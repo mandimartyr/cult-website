@@ -1,0 +1,112 @@
+[
+  {
+    "width": 1440,
+    "name": "identity",
+    "state": {
+      "rect": {
+        "x": 577.515625,
+        "y": 94.703125,
+        "width": 862.484375,
+        "height": 749.984375,
+        "top": 94.703125,
+        "right": 1440,
+        "bottom": 844.6875,
+        "left": 577.515625
+      },
+      "opacity": "1",
+      "naturalWidth": 864,
+      "src": "http://127.0.0.1:4179/studies/noct/identity-960.webp"
+    }
+  },
+  {
+    "width": 1440,
+    "name": "street",
+    "state": {
+      "rect": {
+        "x": 653.59375,
+        "y": 209.453125,
+        "width": 730.40625,
+        "height": 521.71875,
+        "top": 209.453125,
+        "right": 1384,
+        "bottom": 731.171875,
+        "left": 653.59375
+      },
+      "opacity": "1",
+      "naturalWidth": 792,
+      "src": "http://127.0.0.1:4179/studies/noct/street-960.webp"
+    }
+  },
+  {
+    "width": 1440,
+    "name": "position",
+    "state": {
+      "rect": {
+        "x": 494.234375,
+        "y": 416.75,
+        "width": 889.765625,
+        "height": 105.5625,
+        "top": 416.75,
+        "right": 1384,
+        "bottom": 522.3125,
+        "left": 494.234375
+      },
+      "opacity": "1"
+    }
+  },
+  {
+    "width": 390,
+    "name": "identity",
+    "state": {
+      "rect": {
+        "x": 0,
+        "y": 274.5625,
+        "width": 390,
+        "height": 390,
+        "top": 274.5625,
+        "right": 390,
+        "bottom": 664.5625,
+        "left": 0
+      },
+      "opacity": "1",
+      "naturalWidth": 389,
+      "src": "http://127.0.0.1:4179/studies/noct/identity-480.webp"
+    }
+  },
+  {
+    "width": 390,
+    "name": "street",
+    "state": {
+      "rect": {
+        "x": 72.5,
+        "y": 321.125,
+        "width": 297.5,
+        "height": 297.5,
+        "top": 321.125,
+        "right": 370,
+        "bottom": 618.625,
+        "left": 72.5
+      },
+      "opacity": "1",
+      "naturalWidth": 389,
+      "src": "http://127.0.0.1:4179/studies/noct/street-480.webp"
+    }
+  },
+  {
+    "width": 390,
+    "name": "position",
+    "state": {
+      "rect": {
+        "x": 20,
+        "y": 371.03125,
+        "width": 350,
+        "height": 197.25,
+        "top": 371.03125,
+        "right": 370,
+        "bottom": 568.28125,
+        "left": 20
+      },
+      "opacity": "1"
+    }
+  }
+]

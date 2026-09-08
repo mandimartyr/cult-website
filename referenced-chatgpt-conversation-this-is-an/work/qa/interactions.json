@@ -1,0 +1,23 @@
+{
+  "log": [
+    "Only active hero video loaded; playback advances.",
+    "Six worlds select correctly; arrow keys activate the next world.",
+    "Global pause unloads every film.",
+    "Offscreen hero suspends and unloads.",
+    "Audit prefill, validation, focus, review and correctly encoded email draft verified without sending.",
+    "Copy enquiry fallback works.",
+    "Mobile starts with posters; menu opens, navigates, and closes.",
+    "Explicit mobile playback uses the mobile video file.",
+    "Reduced motion disables autoplay and transitions.",
+    "Save-data mode stays on posters.",
+    "All five pages have zero horizontal overflow at all six requested widths."
+  ],
+  "requests": [
+    "http://localhost:3000/media/creative.mp4",
+    "http://localhost:3000/media/media.mp4",
+    "http://localhost:3000/media/conversion.mp4",
+    "http://localhost:3000/media/partner.mp4",
+    "http://localhost:3000/media/creative-mobile.mp4"
+  ],
+  "failures": []
+}

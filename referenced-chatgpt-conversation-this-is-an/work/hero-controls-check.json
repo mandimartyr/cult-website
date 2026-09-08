@@ -1,0 +1,26 @@
+[
+  {
+    "width": 1440,
+    "barHeight": 50,
+    "selectionWorks": true,
+    "hover": true,
+    "reducedMotion": true,
+    "overflow": 0
+  },
+  {
+    "width": 725,
+    "barHeight": 48,
+    "selectionWorks": true,
+    "hover": true,
+    "reducedMotion": true,
+    "overflow": 0
+  },
+  {
+    "width": 390,
+    "barHeight": 48,
+    "selectionWorks": true,
+    "hover": true,
+    "reducedMotion": true,
+    "overflow": 0
+  }
+]

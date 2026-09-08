@@ -1,0 +1,2 @@
+import { chromium } from 'playwright';import assert from 'node:assert/strict';
+const b=await chromium.launch({headless:true,executablePath:'/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'});const p=await b.newPage();for(const route of ['/','/work/hardline/','/work/aer/','/work/field/','/work/signal/']){const r=await p.goto('http://127.0.0.1:4179'+route);assert.equal(r.status(),200);assert.equal(await p.locator('h1').count(),1);console.log(route,await p.locator('h1').innerText());}await b.close();
