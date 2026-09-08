@@ -1,0 +1,30 @@
+{
+  "log": [
+    "Active film plays; two neighbours buffer.",
+    "Six worlds select correctly; arrow keys activate the next world.",
+    "Global pause unloads every film.",
+    "Offscreen hero suspends and unloads.",
+    "Audit prefill, validation, focus, review and correctly encoded email draft verified without sending.",
+    "Copy enquiry fallback works.",
+    "Mobile starts with posters; menu opens, navigates, and closes.",
+    "Explicit mobile playback uses the mobile video file.",
+    "Reduced motion disables autoplay and transitions.",
+    "Save-data mode stays on posters.",
+    "All five pages have zero horizontal overflow at all six requested widths.",
+    "Production routes, single H1, titles, descriptions, canonical URLs and valid JSON-LD verified."
+  ],
+  "requests": [
+    "http://127.0.0.1:4179/media/strategy.mp4",
+    "http://127.0.0.1:4179/media/creative.mp4",
+    "http://127.0.0.1:4179/media/media.mp4",
+    "http://127.0.0.1:4179/media/measurement.mp4",
+    "http://127.0.0.1:4179/media/search.mp4",
+    "http://127.0.0.1:4179/media/conversion.mp4",
+    "http://127.0.0.1:4179/media/audit.mp4",
+    "http://127.0.0.1:4179/media/build.mp4",
+    "http://127.0.0.1:4179/media/strategy-mobile.mp4",
+    "http://127.0.0.1:4179/media/creative-mobile.mp4",
+    "http://127.0.0.1:4179/media/media-mobile.mp4"
+  ],
+  "failures": []
+}

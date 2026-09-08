@@ -1,0 +1,883 @@
+Expand and substantially redesign the existing **NOCT.** case-study page for the CULT. website.
+
+Do NOT replace the overall CULT. website design language.
+
+Do NOT make this look like a generic luxury perfume e-commerce website.
+
+Do NOT make this look like a Behance branding project with mockups stacked vertically.
+
+NOCT. should feel like a fully art-directed CULT. case study: a strange, seductive, culturally literate fragrance launch expressed through brand strategy, creative direction, campaign, digital experience, search, paid media, launch architecture, conversion and measurement.
+
+The current idea is:
+
+# NOCT.
+
+**Fragrance for after dark.**
+
+CULT. Study 002 / Self-initiated
+
+Keep that core idea.
+
+The existing NOCT page is too thin compared with HARDLINE. I want significantly more substance, more visual storytelling, more strategy, more campaign thinking, more interface concepts, more editorial moments and more evidence of what CULT. actually does.
+
+This case study should feel equally substantial to HARDLINE but should NOT simply reuse HARDLINE's structure.
+
+HARDLINE is operational, rigid and infrastructural.
+
+NOCT. should be nocturnal, sensual, obsessive, editorial, fashion-adjacent and emotionally charged.
+
+---
+
+# CENTRAL CREATIVE IDEA
+
+NOCT. is not positioned as perfume for everyone.
+
+It is a fragrance built around the psychological shift that occurs after dark.
+
+Night changes behaviour.
+
+People dress differently.
+Move differently.
+Desire differently.
+Become less explainable.
+
+The fragrance should feel connected to:
+
+* anticipation
+* anonymity
+* skin
+* heat
+* distance
+* memory
+* nightlife
+* hotel corridors
+* taxis
+* wet pavement
+* lipstick on glass
+* empty streets
+* 2:13 AM
+* someone leaving
+* someone arriving
+* the smell of another person on clothing the next morning
+
+The brand should sell a feeling of **after-hours identity**, not ingredients alone.
+
+A useful conceptual line:
+
+**THE NIGHT HAS A SCENT.**
+
+Other campaign language can emerge from that thought.
+
+Potential lines:
+
+**FRAGRANCE FOR AFTER DARK.**
+
+**WEAR IT AFTER THE LIGHT CHANGES.**
+
+**NOT EVERYTHING SHOULD FOLLOW YOU HOME.**
+
+**2:13 AM. STILL ON YOUR SKIN.**
+
+**FOR THE HOURS YOU DON'T EXPLAIN.**
+
+**WHAT HAPPENS AFTER DARK STAYS ON SKIN.**
+
+Do not use all of these.
+
+Curate them.
+
+Copy must remain restrained.
+
+---
+
+# VISUAL DIRECTION
+
+The page should feel markedly different from HARDLINE while unmistakably belonging to CULT.
+
+Think:
+
+high-fashion fragrance campaign
+× independent culture magazine
+× arthouse title sequence
+× nocturnal street photography
+× luxury editorial
+× experimental digital experience
+× controlled brutalism
+
+Avoid conventional “luxury perfume” clichés.
+
+NO:
+
+* generic black-and-gold luxury
+* excessive serif typography
+* rose petals everywhere
+* marble counters
+* cliché French perfume imagery
+* soft beige luxury
+* predictable product grids
+* generic floating perfume bottles
+* giant blocks of meaningless brand poetry
+* rounded SaaS-style UI
+* excessive gradients
+* excessive glassmorphism
+
+Use near-black, bone, smoke, dirty silver, occasional deep wine/blood-red or electric flash tones if required.
+
+Photography should feel like found evidence from a night rather than polished product photography alone.
+
+Potential imagery:
+
+* perfume bottle lit by direct flash
+* bottle inside a dark taxi
+* blurred headlights through rain
+* woman's shoulder or neck with identity obscured
+* lipstick mark on glass
+* chrome elevator
+* empty hotel corridor
+* damp pavement
+* nightclub bathroom mirror
+* discarded coat
+* sheets at first light
+* hand holding bottle inside car
+* bottle photographed like an object recovered from the previous night
+* extreme macro imagery of skin / glass / condensation
+
+Use imagery asymmetrically.
+
+Some images should nearly disappear into black.
+
+Others should hit the screen aggressively.
+
+Use image crops, interrupted compositions and unusual scale.
+
+---
+
+# IMPORTANT DESIGN PRINCIPLE
+
+## CONTROLLED TENSION
+
+The NOCT page should alternate between:
+
+LOUD / QUIET
+FULL BLEED / EMPTY SPACE
+GIANT TYPE / MICRO COPY
+DARKNESS / FLASH
+DESIRE / DATA
+BRAND / PERFORMANCE
+
+Do not make every section visually intense.
+
+The restraint between moments is important.
+
+---
+
+# PAGE OPENING
+
+Create a cinematic full-viewport opening.
+
+Small metadata:
+
+CULT. STUDY 002
+SELF-INITIATED
+FRAGRANCE / BEAUTY / CULTURE
+
+Then enormous:
+
+# NOCT.
+
+Small line:
+
+FRAGRANCE FOR AFTER DARK.
+
+Consider a very dark hero photograph with the perfume bottle only partially visible.
+
+There could be a subtle live-time device:
+
+**TORONTO — 02:13:47**
+
+or
+
+**AFTER DARK / LOCAL TIME**
+
+Do not make it gimmicky.
+
+The page should immediately feel like entering another world.
+
+---
+
+# 01 / THE CATEGORY
+
+Open with an intelligent critique of fragrance marketing.
+
+Possible giant repeated category language:
+
+SEDUCTIVE.
+MYSTERIOUS.
+TIMELESS.
+IRRESISTIBLE.
+
+Then interrupt it.
+
+# EVERY FRAGRANCE SAYS THE SAME THING.
+
+Supporting copy:
+
+Luxury fragrance is saturated with abstraction: desire, mystery, seduction, confidence. The language changes. The promise rarely does.
+
+NOCT. needed a more specific territory.
+
+Not another fragrance about attraction.
+
+A fragrance about **when attraction changes.**
+
+Use this section to establish the strategic problem.
+
+Make it visually strong.
+
+---
+
+# 02 / THE POSITION
+
+Massive statement:
+
+# NOCT. DOESN'T SELL A SCENT.
+
+Then:
+
+# IT SELLS THE HOUR AFTER THE RULES CHANGE.
+
+Explain the strategic territory.
+
+Daytime identity is public.
+
+Nighttime identity is chosen.
+
+NOCT. occupies that transition.
+
+Create an editorial strategy module with concise fields:
+
+CATEGORY
+Fine fragrance
+
+AUDIENCE
+Culture-aware adults / 25–44
+
+TENSION
+Luxury fragrance feels interchangeable
+
+CULTURAL TERRITORY
+After-hours identity
+
+POSITION
+Fragrance for after dark
+
+BRAND BEHAVIOUR
+Controlled / intimate / unresolved
+
+Do not make this a boring spreadsheet.
+
+Art-direct it.
+
+---
+
+# 03 / THE SCENT AS STORY
+
+Introduce the fragrance itself.
+
+This is a fictional concept, so do not pretend it is a real commissioned product or make unsupported performance claims.
+
+Give NOCT a plausible olfactory architecture.
+
+Potential direction:
+
+TOP
+Black pepper / bergamot / cold air
+
+HEART
+Black tea / iris / skin musk
+
+BASE
+Incense / cedar / amber / smoked vanilla
+
+But present this experimentally rather than as a standard fragrance pyramid.
+
+Potential structure:
+
+**23:07 — ARRIVAL**
+Bergamot / pepper / metallic air
+
+**00:46 — PROXIMITY**
+Iris / tea / skin
+
+**03:18 — TRACE**
+Incense / cedar / amber
+
+Then:
+
+**08:12 — STILL THERE.**
+
+This gives us a strong narrative device tied to time.
+
+Make this section beautiful.
+
+---
+
+# 04 / IDENTITY SYSTEM
+
+Show the NOCT visual identity as an actual system.
+
+Not just a logo slapped on mockups.
+
+Include:
+
+* primary wordmark
+* abbreviated N. mark if appropriate
+* bottle typography
+* packaging
+* batch number system
+* scent notation
+* timestamps
+* bottle label
+* carton
+* shipping packaging
+* sample card
+* tissue / insert
+* receipt
+* social avatar
+* campaign typography
+
+Consider giving bottles identifiers such as:
+
+NOCT.
+EAU DE PARFUM
+50 ML
+BATCH 0213
+TORONTO
+
+or:
+
+NOCT / 02:13
+
+The identity should feel almost forensic.
+
+Luxury with evidence-label precision.
+
+---
+
+# 05 / THE OBJECT
+
+Give the bottle its own visual chapter.
+
+Massive product image.
+
+Minimal information.
+
+Treat the bottle almost like an artefact.
+
+Potential copy:
+
+# AN OBJECT THAT LOOKS BETTER AT 2 AM.
+
+Explore:
+
+* material
+* weight
+* cap
+* glass
+* label
+* secondary packaging
+
+The bottle should be severe and recognisable.
+
+Do not make an ornate perfume bottle.
+
+Think industrial glass, pharmaceutical precision, fashion object.
+
+Use interesting product-view transitions as the user scrolls.
+
+---
+
+# 06 / CAMPAIGN
+
+This needs to be a major section.
+
+Headline:
+
+# THE NIGHT HAS A SCENT.
+
+Build a campaign system around TIME.
+
+Example creative executions:
+
+**22:41**
+YOU SAID ONE DRINK.
+
+**00:17**
+THE NIGHT HAS A SCENT.
+
+**01:38**
+DON'T TEXT THEM.
+
+**02:13**
+STILL ON YOUR SKIN.
+
+**04:26**
+SOME THINGS LAST LONGER THAN THE NIGHT.
+
+**08:12**
+NOCT.
+
+These could appear as:
+
+* wild postings
+* OOH
+* fashion-magazine ads
+* digital display
+* social
+* short-form film frames
+* taxi-top placements
+* transit panels
+* bar / nightlife placements
+* contextual digital media
+
+Keep it intelligent.
+
+Avoid trying too hard to sound edgy.
+
+---
+
+# 07 / THE FILM
+
+Give NOCT a campaign film concept.
+
+Not a traditional fragrance commercial.
+
+Concept:
+
+A night reconstructed through fragments.
+
+No complete narrative.
+
+We see:
+
+22:41 — apartment mirror
+23:18 — taxi window
+00:07 — coat check
+01:12 — elevator
+02:13 — another room
+03:44 — street
+05:26 — empty car
+08:12 — bottle beside the bed
+
+Sound is fragmented.
+
+Door close.
+Traffic.
+Fabric.
+Bass through walls.
+Elevator tone.
+Breathing.
+Morning birds.
+
+End frame:
+
+NOCT.
+
+FRAGRANCE FOR AFTER DARK.
+
+Keep copy on this part extremely sparse.
+
+Allow the visual sequence to dominate.
+
+---
+
+# 08 / DIGITAL EXPERIENCE
+
+Show a sophisticated NOCT digital storefront.
+
+This should demonstrate CULT's website and conversion capabilities without becoming generic e-commerce.
+
+Potential homepage:
+
+NOCT.
+FRAGRANCE FOR AFTER DARK.
+
+BUY 50 ML
+DISCOVER THE SCENT
+
+Use unconventional but usable product storytelling.
+
+Important modules:
+
+* hero
+* fragrance narrative
+* olfactory timeline
+* product detail
+* ingredient story
+* reviews architecture if appropriate
+* discovery/sample set
+* shipping
+* FAQ
+* email capture
+* checkout
+* sticky purchase interaction
+
+The website should preserve the campaign atmosphere while making purchase extremely clear.
+
+Important:
+
+DESIRE FIRST.
+
+COMMERCE SECOND.
+
+FRICTION NEVER.
+
+---
+
+# 09 / SEARCH + DISCOVERY
+
+This is where CULT demonstrates that beautiful brands still require demand capture.
+
+Do not suddenly turn the page into an SEO audit.
+
+Keep it elegant.
+
+Show example search territories such as:
+
+night fragrance
+evening perfume
+smoky unisex fragrance
+iris incense fragrance
+long-lasting evening fragrance
+luxury fragrance discovery set
+
+Then map intent to useful landing destinations.
+
+Include the principle:
+
+# CULTURE CREATES DEMAND.
+
+# SEARCH CAPTURES IT.
+
+Explain that actual keyword volumes, difficulty and opportunity would be validated before launch.
+
+No fake rankings.
+
+No fake traffic.
+
+No fabricated numbers.
+
+---
+
+# 10 / LAUNCH ARCHITECTURE
+
+Create a launch system across the funnel.
+
+Example:
+
+### 01 / DESIRE
+
+Film
+Editorial creative
+Creators
+OOH
+Social
+
+### 02 / DISCOVERY
+
+Paid social
+Programmatic video
+Contextual
+Publisher placements
+PR
+
+### 03 / INTENT
+
+Search
+Organic discovery
+Reviews
+Fragrance content
+
+### 04 / CONVERSION
+
+Product page
+Discovery set
+Retargeting
+Email
+
+### 05 / RETURN
+
+Email
+Replenishment
+New editions
+Private releases
+
+Visually make this feel like a media architecture map rather than five generic cards.
+
+---
+
+# 11 / MEDIA
+
+Show how CULT would distribute NOCT.
+
+Potential channels:
+
+## PAID SOCIAL
+
+Visual storytelling, film cutdowns, product desire.
+
+## PROGRAMMATIC VIDEO
+
+Premium fashion, culture and nightlife environments.
+
+## CONTEXTUAL
+
+Fragrance, style, beauty, culture, nightlife, music.
+
+## SEARCH
+
+Capture explicit product and category intent.
+
+## CREATOR
+
+Selective fragrance / fashion / culture voices rather than mass influencer seeding.
+
+## OOH
+
+Dense nightlife districts, transit corridors, late-night environments.
+
+Potential media line:
+
+# DON'T ADVERTISE PERFUME.
+
+# ENGINEER RECALL.
+
+---
+
+# 12 / EMAIL
+
+Include a small but highly art-directed email / CRM section.
+
+Potential capture line:
+
+**THE NIGHT SHIFT**
+
+Field:
+EMAIL
+
+CTA:
+ENTER
+
+Welcome message:
+
+**YOU'RE IN.**
+
+Use email for:
+
+* launch
+* sample-set conversion
+* abandoned consideration
+* product education
+* replenishment
+* limited editions
+* editorial dispatches
+
+This demonstrates another CULT capability naturally.
+
+---
+
+# 13 / MEASUREMENT
+
+Keep this strategically serious.
+
+NO fake metrics.
+
+NO fake results.
+
+Say clearly that this is a self-initiated concept study and performance figures are not reported.
+
+Success framework:
+
+BRAND SEARCH LIFT
+Qualified traffic
+Discovery-set conversion
+Product-page conversion
+Customer acquisition cost
+Email capture rate
+Sample-to-full-size conversion
+Repeat purchase
+Revenue contribution
+
+Potential statement:
+
+# DESIRE IS SOFT.
+
+# ITS EFFECTS ARE NOT.
+
+Then show the measurement model underneath.
+
+---
+
+# 14 / THE SYSTEM
+
+Near the end, create one clean synthesis section showing how everything connects:
+
+BRAND
+↓
+CREATIVE
+↓
+ATTENTION
+↓
+DISCOVERY
+↓
+SEARCH
+↓
+COMMERCE
+↓
+CRM
+↓
+MEASUREMENT
+
+Or turn it into a beautiful circular / orbital system.
+
+NOCT should visibly demonstrate CULT's full-funnel proposition.
+
+The takeaway should be:
+
+CULT. did not just invent perfume packaging.
+
+CULT. invented a market position, cultural territory, visual world, demand system and commercial experience around one product.
+
+---
+
+# 15 / CLOSING
+
+Finish with an atmospheric final statement.
+
+Potentially:
+
+# SOME BRANDS ASK FOR ATTENTION.
+
+# OTHERS LEAVE A TRACE.
+
+Then:
+
+NOCT.
+FRAGRANCE FOR AFTER DARK.
+
+CULT. STUDY 002
+
+Self-initiated concept.
+
+Then transition beautifully into the next CULT study.
+
+---
+
+# INTERACTION DIRECTION
+
+Give this page more unique interaction than HARDLINE.
+
+Potential interactions:
+
+* cursor subtly reveals portions of photographs from darkness
+* timestamps increment as sections change
+* bottle rotates minimally with scroll
+* typography slips fractionally out of alignment during transitions
+* tiny points of light / flash exposure
+* image sequences advancing with scroll
+* campaign frames arriving like fragments of memory
+* horizontal strip of nightlife photographs
+* scent notes changing with time
+* delayed fade of certain text, like an afterimage
+
+Keep interaction restrained.
+
+No gimmicky particle playground.
+
+No excessive smooth-scroll tricks.
+
+No interactions that compromise accessibility or performance.
+
+Respect `prefers-reduced-motion`.
+
+---
+
+# TYPOGRAPHY
+
+Maintain CULT's existing typography system.
+
+NOCT can introduce an editorial contrast typeface only if it materially improves the page, but do not turn the site into a fashion-template serif fest.
+
+The dominant visual device should still be:
+
+ENORMOUS SANS TYPOGRAPHY
++
+VERY SMALL TECHNICAL METADATA
+
+Typography should function as image.
+
+---
+
+# MOBILE
+
+The mobile experience must be designed deliberately.
+
+Do not merely collapse desktop sections.
+
+On mobile:
+
+* maintain dramatic type scale
+* allow edge-to-edge images
+* keep timestamps visible
+* simplify complex diagrams
+* preserve campaign sequencing
+* ensure purchase interfaces are usable
+* eliminate horizontal overflow
+* keep metadata readable
+* keep animation restrained
+
+It should still feel premium and strange on a phone.
+
+---
+
+# IMPORTANT CULT. RULE
+
+This is a **CULT. case study**, not a NOCT corporate website.
+
+The design should constantly show how CULT thinks:
+
+strategy
+creative
+brand
+web
+search
+media
+conversion
+email
+measurement
+
+But do it through the work.
+
+Do not write paragraphs saying “CULT offers full-funnel marketing.”
+
+Demonstrate it.
+
+---
+
+# FINAL QUALITY BAR
+
+This page should make a potential client think:
+
+**“They could create a brand people actually want — and they understand how to turn that desire into a business.”**
+
+HARDLINE proves CULT understands operational complexity.
+
+NOCT should prove CULT understands **taste, culture, desire and consumer behaviour.**
+
+Make NOCT one of the strongest pages on the website.
+
+Do not shorten it simply to keep the implementation easy.
+
+Art-direct every major section.
+
+Use the existing CULT. visual system as the foundation, then give NOCT its own nocturnal behaviour.

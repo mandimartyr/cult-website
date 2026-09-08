@@ -1,0 +1,1422 @@
+RADICALLY REDESIGN THE MAIN CULT. SERVICES PAGE.
+
+The existing commercial strategy is good.
+
+Keep the three core ways of working:
+
+THE ATTENTION AUDIT
+THE GROWTH BUILD
+CULT. PARTNER
+
+Keep their existing destination pages and starting-price logic.
+
+Keep CULT’s actual capabilities:
+
+Strategy + Growth
+Websites + Conversion
+Search + Discovery
+Email + Lifecycle
+Paid Media + Programmatic
+Performance Creative
+Analytics + Optimization
+
+But completely rethink how the main Services page presents them.
+
+# THE CURRENT PAGE IS TOO WEAK.
+
+The Work case studies now feel cinematic, authored, experimental and highly art-directed.
+
+The Services page feels like:
+
+hero
+intro
+three-column comparison
+three offer rows
+process list
+capabilities grid
+CTA
+
+It is competent.
+
+It is not memorable.
+
+Worse, the page says:
+
+“We do not start with a service menu.”
+
+Then visually becomes a service menu.
+
+Fix that contradiction.
+
+---
+
+# THIS IS NOT A SERVICES CATALOGUE
+
+The page should communicate one idea:
+
+# CULT. DOES NOT SELL CHANNELS.
+
+# CULT. FINDS WHAT IS STOPPING GROWTH AND CHANGES IT.
+
+The service architecture is therefore:
+
+# FIND IT.
+
+Attention Audit
+
+# BUILD IT.
+
+Growth Build
+
+# RUN IT.
+
+CULT. Partner
+
+This should become the structural and visual spine of the entire page.
+
+---
+
+# CENTRAL VISUAL THESIS
+
+The page represents a commercial system.
+
+Not a funnel diagram.
+
+Not a SaaS flowchart.
+
+Not seven cards connected by arrows.
+
+A living system made from:
+
+STRATEGY
+
+CREATIVE
+
+SEARCH
+
+MEDIA
+
+WEB
+
+EMAIL
+
+CONVERSION
+
+MEASUREMENT
+
+At the beginning they appear to operate independently.
+
+As the visitor moves through the page, the system reveals that every part affects another.
+
+A weak landing page changes paid efficiency.
+
+Weak search visibility increases acquisition dependence.
+
+Bad creative reduces media efficiency.
+
+No measurement makes optimization guesswork.
+
+No lifecycle system wastes acquired attention.
+
+The point:
+
+# THE CHANNEL IS RARELY THE WHOLE PROBLEM.
+
+The page should make this idea visually understandable before explaining it.
+
+---
+
+# IMPORTANT
+
+Do NOT make the Services page look like another Work case study.
+
+It is still a commercial agency page.
+
+It needs:
+
+clarity
+conversion
+confidence
+easy paths into Audit / Build / Partner
+
+But it should have the same LEVEL OF ART DIRECTION as the Work pages.
+
+The Work pages say:
+
+“Look what we can make.”
+
+The Services page should say:
+
+# “LOOK HOW WE THINK.”
+
+---
+
+# REBUILD AS 7 MAJOR SCENES
+
+No endless sequence of standard sections.
+
+Use approximately:
+
+01 / THE PROBLEM
+02 / THE SYSTEM
+03 / FIND IT
+04 / BUILD IT
+05 / RUN IT
+06 / THE OPERATING MODEL
+07 / START
+
+Each scene should have a distinct composition.
+
+---
+
+# SCENE 01 — THE PROBLEM
+
+Completely reconsider the current hero.
+
+“THREE WAYS IN.” is useful information.
+
+It is not a strong opening idea.
+
+Do not lead with the packages.
+
+Lead with the client’s actual problem.
+
+Full viewport.
+
+Near black.
+
+Very little copy.
+
+Start with enormous:
+
+# WHAT
+
+# NEEDS
+
+# TO MOVE?
+
+Possible smaller line:
+
+Revenue.
+
+Demand.
+
+Conversion.
+
+Visibility.
+
+Retention.
+
+Something is underperforming.
+
+The channel is not always the problem.
+
+Then:
+
+# CULT. STARTS THERE.
+
+Follow with the existing strategic thought:
+
+We do not start with a service menu.
+
+We start with the commercial problem.
+
+Then determine what has to change.
+
+Make this feel declarative.
+
+No hero cards.
+
+No giant button cluster.
+
+No generic agency reel behind text.
+
+---
+
+# VISUAL EVENT IN THE HERO
+
+Introduce the commercial system around the typography.
+
+Individual terms can appear around the screen:
+
+SEARCH
+
+CREATIVE
+
+MEDIA
+
+SITE
+
+EMAIL
+
+CRM
+
+CONVERSION
+
+DATA
+
+STRATEGY
+
+At first, they look independent.
+
+Then subtle lines / movement / alignment show they belong to one system.
+
+One element falls out of alignment.
+
+Something breaks downstream.
+
+Do this abstractly and editorially.
+
+Do NOT make a glowing node diagram.
+
+Do NOT make a marketing funnel infographic.
+
+Think typography behaving like machinery.
+
+---
+
+# SCENE 02 — THE SYSTEM
+
+Full-width.
+
+This is the core CULT proposition.
+
+Huge:
+
+# MARKETING
+
+# DOESN’T BREAK
+
+# IN CHANNELS.
+
+Then demonstrate cause and consequence.
+
+Example sequence:
+
+CREATIVE ↓
+
+causes
+
+PAID EFFICIENCY ↓
+
+which causes
+
+CAC ↑
+
+Another:
+
+SEARCH VISIBILITY ↓
+
+causes
+
+PAID DEPENDENCE ↑
+
+Another:
+
+LANDING PAGE CONVERSION ↓
+
+causes
+
+MEDIA WASTE ↑
+
+Another:
+
+NO LIFECYCLE
+
+causes
+
+ACQUIRED ATTENTION → LOST
+
+Use enormous typography and directional relationships.
+
+Do not put these examples in cards.
+
+Let them physically replace one another across the viewport.
+
+Then:
+
+# ONE SYSTEM.
+
+STRATEGY / CREATIVE / SEARCH / MEDIA / WEB / EMAIL / MEASUREMENT
+
+This is the reason CULT exists.
+
+---
+
+# THEN INTRODUCE THE THREE WAYS IN
+
+Do not use the existing three-column comparison.
+
+Instead:
+
+# THREE WAYS IN.
+
+Then three enormous vertical chapters.
+
+Each should almost function like a door into CULT.
+
+---
+
+# SCENE 03 — FIND IT
+
+Full-screen chapter.
+
+Small:
+
+01
+
+AUDIT
+
+Huge:
+
+# FIND
+
+# THE
+
+# CONSTRAINT.
+
+THE ATTENTION AUDIT.
+
+Starting at $1,500.
+
+Use the existing strategic meaning:
+
+Choose Audit when you cannot honestly say what is broken.
+
+More activity will not help until the constraint is named.
+
+But visually demonstrate diagnosis.
+
+A noisy commercial system enters.
+
+CULT strips it down.
+
+Possible signals:
+
+TRAFFIC ↑
+
+LEADS ↔
+
+CPC ↑
+
+CONVERSION ↓
+
+EMAIL REVENUE ↓
+
+BRAND SEARCH ↔
+
+Then everything collapses into:
+
+# LANDING PAGE
+
+# CONVERSION
+
+# IS THE CONSTRAINT.
+
+Or another illustrative example.
+
+Clearly label illustrative diagnostics if needed.
+
+Then:
+
+THE ATTENTION AUDIT
+
+Evidence.
+
+Priority.
+
+Roadmap.
+
+CTA:
+
+START WITH AN AUDIT →
+
+This should feel forensic.
+
+Not like a package card.
+
+---
+
+# SCENE 04 — BUILD IT
+
+Hard visual transition.
+
+02
+
+BUILD
+
+Huge:
+
+# BUILD
+
+# WHAT
+
+# THE SYSTEM
+
+# IS MISSING.
+
+THE GROWTH BUILD.
+
+Starting at $4,000.
+
+The current copy is strong:
+
+The problem is already named.
+
+The site.
+
+The search.
+
+The campaign.
+
+The inbox.
+
+The path.
+
+You need it made.
+
+Use this.
+
+But turn the section into a rapid sequence of actual outputs.
+
+WEB
+
+A landing experience slams into frame.
+
+SEARCH
+
+A content architecture replaces it.
+
+MEDIA
+
+Campaign creative takes over.
+
+EMAIL
+
+A lifecycle sequence appears.
+
+MEASUREMENT
+
+Tracking architecture overlays the system.
+
+Use visual references from CULT’s Work studies where appropriate.
+
+Not as a portfolio carousel.
+
+As evidence of capability.
+
+Potential line:
+
+# ONE NAMED PROBLEM.
+
+# WHATEVER IT TAKES TO FIX IT.
+
+Then smaller:
+
+A Growth Build may involve web, search, content, email, media, creative, conversion or analytics.
+
+It does not include everything by default.
+
+That sentence is commercially important.
+
+Keep it.
+
+CTA:
+
+DISCUSS A BUILD →
+
+---
+
+# SCENE 05 — RUN IT
+
+03
+
+PARTNER
+
+The mood should change.
+
+Less explosive.
+
+More systematic.
+
+Huge:
+
+# RUN
+
+# THE
+
+# SYSTEM.
+
+CULT. PARTNER.
+
+Starting at $4,000 / month.
+
+Existing proposition:
+
+Ongoing senior strategy and execution across the channels that actually matter to growth.
+
+One growth strategy.
+
+One operating rhythm.
+
+No disconnected vendors.
+
+Keep this thinking.
+
+But visualize an operating rhythm.
+
+MONDAY
+
+SIGNAL
+
+What changed?
+
+↓
+
+TUESDAY
+
+DECISION
+
+What matters?
+
+↓
+
+BUILD
+
+What changes?
+
+↓
+
+LAUNCH
+
+↓
+
+MEASURE
+
+↓
+
+LEARN
+
+↓
+
+REPEAT
+
+This should feel like an operating system.
+
+Not an agency retainer.
+
+Potential large statement:
+
+# NOT
+
+# “YOUR MARKETING TEAM.”
+
+Then:
+
+# SENIOR ATTENTION
+
+# ON THE THINGS
+
+# THAT MOVE GROWTH.
+
+Or:
+
+# STRATEGY
+
+# DOESN’T STOP
+
+# AFTER THE DECK.
+
+Choose whichever works better.
+
+Show the channels moving together:
+
+SEARCH
+
+PAID
+
+CREATIVE
+
+WEB
+
+EMAIL
+
+CONVERSION
+
+MEASUREMENT
+
+But only when needed.
+
+Explicitly retain:
+
+“This is not a buffet.”
+
+That is a useful differentiator.
+
+CTA:
+
+WORK WITH CULT. →
+
+---
+
+# THE THREE OFFER SECTIONS MUST FEEL DIFFERENT
+
+AUDIT should feel diagnostic.
+
+BUILD should feel kinetic and constructive.
+
+PARTNER should feel operational and rhythmic.
+
+Do not make them three visual variants of the same component.
+
+They solve different problems.
+
+Their art direction should express that.
+
+---
+
+# SCENE 06 — THE OPERATING MODEL
+
+This absorbs both:
+
+HOW HIRING WORKS
+
+and
+
+CAPABILITIES
+
+The current page makes these two fairly standard informational sections.
+
+Recompose them into something much stronger.
+
+Start with:
+
+# YOU BRING
+
+# THE BUSINESS PROBLEM.
+
+Then move across the screen:
+
+YOU WRITE
+
+↓
+
+WE TALK
+
+↓
+
+WE IDENTIFY
+
+↓
+
+WE RECOMMEND
+
+↓
+
+WE SCOPE
+
+↓
+
+WE BUILD
+
+↓
+
+WE MEASURE
+
+Do not make six equal numbered cards.
+
+Let this behave like a working sequence.
+
+Keep the existing substance:
+
+You write about the business, desired change, current activity and approximate investment.
+
+We talk if CULT can materially affect the problem.
+
+We recommend Audit, Build or Partner.
+
+Proposal defines problem, outcome, scope, measurement, timeline and investment.
+
+Onboarding covers access, assets, analytics, stakeholders, baseline and launch plan.
+
+Then execution:
+
+BUILD.
+
+LAUNCH.
+
+MEASURE.
+
+LEARN.
+
+IMPROVE.
+
+Make those five words an oversized cinematic sequence.
+
+---
+
+# CAPABILITIES SHOULD NOT BE A GRID
+
+This is critical.
+
+Delete the current visual approach of seven repeated capability blocks.
+
+It turns CULT back into a conventional agency.
+
+Instead make capabilities a LARGE INTERACTIVE SYSTEM.
+
+Title:
+
+# WHAT WE CAN
+
+# PUT TO WORK.
+
+Then use the seven capabilities as enormous horizontal rows:
+
+01
+
+STRATEGY
++
+GROWTH
+
+02
+
+WEBSITES
++
+CONVERSION
+
+03
+
+SEARCH
++
+DISCOVERY
+
+04
+
+EMAIL
++
+LIFECYCLE
+
+05
+
+PAID MEDIA
++
+PROGRAMMATIC
+
+06
+
+PERFORMANCE
+CREATIVE
+
+07
+
+ANALYTICS
++
+OPTIMIZATION
+
+Each row should occupy significant vertical space.
+
+Hover / scroll / focus reveals contextual material behind or beside it.
+
+For example:
+
+STRATEGY + GROWTH
+
+Audits
+Positioning
+Audience strategy
+Campaign architecture
+Growth roadmaps
+
+SEARCH + DISCOVERY
+
+SEO
+AEO
+Service architecture
+Content clusters
+Local search
+
+PAID MEDIA + PROGRAMMATIC
+
+Google
+Meta
+LinkedIn
+Reddit
+TikTok
+Programmatic
+Retargeting
+
+But these should NOT become little bullet cards.
+
+Make the typography itself the interface.
+
+---
+
+# CONNECT CAPABILITIES TO OUTCOMES
+
+More important:
+
+Do not describe capabilities only by deliverable.
+
+Connect each to the commercial job.
+
+Example:
+
+SEARCH + DISCOVERY
+
+# GET FOUND
+
+# WHEN INTENT EXISTS.
+
+WEB + CONVERSION
+
+# TURN ATTENTION
+
+# INTO ACTION.
+
+EMAIL + LIFECYCLE
+
+# KEEP THE
+
+# RELATIONSHIP.
+
+PAID MEDIA
+
+# BUY ATTENTION
+
+# WITH A JOB.
+
+CREATIVE
+
+# GIVE PEOPLE
+
+# A REASON TO CARE.
+
+MEASUREMENT
+
+# KNOW
+
+# WHAT CHANGED.
+
+STRATEGY
+
+# DECIDE
+
+# WHAT MATTERS.
+
+This makes CULT feel outcome-led.
+
+---
+
+# OPTIONAL INTERACTION
+
+Allow users to select:
+
+I NEED TO...
+
+GET FOUND
+
+CONVERT MORE
+
+CREATE DEMAND
+
+FIX THE SITE
+
+RUN PAID MEDIA
+
+BUILD RETENTION
+
+UNDERSTAND WHAT IS WORKING
+
+Then briefly illuminate which capabilities may be involved.
+
+But this must NOT become a cheesy “take our quiz” widget.
+
+No wizard.
+
+No modal.
+
+No questionnaire.
+
+It should simply demonstrate that commercial problems cross channels.
+
+---
+
+# WORK SHOULD BLEED INTO SERVICES
+
+The current Services page is visually isolated from the sophistication of the Work pages.
+
+Fix this.
+
+Use selective visual fragments from existing CULT studies as evidence.
+
+For example:
+
+HARDLINE
+
+Strategy / Search / Media / Conversion
+
+NOCT.
+
+Creative / Brand / Commerce / Media
+
+AER.
+
+Web / Product / Search / CRM
+
+FIELD.
+
+Search / Booking / Lifecycle
+
+SIGNAL.
+
+B2B / Demand / Conversion
+
+INDEX.
+
+Search / Content / Audience
+
+Do not create six case-study cards.
+
+Instead allow pieces of those worlds to interrupt the Services page.
+
+A freight campaign flashes behind MEDIA.
+
+AER booking UI appears behind WEB + CONVERSION.
+
+INDEX editorial architecture appears behind SEARCH.
+
+NOCT creative appears behind PERFORMANCE CREATIVE.
+
+This makes Services feel connected to Work.
+
+---
+
+# SCENE 07 — START
+
+Do not end with a generic contact strip.
+
+Make the final scene enormous and extremely simple.
+
+Small:
+
+NOT SURE WHAT YOU NEED?
+
+Then:
+
+# GOOD.
+
+Then:
+
+# TELL US
+
+# WHAT NEEDS
+
+# TO MOVE.
+
+Supporting copy:
+
+You do not need to diagnose the channel before contacting CULT.
+
+Bring the business problem.
+
+We will work backward from there.
+
+CTA:
+
+# START A PROJECT →
+
+Secondary:
+
+[hello@cultmedia.house](mailto:hello@cultmedia.house)
+
+This should be one of the strongest endings on the site.
+
+---
+
+# COPY HIERARCHY
+
+The page should communicate these ideas even if a visitor only reads the huge type:
+
+WHAT NEEDS TO MOVE?
+
+MARKETING DOESN’T BREAK IN CHANNELS.
+
+ONE SYSTEM.
+
+FIND THE CONSTRAINT.
+
+BUILD WHAT’S MISSING.
+
+RUN THE SYSTEM.
+
+YOU BRING THE BUSINESS PROBLEM.
+
+BUILD. LAUNCH. MEASURE. LEARN. IMPROVE.
+
+WHAT WE CAN PUT TO WORK.
+
+TELL US WHAT NEEDS TO MOVE.
+
+Everything else supports those statements.
+
+---
+
+# ART DIRECTION
+
+The page should inherit CULT’s controlled-tension language:
+
+massive typography
+
+tiny technical metadata
+
+hard editorial rules
+
+cinematic media
+
+black
+
+white
+
+chrome
+
+CULT pink used surgically
+
+strong emptiness
+
+dense moments
+
+uncomfortable scale shifts
+
+asymmetric composition
+
+precise motion
+
+But do NOT make every section black.
+
+Use tonal changes.
+
+Potential rhythm:
+
+BLACK HERO
+
+↓
+
+WHITE / SYSTEM
+
+↓
+
+BLACK / AUDIT
+
+↓
+
+MEDIA-HEAVY / BUILD
+
+↓
+
+DARK SYSTEM / PARTNER
+
+↓
+
+WHITE / OPERATING MODEL
+
+↓
+
+BLACK / CAPABILITIES
+
+↓
+
+PINK OR WHITE / FINAL CTA
+
+The exact palette can adjust to the existing CULT design system.
+
+No gradients used as decoration.
+
+---
+
+# TYPOGRAPHIC RHYTHM
+
+The current page is too consistent.
+
+Use scale much more aggressively.
+
+10–12px technical labels
+
+16–20px supporting copy
+
+40–60px secondary statements
+
+80–120px chapter copy
+
+160–260px major statements where viewport permits
+
+Some words should nearly break the viewport.
+
+Others should be tiny.
+
+The contrast is the design.
+
+---
+
+# MOTION
+
+Motion should express system behaviour.
+
+Good:
+
+channel labels aligning
+
+a broken element falling out of rhythm
+
+diagnostic information being eliminated
+
+Build outputs replacing one another rapidly
+
+Partner operating rhythm progressing
+
+capability rows revealing relevant work
+
+measurement values locking into place
+
+Bad:
+
+random parallax
+
+floating cards
+
+cursor blobs
+
+particles
+
+3D spheres
+
+generic scroll fades everywhere
+
+motion for motion’s sake
+
+Respect prefers-reduced-motion.
+
+---
+
+# IMAGERY
+
+The existing offer films are useful.
+
+But the page needs stronger direction.
+
+Use media as evidence, not decoration.
+
+AUDIT
+
+Abstract diagnostic / analytical / investigative imagery.
+
+BUILD
+
+Rapid fragments of real-looking work:
+
+campaign
+
+website
+
+search architecture
+
+email
+
+media
+
+creative production
+
+PARTNER
+
+Operating environments:
+
+working sessions
+
+notes
+
+planning
+
+screens
+
+media
+
+measurement
+
+Use cinematic crops.
+
+Do not use generic agency stock photography.
+
+No people pointing at whiteboards.
+
+No fake happy-office imagery.
+
+---
+
+# MOBILE
+
+Do not simply stack everything.
+
+Mobile needs its own rhythm.
+
+Hero remains enormous.
+
+The commercial-system interactions become vertical.
+
+AUDIT / BUILD / PARTNER remain three strong chapters.
+
+Capabilities become large stacked rows, not cards.
+
+Work imagery can bleed edge-to-edge.
+
+Keep CTAs obvious.
+
+Maintain hierarchy.
+
+Avoid horizontal overflow from oversized type.
+
+---
+
+# PRESERVE COMMERCIAL CLARITY
+
+This redesign must still make it immediately clear that CULT offers:
+
+THE ATTENTION AUDIT
+From $1,500
+
+THE GROWTH BUILD
+From $4,000
+
+CULT. PARTNER
+From $4,000 / month
+
+Do not bury pricing.
+
+Do not sacrifice comprehension for art direction.
+
+A potential buyer must be able to understand the three options quickly.
+
+The challenge is:
+
+# MAKE CLARITY FEEL EXPENSIVE.
+
+---
+
+# REMOVE
+
+Do not retain:
+
+the current generic three-column “Which door” comparison
+
+seven equal capability cards
+
+a standard six-row numbered process
+
+repeated service-page rectangles
+
+generic agency icons
+
+bento layouts
+
+rounded SaaS cards
+
+long blocks of explanatory copy
+
+stock agency photography
+
+decorative gradients
+
+meaningless metrics
+
+testimonials that do not exist
+
+fake client logos
+
+fake performance results
+
+---
+
+# DO NOT INVENT PROOF
+
+Do not fabricate:
+
+client results
+
+ROAS
+
+conversion lifts
+
+traffic growth
+
+logos
+
+testimonials
+
+campaign metrics
+
+CULT is currently using self-initiated studies as demonstration work.
+
+Be transparent.
+
+The Services page should gain authority through the quality of the thinking and work—not invented social proof.
+
+---
+
+# DESIGN TEST
+
+When finished, blur all body copy.
+
+The page should still clearly communicate:
+
+A BUSINESS PROBLEM EXISTS.
+
+↓
+
+CULT LOOKS AT THE WHOLE SYSTEM.
+
+↓
+
+FIND THE CONSTRAINT.
+
+↓
+
+BUILD WHAT IS MISSING.
+
+↓
+
+RUN WHAT WORKS.
+
+↓
+
+MEASURE.
+
+↓
+
+IMPROVE.
+
+If that story is not visually obvious, redesign it again.
+
+---
+
+# FINAL QUALITY BAR
+
+The Services page currently feels like supporting material for the Work section.
+
+That must reverse.
+
+It should be one of the strongest pages on the entire CULT site.
+
+A prospect should arrive because they liked the work.
+
+Then Services should make them realize:
+
+# CULT IS NOT JUST GOOD AT MAKING THINGS LOOK INTERESTING.
+
+# CULT UNDERSTANDS HOW THE WHOLE COMMERCIAL SYSTEM WORKS.
+
+Do not make a prettier services page.
+
+# MAKE THE CULT OPERATING MODEL VISIBLE.
+
+
+USER FOLLOW-UP: Each package gets a landing page that we build.
+USER FINAL CREATIVE CORRECTION: Stop referencing the other site. Get creative; this page looks weak compared to the other pages.

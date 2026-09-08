@@ -1,0 +1,895 @@
+export type Study = {
+  slug: string;
+  number: string;
+  name: string;
+  industry: string;
+  disciplines: string[];
+  sentence: string;
+  campaign: string;
+  premise: string;
+  problem: string;
+  position: string;
+  decision: string;
+  system: { name: string; copy: string }[];
+  campaignIdea: string;
+  experience: { title: string; copy: string; steps: string[] };
+  channels: { name: string; job: string }[];
+  search: { intent: string; page: string }[];
+  criteria: { name: string; definition: string }[];
+  artAlt: string;
+  experienceHeadline: string;
+  experienceCTA: string;
+  emailSubject: string;
+  emailBody: string;
+  adLine: string;
+  adCTA: string;
+  accent: string;
+};
+export const studyDisclosure =
+  'This is a self-initiated concept study created by CULT. to demonstrate strategic and creative thinking. The business and brief are fictional.';
+export const resultsDisclosure =
+  'No performance results are reported because this is a self-initiated concept study.';
+export const studies: Study[] = [
+  {
+    slug: 'hardline',
+    number: '001',
+    name: 'HARDLINE.',
+    industry: 'Freight / Logistics / B2B infrastructure',
+    disciplines: [
+      'Brand positioning',
+      'Website strategy',
+      'B2B demand generation',
+      'SEO',
+      'Paid search',
+      'LinkedIn',
+      'Programmatic',
+      'Landing pages',
+      'Measurement',
+    ],
+    sentence: 'Making operational certainty the product.',
+    campaign: 'FAILURE IS EXPENSIVE.',
+    accent: '#c3c8ca',
+    premise:
+      'HARDLINE is a fictional North American freight and logistics operator for high-consequence shipments, industrial supply chains, time-sensitive freight and complex routing.',
+    problem:
+      'Reliable. Fast. Trusted. Experienced. The category repeats the same promises. A procurement lead needs something more useful: evidence that an operator understands what happens when a critical shipment fails.',
+    position:
+      'HARDLINE does not sell freight capacity. It sells reduced operational risk when failure carries a cost.',
+    decision:
+      'Organize the proposition around the consequence of delay—not the size of a fleet. Give buyers a clear route from an operational constraint to a qualified conversation with a routing specialist.',
+    system: [
+      {
+        name: 'A different front door',
+        copy: 'Lead with critical freight, industrial supply chains and complex routing. Each service page would explain the constraint, required shipment information and escalation path.',
+      },
+      {
+        name: 'Demand with a destination',
+        copy: 'Build separate paid-search landing pages for urgent freight and planned industrial transport. Carry the query into the page headline and quote fields.',
+      },
+      {
+        name: 'An operational identity',
+        copy: 'Compressed industrial lettering, steel, hard light and explicit numbering. The language would describe decisions and contingencies instead of unsupported promises.',
+      },
+    ],
+    campaignIdea:
+      '“Failure is expensive.” reframes freight as a business-critical decision. Night-yard photography would anchor OOH; tighter equipment crops and operational questions would carry LinkedIn and contextual display. Every execution would lead to the same specific enquiry path.',
+    experience: {
+      title: 'Qualify the shipment. Then the conversation.',
+      copy: 'A service page would explain routing options before asking for origin, destination, ready date, load details and operational consequence. A paid-search variant would remove unrelated navigation. On mobile, a short first step would capture the route before progressively collecting detail.',
+      steps: [
+        'Identify the shipment constraint',
+        'Enter origin, destination and ready date',
+        'Add load and handling requirements',
+        'Request a routing conversation',
+      ],
+    },
+    channels: [
+      {
+        name: 'Google Search',
+        job: 'Capture urgent and service-specific demand. Split ad groups by shipment need; exclude jobs, tracking and consumer parcel searches.',
+      },
+      {
+        name: 'LinkedIn',
+        job: 'Reach operations and procurement decision-makers with the commercial consequence of missed deadlines. Use lead quality feedback to refine audience choices.',
+      },
+      {
+        name: 'Programmatic / contextual',
+        job: 'Place industrial creative beside supply-chain and manufacturing coverage. Limit frequency; separate prospecting from consented remarketing.',
+      },
+      {
+        name: 'OOH',
+        job: 'Explore placements around freight corridors and industrial districts. Use one strong proposition and an easy-to-recall brand, not a crowded list of services.',
+      },
+    ],
+    search: [
+      {
+        intent: 'Time-sensitive freight',
+        page: 'A dedicated service page with shipment requirements, contingencies and a quote path.',
+      },
+      {
+        intent: 'Industrial supply-chain transport',
+        page: 'Sector pages built around load constraints, not interchangeable city doorway pages.',
+      },
+      {
+        intent: 'Complex routing questions',
+        page: 'Useful guides explaining what information changes a routing decision, with expert-reviewed answers.',
+      },
+    ],
+    criteria: [
+      {
+        name: 'Qualified quote requests',
+        definition:
+          'Requests with a valid commercial route, feasible load and identifiable business need.',
+      },
+      {
+        name: 'Cost per qualified lead',
+        definition:
+          'Media cost divided by enquiries accepted against the agreed qualification definition.',
+      },
+      {
+        name: 'Search visibility',
+        definition:
+          'Relevant non-branded impressions and qualified organic visits to service pages.',
+      },
+      {
+        name: 'Landing-page conversion rate',
+        definition:
+          'Completed quote requests divided by eligible landing-page sessions; inspect by intent and device.',
+      },
+      {
+        name: 'Sales-qualified opportunity rate',
+        definition:
+          'Accepted sales opportunities divided by qualified enquiries, joined to CRM stages.',
+      },
+      {
+        name: 'Pipeline contribution',
+        definition:
+          'Opportunity value associated with qualified enquiries, with attribution limitations recorded.',
+      },
+    ],
+    artAlt:
+      'HARDLINE concept campaign: night freight, wet steel and the line Failure is expensive.',
+    experienceHeadline: 'When it has to move, it moves.',
+    experienceCTA: 'Plan a critical shipment',
+    emailSubject: 'Before we plan the route.',
+    emailBody:
+      'Origin. Destination. Ready date. The details that determine what a critical shipment needs next.',
+    adLine: 'A missed delivery is rarely just a missed delivery.',
+    adCTA: 'Discuss the shipment',
+  },
+  {
+    slug: 'noct',
+    number: '002',
+    name: 'NOCT.',
+    industry: 'Fragrance / Beauty / Ecommerce',
+    accent: '#b78576',
+    disciplines: [
+      'Positioning',
+      'Creative direction',
+      'Ecommerce',
+      'Paid social',
+      'Performance creative',
+      'Email lifecycle',
+      'CRO',
+      'Retargeting',
+    ],
+    sentence: 'Turning an atmosphere into a reason to buy.',
+    campaign: 'WEAR THE AFTERMATH.',
+    premise:
+      'NOCT is a fictional independent fragrance house producing severe, atmospheric fragrances for people unmoved by conventional luxury perfume branding.',
+    problem:
+      'Beige luxury, heritage clichés and interchangeable bottle photography make a new fragrance difficult to distinguish. An arresting campaign can earn attention, but a shopper still cannot smell a product through a screen.',
+    position:
+      'Fragrance for after dark. Make the character unmistakable, then make discovery easier.',
+    decision:
+      'Build the brand around an after-dark sensibility, but give the product page a practical job: translate mood into notes, intensity, format and a confident first purchase. Creative desire and product clarity should reinforce each other.',
+    system: [
+      {
+        name: 'A recognizable photographic language',
+        copy: 'Hard flash, black glass, chrome and skin. A restrained oxblood accent would belong to NOCT; CULT’s magenta stays in the surrounding interface.',
+      },
+      {
+        name: 'A product page that earns the cart',
+        copy: 'Pair atmospheric campaign images with clear fragrance notes, format choices, delivery details and an optional discovery pathway. Do not invent customer reviews or scarcity.',
+      },
+      {
+        name: 'A lifecycle beyond the launch',
+        copy: 'Plan an opt-in welcome sequence, product education and relevant replenishment prompts. Separate first-time discovery from returning-customer messages.',
+      },
+    ],
+    campaignIdea:
+      '“Wear the aftermath.” gives NOCT an emotional world without borrowing heritage. Macro product frames would establish recognition; skin and flash would create a second creative territory. Short vertical edits would test the opening image, reveal of the bottle and clarity of the product proposition—not pretend that a beautiful film guarantees sales.',
+    experience: {
+      title: 'Make the unseen product easier to choose.',
+      copy: 'The product page would join desire to decision: notes and character first, format and delivery next, then a clear cart action. A launch landing page would offer a lower-commitment discovery path. Checkout would surface delivery costs and guest purchase before the final step; no forced account or false urgency.',
+      steps: [
+        'Discover the fragrance character',
+        'Compare notes and format',
+        'Review delivery and returns',
+        'Choose the first purchase',
+      ],
+    },
+    channels: [
+      {
+        name: 'Meta / paid social',
+        job: 'Use contrasting product-led and atmosphere-led executions to learn which message attracts qualified new shoppers. Separate creative testing from audience expansion.',
+      },
+      {
+        name: 'TikTok / Reels',
+        job: 'A proposed three-shot sequence: flash on skin, chrome reflection, bottle reveal. Keep the fragrance name and discovery action legible in the final frame.',
+      },
+      {
+        name: 'Retargeting',
+        job: 'Show product notes or discovery options to consented visitors who engaged but did not purchase. Exclude purchasers and limit frequency.',
+      },
+      {
+        name: 'Email lifecycle',
+        job: 'A three-message launch: introduce the house, explain the fragrance, invite discovery. Purchase behavior would determine what follows, rather than a universal discount sequence.',
+      },
+    ],
+    search: [
+      {
+        intent: 'Fragrance character',
+        page: 'Build useful pages around scent notes and wearing occasions, with accurate ingredient and product information confirmed before launch.',
+      },
+      {
+        intent: 'First purchase uncertainty',
+        page: 'Answer format, sampling, delivery and returns questions close to the product decision.',
+      },
+      {
+        intent: 'Brand discovery',
+        page: 'A clear house story, product naming and structured product information would connect campaign recognition to branded search.',
+      },
+    ],
+    criteria: [
+      {
+        name: 'New-customer CAC',
+        definition:
+          'Acquisition cost divided by first-time customers, with returning purchasers excluded.',
+      },
+      {
+        name: 'Product-page conversion',
+        definition:
+          'Eligible product-page sessions that lead to an order; segment by source and device.',
+      },
+      {
+        name: 'Email capture',
+        definition:
+          'Consented subscribers per eligible visitor, with subscriber quality monitored beyond sign-up.',
+      },
+      {
+        name: 'First-purchase conversion',
+        definition:
+          'Discovery visitors who become first-time purchasers within an agreed observation window.',
+      },
+      {
+        name: 'Creative hold rate',
+        definition:
+          'Retention through defined points in a video, interpreted alongside qualified traffic and purchase intent.',
+      },
+      {
+        name: 'Repeat purchase',
+        definition:
+          'Returning purchase behavior by cohort, evaluated only once the product lifecycle provides enough time.',
+      },
+    ],
+    artAlt:
+      'NOCT self-initiated fragrance campaign with black glass, chrome, skin and Wear the aftermath typography.',
+    experienceHeadline: 'Fragrance for after dark.',
+    experienceCTA: 'Discover Aftermath',
+    emailSubject: 'The night has a signature.',
+    emailBody:
+      'Mineral. Smoke. Skin. Meet Aftermath: a fragrance concept built around what stays with you. Explore the notes before choosing your format.',
+    adLine: 'Some things stay after you leave.',
+    adCTA: 'Meet the fragrance',
+  },
+  {
+    slug: 'signal',
+    number: '003',
+    name: 'SIGNAL.',
+    industry: 'B2B intelligence / Analytics software',
+    accent: '#683c20',
+    disciplines: [
+      'Positioning',
+      'Website',
+      'SEO',
+      'Content',
+      'Paid search',
+      'LinkedIn',
+      'Programmatic',
+      'Conversion',
+      'Lead nurture',
+    ],
+    sentence: 'Turning more information into a clearer next decision.',
+    campaign: 'KNOW WHAT MATTERS NEXT.',
+    premise:
+      'SIGNAL is a fictional B2B intelligence product that turns fragmented operational or market data into prioritized intelligence for commercial teams.',
+    problem:
+      'The analytics category promises more dashboards and “AI-powered insights” without explaining how a team would make a better decision. Buyers need to understand the action the product supports, not another abstract capability list.',
+    position: 'The value is not more data. It is knowing what deserves action.',
+    decision:
+      'Organize the product story around a decision: what changed, why it matters and what to review next. Make the evidence and limitations visible. Sell a useful operating habit rather than an unspecified intelligence engine.',
+    system: [
+      {
+        name: 'A decision-first website',
+        copy: 'The homepage would establish the difference between data collection and prioritization. Product pages would show the evidence behind a recommendation, with example content clearly identified.',
+      },
+      {
+        name: 'A useful content engine',
+        copy: 'Build a practical Priority Brief, comparison pages and decision-oriented search content. Address the work a buyer is trying to improve instead of repeating category buzzwords.',
+      },
+      {
+        name: 'A qualified demo pathway',
+        copy: 'Ask about the team’s decision problem and operating context. A short nurture sequence would connect that problem to an appropriate product demonstration.',
+      },
+    ],
+    campaignIdea:
+      '“Know what matters next.” gives the product a clear job. Thermal print, annotated paper and physical instruments make fragmented information tangible. The Priority Brief would carry the same identity into a useful lead magnet; LinkedIn and contextual display would frame a business question rather than show decorative dashboards.',
+    experience: {
+      title: 'Show the decision before asking for the demo.',
+      copy: 'A product experience would explain an example signal, its source and the decision it could inform. The demo path would ask for work context before scheduling. A comparison/search page would help a buyer distinguish dashboards from prioritized intelligence without inventing competitor limitations or product integrations.',
+      steps: [
+        'Name the decision problem',
+        'Inspect an example signal',
+        'Share team and operating context',
+        'Request a relevant demonstration',
+      ],
+    },
+    channels: [
+      {
+        name: 'Google Search',
+        job: 'Target problem-aware and category-aware intent with distinct pages. Exclude training, job and generic data-definition queries where they do not signal a buying need.',
+      },
+      {
+        name: 'LinkedIn',
+        job: 'Reach commercial and operational leaders with specific decision-friction scenarios. Move interested readers to a relevant product explanation or the Priority Brief.',
+      },
+      {
+        name: 'Programmatic / contextual',
+        job: 'Use business and industry context to introduce the problem. Apply frequency controls and measure qualified engagement, not just cheap impressions.',
+      },
+      {
+        name: 'Lead nurture',
+        job: 'A proposed sequence would deliver the brief, unpack one decision pattern and invite a problem-specific demo. Consent and sales-stage feedback would control subsequent contact.',
+      },
+    ],
+    search: [
+      {
+        intent: 'Data without a decision',
+        page: 'Problem pages about fragmented commercial information and prioritization workflows, with useful examples.',
+      },
+      {
+        intent: 'Dashboard vs intelligence',
+        page: 'A comparison page that explains categories and tradeoffs; no unverified claims about named competitors.',
+      },
+      {
+        intent: 'How should teams prioritize?',
+        page: 'A content cluster on evidence, review cadence and action ownership, with concise expert-reviewed answers suitable for search and AEO.',
+      },
+    ],
+    criteria: [
+      {
+        name: 'Qualified demos',
+        definition:
+          'Requests from relevant teams with an identifiable decision problem and plausible product fit.',
+      },
+      {
+        name: 'Cost per qualified demo',
+        definition: 'Acquisition cost divided by sales-accepted demo requests.',
+      },
+      {
+        name: 'Search visibility',
+        definition:
+          'Relevant non-branded impressions and qualified organic visits to problem/product pages.',
+      },
+      {
+        name: 'Content-assisted conversions',
+        definition:
+          'Qualified enquiries with observed content engagement, with attribution scope made explicit.',
+      },
+      {
+        name: 'Pipeline',
+        definition:
+          'Sales opportunity creation associated with qualified enquiries; reconcile marketing events to CRM stages.',
+      },
+      {
+        name: 'Sales-cycle influence',
+        definition:
+          'Observed content and campaign engagement across sales stages, without assuming that correlation proves causation.',
+      },
+    ],
+    artAlt:
+      'SIGNAL self-initiated intelligence campaign using a physical printer, a priority slip and Know what matters next.',
+    experienceHeadline: 'A signal. A reason. A next step.',
+    experienceCTA: 'Discuss your decision',
+    emailSubject: 'More information is not the next step.',
+    emailBody:
+      'The Priority Brief starts with a simpler question: what changed enough to deserve action? Explore a practical framework for separating evidence from noise.',
+    adLine: 'The report is not the decision.',
+    adCTA: 'Read the Priority Brief',
+  },
+  {
+    slug: 'splice',
+    number: '004',
+    name: 'SPLICE.',
+    industry: 'Post-production / Finishing / Motion',
+    disciplines: [
+      'Brand positioning',
+      'Website',
+      'Agency outreach',
+      'Showreel strategy',
+      'Paid social',
+      'SEO',
+      'Email',
+      'Lead qualification',
+    ],
+    sentence: 'Making the last cut the reason they trust you.',
+    campaign: 'CUT UNTIL IT HURTS.',
+    accent: '#ef1472',
+    premise:
+      'SPLICE. is a fictional boutique finishing house for commercials, trailers and music videos—colour, sound, pace and nerve in the last room before the work hits the world.',
+    problem:
+      'Most post houses sell gear lists and friendly turnaround. Creative directors already know who can push pixels. What they cannot see is who will protect the cut when the client wants it softer, safer and forgettable.',
+    position:
+      'SPLICE. does not sell hours in a suite. It sells a finishing partner that cuts until the work has a pulse—and knows when to stop.',
+    decision:
+      'Organize the brand around consequence in the edit bay: what gets cut, what stays sharp, and how a project moves from rough to release without losing nerve. Give agencies a clear path from reel to a scoped booking.',
+    system: [
+      {
+        name: 'A finishing identity with teeth',
+        copy: 'Giallo-leaning print language, razor motifs and brutalist type would replace the soft “creative studio” look. The work should feel dangerous enough to trust with a launch.',
+      },
+      {
+        name: 'A site that qualifies the brief',
+        copy: 'Lead with selected finishing work, then route visitors into project type, timeline, delivery format and stake. Soft enquiries get redirected; serious briefs get a scoped conversation.',
+      },
+      {
+        name: 'Demand aimed at the decision',
+        copy: 'Agency outreach, search for finishing and colour intent, and short-form proof that shows pace—not gear porn. Every execution lands on the same booking path.',
+      },
+    ],
+    campaignIdea:
+      '“Cut until it hurts.” reframes finishing as editorial courage. OOH and print would use razor, film strip and spiral-monitor motifs; LinkedIn and agency mail would ask what got softened last time. Every piece leads to a scoped project intake.',
+    experience: {
+      title: 'Scope the cut. Then the suite.',
+      copy: 'A project page would explain finishing lanes before asking for format, delivery date, reference links and the commercial stake. A paid variant would strip navigation. Mobile would capture project type first, then timeline and files.',
+      steps: [
+        'Choose the finishing lane',
+        'Add delivery date and formats',
+        'Link references and rough cut',
+        'Request a scoped suite booking',
+      ],
+    },
+    channels: [
+      {
+        name: 'Agency outreach',
+        job: 'Reach producers and CDs with proof of nerve—selected cuts, not capability lists. Track replies and scoped briefs, not vanity opens.',
+      },
+      {
+        name: 'Google Search',
+        job: 'Capture finishing, colour and trailer-post intent. Separate consumer film-school noise from commercial production queries.',
+      },
+      {
+        name: 'Paid social / short proof',
+        job: 'Show before/after pace and colour decisions in tight cuts. Frequency-cap; send to intake, not a generic contact form.',
+      },
+      {
+        name: 'Email / zine',
+        job: 'A periodic cut letter with one lesson from the bay. Build a list of producers who want sharpness, not newsletters.',
+      },
+    ],
+    search: [
+      {
+        intent: 'Commercial finishing / colour house',
+        page: 'A service page that defines finishing lanes, turnaround expectations and how a brief gets scoped.',
+      },
+      {
+        intent: 'Trailer post / music video grade',
+        page: 'Vertical pages with selected work, delivery formats and a booking path that asks for stake and date first.',
+      },
+      {
+        intent: 'Agency preferred finishing partner',
+        page: 'A partner page for repeat producers: working rules, confidentiality and how to open a suite without a pitch theatre.',
+      },
+    ],
+    criteria: [
+      {
+        name: 'Scoped booking rate',
+        definition: 'Share of serious enquiries that become a dated, priced finishing scope.',
+      },
+      {
+        name: 'Agency repeat rate',
+        definition: 'Share of booked projects from producers who return within 12 months.',
+      },
+      {
+        name: 'Reel-assisted conversion',
+        definition: 'Bookings that viewed selected work before submitting a brief.',
+      },
+      {
+        name: 'Time to first scope',
+        definition: 'Median hours from qualified enquiry to first written scope.',
+      },
+      {
+        name: 'Search visibility',
+        definition: 'Qualified impressions for finishing and colour intents after launch validation.',
+      },
+      {
+        name: 'Pipeline contribution',
+        definition: 'Booked suite days attributable to CULT.-designed demand paths.',
+      },
+    ],
+    artAlt: 'Giallo collage: leather glove, razor, film strip, spiral monitor and torn slate.',
+    experienceHeadline: 'What are we finishing?',
+    experienceCTA: 'Request a suite',
+    emailSubject: 'The cut that stayed sharp.',
+    emailBody:
+      'Most finishing softens the work until it behaves. SPLICE. is the last room before release—colour, sound, pace and the nerve to leave the cut alone when it already hurts in the right way.',
+    adLine: 'CUT UNTIL IT HURTS.',
+    adCTA: 'Scope a project',
+  },
+  {
+    slug: 'latch',
+    number: '005',
+    name: 'LATCH.',
+    industry: 'Access control / Venues / Production',
+    disciplines: [
+      'Brand positioning',
+      'Website',
+      'Product narrative',
+      'B2B outreach',
+      'Paid social',
+      'SEO',
+      'Email',
+      'Lead qualification',
+    ],
+    sentence: 'Making the door the brand.',
+    campaign: 'WHO GETS IN.',
+    accent: '#ef1472',
+    premise:
+      'LATCH. is a fictional access-control system for clubs, warehouses and production sets—credentials, doors and deny-lists with the same nerve as the rooms they protect.',
+    problem:
+      'Most access vendors sell panels, readers and integrations. Operators already know the hardware. What they cannot see is who will keep the door sharp when guest lists, crews and VIPs collide at midnight.',
+    position:
+      'LATCH. does not sell a catalog of readers. It sells a door that decides—clearly, fast, and with a record that holds up in the morning.',
+    decision:
+      'Organize the brand around the moment of entry: approve, reject, escalate. Give venue and production buyers a clear path from threat model to a scoped install.',
+    system: [
+      {
+        name: 'An identity with teeth',
+        copy: 'Giallo-leaning print language, latch and peephole motifs, brutalist type. The brand should feel exclusive enough to trust with the list.',
+      },
+      {
+        name: 'A site that qualifies the room',
+        copy: 'Lead with selected installs, then route into venue type, door count, credential model and stake. Tire-kickers get redirected; serious briefs get a scoped survey.',
+      },
+      {
+        name: 'Demand aimed at the decision',
+        copy: 'Outreach to venue ops and production managers, search for access-control intent, and short proof of deny/approve moments—not feature grids. Every piece lands on the same intake.',
+      },
+    ],
+    campaignIdea:
+      '“Who gets in.” reframes access as editorial courage at the threshold. OOH and print use glove-on-latch, peephole eye and REJECT stamps; LinkedIn asks what slipped through last weekend. Every piece leads to a scoped site survey.',
+    experience: {
+      title: 'Scope the doors. Then the install.',
+      copy: 'A project page would explain latch lanes before asking for venue type, door count, credential model and go-live date. A paid variant would strip navigation. Mobile would capture venue type first, then doors and timeline.',
+      steps: [
+        'Choose the venue / set type',
+        'Add door count and credential model',
+        'Link floor plans or current system',
+        'Request a scoped site survey',
+      ],
+    },
+    channels: [
+      {
+        name: 'Venue / production outreach',
+        job: 'Reach ops and production managers with proof of door decisions—not SKU lists. Track surveys booked, not vanity opens.',
+      },
+      {
+        name: 'Google Search',
+        job: 'Capture access-control, door entry and venue-security intent. Separate consumer smart-lock noise from commercial installs.',
+      },
+      {
+        name: 'Paid social / short proof',
+        job: 'Show approve/deny moments in tight cuts. Frequency-cap; send to survey intake, not a generic contact form.',
+      },
+      {
+        name: 'Email / door letter',
+        job: 'A periodic letter with one lesson from the threshold—guest-list failures, crew credentials, VIP exceptions.',
+      },
+    ],
+    search: [
+      {
+        intent: 'Venue access control / door entry system',
+        page: 'A service page that defines latch lanes, install scope and how a site survey gets booked.',
+      },
+      {
+        intent: 'Production set credential / crew access',
+        page: 'Vertical pages for set and warehouse installs with selected work and a survey path that asks door count first.',
+      },
+      {
+        intent: 'Club guest list access system',
+        page: 'A nightlife page: guest lists, VIP exceptions and deny records that hold up in the morning.',
+      },
+    ],
+    criteria: [
+      {
+        name: 'Survey booking rate',
+        definition: 'Share of serious enquiries that become a dated site survey.',
+      },
+      {
+        name: 'Venue repeat rate',
+        definition: 'Share of installs from operators who return for another door or site within 12 months.',
+      },
+      {
+        name: 'Proof-assisted conversion',
+        definition: 'Surveys booked after viewing approve/deny proof content.',
+      },
+      {
+        name: 'Time to first survey',
+        definition: 'Median hours from qualified enquiry to first scheduled survey.',
+      },
+      {
+        name: 'Search visibility',
+        definition: 'Qualified impressions for access-control and venue-security intents after launch validation.',
+      },
+      {
+        name: 'Pipeline contribution',
+        definition: 'Scoped installs attributable to CULT.-designed demand paths.',
+      },
+    ],
+    artAlt: 'Giallo collage: leather glove on door latch, peephole eye, magenta REJECT stamp and torn slate.',
+    experienceHeadline: 'What are we locking?',
+    experienceCTA: 'Book a site survey',
+    emailSubject: 'The list is not the door.',
+    emailBody:
+      'Most access vendors sell panels and hope the night behaves. LATCH. is the decision at the threshold—who gets in, who stays out, and a record that still makes sense in daylight.',
+    adLine: 'WHO GETS IN.',
+    adCTA: 'Book a site survey',
+  },
+  {
+    slug: 'volt',
+    number: '006',
+    name: 'VØLT.',
+    industry: 'Temporary power / Film / Festivals',
+    disciplines: [
+      'Brand positioning',
+      'Website',
+      'Product narrative',
+      'B2B outreach',
+      'Paid social',
+      'SEO',
+      'Email',
+      'Lead qualification',
+    ],
+    sentence: 'Keeping the set alive.',
+    campaign: 'KEEP THE SET ALIVE.',
+    accent: '#E85D04',
+    premise:
+      'VØLT. is a fictional temporary-power company for film sets, festivals and location shoots—silent-running generators, industry-safe distribution and 24/7 crew that treat the take like sacred ground.',
+    problem:
+      'Most rental houses sell boxes and hope the night holds. Producers already know generators. What they cannot see is who will keep power clean, quiet and on when the festival runs long and the boom is live.',
+    position:
+      'VØLT. does not sell a catalog of gensets. It sells a set that stays alive—silent where it matters, 480V-ready where it counts, and staffed when something trips at 3am.',
+    decision:
+      'Organize the brand around the moment power fails or holds: keep the set alive. Give UPMs, gaffers and festival ops a clear path from load estimate to a location quote.',
+    system: [
+      {
+        name: 'An identity with voltage',
+        copy: 'Giallo forensic collage, leather glove on cable, extreme eye, torn paper, hazard orange and cyan. Brutalist type with periods. The brand should feel industrial enough to trust with the shoot.',
+      },
+      {
+        name: 'A site that qualifies the load',
+        copy: 'Lead with selected location work, then route into shoot type, dates, estimated load and site access. Tire-kickers get redirected; serious briefs get a quote path.',
+      },
+      {
+        name: 'Demand aimed at the decision',
+        copy: 'Outreach to unit managers and festival producers, search for film-set and festival power intent, and short proof of silent/safe/24-7 moments—not SKU grids. Every piece lands on the same quote intake.',
+      },
+    ],
+    campaignIdea:
+      '“Keep the set alive.” reframes temporary power as editorial courage on location. Meta and print use glove-on-cable, peephole eye, distro boxes and festival cyan beams; LinkedIn asks what killed the take last weekend. Every piece leads to a location quote.',
+    experience: {
+      title: 'Scope the load. Then the quote.',
+      copy: 'A project page would explain silent running, 480V distribution and on-site support before asking for shoot type, dates, estimated load and access. A paid variant would strip navigation. Mobile would capture shoot type first, then dates and load.',
+      steps: [
+        'Choose the shoot / festival type',
+        'Add dates and estimated load',
+        'Link site map or power plan',
+        'Request a location quote',
+      ],
+    },
+    channels: [
+      {
+        name: 'Production / festival outreach',
+        job: 'Reach UPMs, gaffers and festival ops with proof of silent and safe power—not gen catalogs. Track quotes booked, not vanity opens.',
+      },
+      {
+        name: 'Google Search',
+        job: 'Capture film-set generator, temporary power and festival-power intent. Separate consumer camping-gen noise from commercial location work.',
+      },
+      {
+        name: 'Paid social / short proof',
+        job: 'Show keep-alive moments in tight cuts. Frequency-cap; send to quote intake, not a generic contact form.',
+      },
+      {
+        name: 'Email / set letter',
+        job: 'A periodic letter with one lesson from location—noise kills, trips at 3am, weekend festival loads.',
+      },
+    ],
+    search: [
+      {
+        intent: 'Film set generator / temporary power rental',
+        page: 'A service page that defines silent running, distribution scope and how a location quote gets booked.',
+      },
+      {
+        intent: 'Festival temporary power / multi-day stage power',
+        page: 'Vertical pages for festival and outdoor installs with selected work and a quote path that asks load first.',
+      },
+      {
+        intent: '480V location distribution / silent film generator',
+        page: 'A technical page: 480V 3Ø 60HZ-ready distribution, any load, support that stays on site.',
+      },
+    ],
+    criteria: [
+      {
+        name: 'Quote booking rate',
+        definition: 'Share of serious enquiries that become a dated location quote.',
+      },
+      {
+        name: 'Production repeat rate',
+        definition: 'Share of jobs from producers who return for another shoot or festival within 12 months.',
+      },
+      {
+        name: 'Proof-assisted conversion',
+        definition: 'Quotes booked after viewing keep-alive / silent / 24-7 proof content.',
+      },
+      {
+        name: 'Time to first quote',
+        definition: 'Median hours from qualified enquiry to first location quote.',
+      },
+      {
+        name: 'Search visibility',
+        definition: 'Qualified impressions for film-set and festival-power intents after launch validation.',
+      },
+      {
+        name: 'Pipeline contribution',
+        definition: 'Scoped power jobs attributable to CULT.-designed demand paths.',
+      },
+    ],
+    artAlt: 'Giallo forensic collage: cyan-halftone eye, black leather glove on power cables, VØLT. distro box, festival beams, torn paper and hazard orange type.',
+    experienceHeadline: 'What are we powering?',
+    experienceCTA: 'Get a location quote',
+    emailSubject: 'Keep the set alive.',
+    emailBody:
+      'Most rental houses sell boxes and hope the night behaves. VØLT. is the power that stays—silent where it matters, 480V-ready where it counts, and on location when something trips.',
+    adLine: 'KEEP THE SET ALIVE.',
+    adCTA: 'Get a location quote',
+  },
+  {
+    slug: 'vial',
+    number: '007',
+    name: 'VIAL.',
+    industry: 'Fragrance / Small-batch / Evidence retail',
+    disciplines: [
+      'Brand positioning',
+      'Website',
+      'Product narrative',
+      'Paid social',
+      'SEO',
+      'Email',
+      'Retail / stockist',
+    ],
+    sentence: 'Worn like a mark.',
+    campaign: 'BATCH DROP.',
+    accent: '#C41212',
+    premise:
+      'VIAL. is a fictional small-batch fragrance house that treats every drop like evidence—batch-coded, stamped, and released in windows that close.',
+    problem:
+      'Most perfume brands sell pretty bottles and soft lifestyle. Collectors already know notes. What they cannot see is which run is real, limited, and still open.',
+    position:
+      'VIAL. does not sell a seasonal mood board. It sells a sealed batch—glove-handled, stamp-verified, and gone when the window closes.',
+    decision:
+      'Organize the brand around the drop as forensic event: batch codes, reject/approve stamps, and a clear path from teaser to claim.',
+    system: [
+      {
+        name: 'An identity that feels like evidence',
+        copy: 'LATCH DNA in B/W/red: peephole eye, leather glove, vial, REJECT/APPROVE stamps, red laser, torn paper, brutalist stacked type with a square period.',
+      },
+      {
+        name: 'A site that opens the window',
+        copy: 'Lead with the live batch, then route into scent notes, batch code, and claim / waitlist. Tire-kickers browse; serious buyers hit the drop.',
+      },
+      {
+        name: 'Demand aimed at the drop',
+        copy: 'Meta and Stories push Batch Drop / Stamp / Hero Glove creatives. Email is a chain-of-custody letter. Every piece lands on the open window.',
+      },
+    ],
+    campaignIdea:
+      '“Batch Drop.” reframes fragrance as a limited forensic release. Meta feed and Stories use glove-on-vial, stamped 004A labels, and peephole eyes. Every piece leads to the open window.',
+    experience: {
+      title: 'Open the window. Then claim the batch.',
+      copy: 'A drop page would show batch code, notes and remaining units before asking for email or checkout. Mobile captures claim first.',
+      steps: [
+        'See the live batch',
+        'Read notes + batch code',
+        'Claim or join waitlist',
+        'Get the custody letter',
+      ],
+    },
+    channels: [
+      {
+        name: 'Paid social / drop proof',
+        job: 'Show Batch Drop, Stamp 004A and Hero Glove frames. Frequency-cap; send to the open window.',
+      },
+      {
+        name: 'Email / custody letter',
+        job: 'A periodic letter with one batch lesson—reject stamps, window timing, stockist seals.',
+      },
+      {
+        name: 'Stockist / press',
+        job: 'Evidence-kit lookbooks for stockists and editors—not soft lifestyle decks.',
+      },
+      {
+        name: 'Search',
+        job: 'Capture niche fragrance and limited-drop intent once the site is live.',
+      },
+    ],
+    search: [
+      {
+        intent: 'Small-batch fragrance / limited perfume drop',
+        page: 'A drop page that defines batch codes, window timing and how to claim.',
+      },
+      {
+        intent: 'Evidence / forensic perfume brand',
+        page: 'A brand page that owns the glove-and-stamp identity without soft lifestyle filler.',
+      },
+      {
+        intent: 'Stockist fragrance / niche perfume wholesale',
+        page: 'A stockist path with evidence-kit lookbooks and a wholesale form.',
+      },
+    ],
+    criteria: [
+      {
+        name: 'Drop claim rate',
+        definition: 'Share of window visitors who claim a bottle before close.',
+      },
+      {
+        name: 'Waitlist conversion',
+        definition: 'Share of waitlist who buy the next batch within 7 days of open.',
+      },
+      {
+        name: 'Creative-assisted conversion',
+        definition: 'Claims after viewing Batch Drop / Stamp / Hero creatives.',
+      },
+      {
+        name: 'Time to claim',
+        definition: 'Median minutes from open window to first claim.',
+      },
+      {
+        name: 'Stockist requests',
+        definition: 'Qualified stockist forms from evidence-kit traffic.',
+      },
+      {
+        name: 'Pipeline contribution',
+        definition: 'Revenue attributable to CULT.-designed drop paths.',
+      },
+    ],
+    artAlt: 'LATCH forensic collage: leather glove holding a glass vial, peephole eye, REJECT/APPROVE stamps, red laser, torn paper, brutalist VIAL. type.',
+    experienceHeadline: 'What batch is open?',
+    experienceCTA: 'Claim the batch',
+    emailSubject: 'Worn like a mark.',
+    emailBody:
+      'Most perfume brands sell pretty bottles and soft light. VIAL. is the sealed run—batch-coded, glove-handled, and gone when the window closes.',
+    adLine: 'BATCH DROP.',
+    adCTA: 'Claim the batch',
+  },
+
+];
+export function getStudy(slug: string) {
+  return studies.find((study) => study.slug === slug);
+}
+export function nextStudy(slug: string) {
+  return studies[
+    (studies.findIndex((study) => study.slug === slug) + 1) % studies.length
+  ];
+}

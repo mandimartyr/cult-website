@@ -1,0 +1,280 @@
+/* Final interaction and reading refinements. No content depends on animation. */
+:root {
+  --cult-ease: cubic-bezier(0.22, 0.78, 0.2, 1);
+}
+main :is(p, li) {
+  text-wrap: pretty;
+}
+main :is(h2, h3) {
+  text-wrap: balance;
+}
+main :is(section[id], div[id], figure[id]) {
+  scroll-margin-top: 32px;
+}
+:where(a, button, input, textarea, select):focus-visible {
+  outline: 2px solid #ff398d;
+  outline-offset: 5px;
+}
+.cg-study-card .cg-study-image img {
+  transition: scale 550ms var(--cult-ease);
+}
+.cg-study-title > span,
+.cg-study-link,
+.next-study-name,
+.ae-route-arrow {
+  transition: translate 250ms var(--cult-ease);
+}
+.cg-poster .cg-art {
+  transition:
+    translate 350ms var(--cult-ease),
+    box-shadow 350ms var(--cult-ease);
+}
+:where(.action, .sv-link, .ae-button, .pk-controls button, .cw-demo-button) {
+  transition:
+    background-color 180ms,
+    color 180ms,
+    translate 180ms var(--cult-ease);
+}
+.contact-form-wrap :is(input, textarea, select) {
+  transition:
+    border-color 180ms,
+    background-color 180ms;
+}
+.contact-form-wrap :is(input, textarea, select):focus {
+  background: #171313;
+  border-color: #ff398d;
+}
+html.riso:not(:has(.home-page)) .contact-page .contact-hero {
+  min-height: 0;
+  padding-top: 125px;
+  padding-bottom: 65px;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+html.riso:not(:has(.home-page))
+  .contact-page
+  .contact-hero
+  h1.cult-poster-title {
+  font-size: clamp(72px, 17.5vw, 260px);
+}
+html.riso:not(:has(.home-page)) .contact-page .contact-layout {
+  margin-top: 0;
+  padding-top: 30px;
+}
+.pk-page .pk-intro {
+  max-width: 55ch;
+  line-height: 1.55;
+}
+.aer-page .ae-lead,
+.case-field .case-section-heading > p {
+  max-width: 52ch;
+}
+.cg-studies-heading > p,
+.cw-heading > p {
+  max-width: 36ch;
+}
+.cw-mode button,
+.cg-dialog button,
+.menu-toggle {
+  min-height: 44px;
+}
+@media (hover: hover) and (pointer: fine) {
+  .cg-study-card:hover .cg-study-image img {
+    scale: 1.035;
+  }
+  .cg-study-card:hover .cg-study-title > span {
+    translate: 4px -4px;
+  }
+  .cg-study-card:hover .cg-study-link {
+    translate: 4px 0;
+  }
+  .cg-poster:hover .cg-art {
+    translate: 0 -5px;
+    box-shadow: 0 7px 0 #ef1472;
+  }
+  .next-study-link:hover .next-study-name {
+    translate: 8px 0;
+  }
+  .ae-route-poster:hover .ae-route-arrow {
+    translate: 7px -7px;
+  }
+  :where(.action, .sv-link, .ae-button, .cw-demo-button):hover {
+    translate: 0 -2px;
+  }
+}
+@media (max-width: 650px) {
+  html.riso:not(:has(.home-page)) .contact-page .contact-hero {
+    padding-top: 110px;
+    padding-bottom: 35px;
+  }
+  html.riso:not(:has(.home-page))
+    .contact-page
+    .contact-hero
+    h1.cult-poster-title {
+    font-size: 18vw;
+  }
+  .cg-studies,
+  .cw-section {
+    scroll-margin-top: 20px;
+  }
+  .contact-email {
+    overflow-wrap: anywhere;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto !important;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+  .cg-study-card:hover .cg-study-image img {
+    scale: 1;
+  }
+  .cg-poster:hover .cg-art,
+  :where(.action, .sv-link, .ae-button, .cw-demo-button):hover {
+    translate: none;
+  }
+}
+
+.contact-hero .route-print-art::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(90deg, #050505aa, transparent 80%);
+}
+
+/* The signature must never intercept footer navigation. */
+.footer.print-footer .footer-signature {
+  isolation: isolate;
+  overflow: clip;
+}
+.footer.print-footer .footer-directory,
+.footer.print-footer .footer-colophon {
+  position: relative;
+  z-index: 2;
+}
+.footer.print-footer .footer-directory a {
+  position: relative;
+  z-index: 1;
+}
+/* Shared CULT hero language; study identities remain distinct. */
+html.riso :is(.about-page, .contact-page, .pk-page) h1.cult-poster-title {
+  font-family: var(--font-cult-display), Impact, sans-serif;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+html.riso:not(:has(.home-page)) .contact-page .contact-hero {
+  display: block;
+  padding: 125px 4.5vw 45px;
+  min-height: 0;
+}
+html.riso:not(:has(.home-page))
+  .contact-page
+  .contact-hero
+  h1.cult-poster-title {
+  font-size: clamp(72px, 17.5vw, 260px);
+  margin: 30px 0 40px;
+}
+.contact-register {
+  font:
+    11px/1.5 var(--font-cult-mono),
+    monospace;
+  letter-spacing: 0.08em;
+}
+.contact-hero-baseline {
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+  gap: 25px;
+  padding: 25px 0;
+  border-block: 1px solid #eee9df66;
+}
+.contact-hero-baseline > p {
+  font:
+    clamp(19px, 2vw, 28px)/1.4 var(--font-cult-body),
+    sans-serif;
+  margin: 0;
+}
+.contact-hero-baseline > a {
+  min-width: 220px;
+  padding: 20px 24px;
+  display: flex;
+  justify-content: space-between;
+  gap: 30px;
+  background: #ef1472;
+  color: #080808;
+  font:
+    18px var(--font-cult-mono),
+    monospace;
+  text-decoration: none;
+}
+.contact-hero-baseline > a:hover {
+  background: #eee9df;
+}
+.contact-hero .route-print-art::after {
+  background:
+    linear-gradient(90deg, #050505bb, transparent 75%),
+    linear-gradient(0deg, #050505, transparent 35%);
+}
+@media (max-width: 650px) {
+  html.riso:not(:has(.home-page)) .contact-page .contact-hero {
+    padding: 110px 5vw 30px;
+  }
+  html.riso:not(:has(.home-page))
+    .contact-page
+    .contact-hero
+    h1.cult-poster-title {
+    font-size: 18vw;
+    margin: 28px 0 35px;
+  }
+  .contact-register {
+    font-size: 9px;
+  }
+  .contact-hero-baseline {
+    display: grid;
+    gap: 25px;
+  }
+  .contact-hero-baseline > a {
+    width: 100%;
+  }
+}
+/* Give Contact the same full-width poster opening as the other CULT routes. */
+html.riso .contact-page {
+  display: block;
+  padding: 0;
+}
+html.riso:not(:has(.home-page)) .contact-page .contact-layout {
+  display: grid;
+  grid-template-columns: 0.8fr 1fr;
+  padding: 55px 4.5vw 80px;
+  gap: 6vw;
+}
+html.riso .contact-page .contact-form-wrap {
+  grid-column: auto;
+  grid-row: auto;
+}
+html.riso .contact-page .contact-aside {
+  grid-column: auto;
+  grid-row: auto;
+}
+@media (max-width: 768px) {
+  html.riso:not(:has(.home-page)) .contact-page .contact-layout {
+    grid-template-columns: 1fr;
+    padding: 30px 5vw 50px;
+  }
+  html.riso .contact-page .contact-form-wrap {
+    order: -1;
+  }
+}
+/* About artwork starts at the canvas edge, behind the shared navigation. */
+html.riso .inner-page.about-page {
+  padding-top: 0;
+}

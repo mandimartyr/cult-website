@@ -1,0 +1,218 @@
+[
+  {
+    "route": "services",
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "WHAT\nNEEDS\nTO MOVE?",
+    "scenes": 7,
+    "canonical": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/",
+    "overflow": []
+  },
+  {
+    "route": "services/attention-audit",
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "THE\nATTENTION\nAUDIT.",
+    "scenes": 0,
+    "canonical": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/attention-audit/",
+    "overflow": []
+  },
+  {
+    "route": "services/growth-build",
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "THE\nGROWTH\nBUILD.",
+    "scenes": 0,
+    "canonical": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/growth-build/",
+    "overflow": []
+  },
+  {
+    "route": "services/partner",
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "CULT.\nPARTNER.",
+    "scenes": 0,
+    "canonical": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/partner/",
+    "overflow": []
+  },
+  {
+    "route": "services",
+    "width": 1280,
+    "scrollWidth": 1280,
+    "h1": "WHAT\nNEEDS\nTO MOVE?",
+    "scenes": 7,
+    "canonical": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/",
+    "overflow": []
+  },
+  {
+    "route": "services/attention-audit",
+    "width": 1280,
+    "scrollWidth": 1280,
+    "h1": "THE\nATTENTION\nAUDIT.",
+    "scenes": 0,
+    "canonical": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/attention-audit/",
+    "overflow": []
+  },
+  {
+    "route": "services/growth-build",
+    "width": 1280,
+    "scrollWidth": 1280,
+    "h1": "THE\nGROWTH\nBUILD.",
+    "scenes": 0,
+    "canonical": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/growth-build/",
+    "overflow": []
+  },
+  {
+    "route": "services/partner",
+    "width": 1280,
+    "scrollWidth": 1280,
+    "h1": "CULT.\nPARTNER.",
+    "scenes": 0,
+    "canonical": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/partner/",
+    "overflow": []
+  },
+  {
+    "route": "services",
+    "width": 1024,
+    "scrollWidth": 1024,
+    "h1": "WHAT\nNEEDS\nTO MOVE?",
+    "scenes": 7,
+    "canonical": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/",
+    "overflow": []
+  },
+  {
+    "route": "services/attention-audit",
+    "width": 1024,
+    "scrollWidth": 1024,
+    "h1": "THE\nATTENTION\nAUDIT.",
+    "scenes": 0,
+    "canonical": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/attention-audit/",
+    "overflow": []
+  },
+  {
+    "route": "services/growth-build",
+    "width": 1024,
+    "scrollWidth": 1024,
+    "h1": "THE\nGROWTH\nBUILD.",
+    "scenes": 0,
+    "canonical": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/growth-build/",
+    "overflow": []
+  },
+  {
+    "route": "services/partner",
+    "width": 1024,
+    "scrollWidth": 1024,
+    "h1": "CULT.\nPARTNER.",
+    "scenes": 0,
+    "canonical": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/partner/",
+    "overflow": []
+  },
+  {
+    "route": "services",
+    "width": 768,
+    "scrollWidth": 768,
+    "h1": "WHAT\nNEEDS\nTO MOVE?",
+    "scenes": 7,
+    "canonical": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/",
+    "overflow": []
+  },
+  {
+    "route": "services/attention-audit",
+    "width": 768,
+    "scrollWidth": 768,
+    "h1": "THE\nATTENTION\nAUDIT.",
+    "scenes": 0,
+    "canonical": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/attention-audit/",
+    "overflow": []
+  },
+  {
+    "route": "services/growth-build",
+    "width": 768,
+    "scrollWidth": 768,
+    "h1": "THE\nGROWTH\nBUILD.",
+    "scenes": 0,
+    "canonical": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/growth-build/",
+    "overflow": []
+  },
+  {
+    "route": "services/partner",
+    "width": 768,
+    "scrollWidth": 768,
+    "h1": "CULT.\nPARTNER.",
+    "scenes": 0,
+    "canonical": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/partner/",
+    "overflow": []
+  },
+  {
+    "route": "services",
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "WHAT\nNEEDS\nTO MOVE?",
+    "scenes": 7,
+    "canonical": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/",
+    "overflow": []
+  },
+  {
+    "route": "services/attention-audit",
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "THE\nATTENTION\nAUDIT.",
+    "scenes": 0,
+    "canonical": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/attention-audit/",
+    "overflow": []
+  },
+  {
+    "route": "services/growth-build",
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "THE\nGROWTH\nBUILD.",
+    "scenes": 0,
+    "canonical": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/growth-build/",
+    "overflow": []
+  },
+  {
+    "route": "services/partner",
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "CULT.\nPARTNER.",
+    "scenes": 0,
+    "canonical": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/partner/",
+    "overflow": []
+  },
+  {
+    "route": "services",
+    "width": 360,
+    "scrollWidth": 360,
+    "h1": "WHAT\nNEEDS\nTO MOVE?",
+    "scenes": 7,
+    "canonical": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/",
+    "overflow": []
+  },
+  {
+    "route": "services/attention-audit",
+    "width": 360,
+    "scrollWidth": 360,
+    "h1": "THE\nATTENTION\nAUDIT.",
+    "scenes": 0,
+    "canonical": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/attention-audit/",
+    "overflow": []
+  },
+  {
+    "route": "services/growth-build",
+    "width": 360,
+    "scrollWidth": 360,
+    "h1": "THE\nGROWTH\nBUILD.",
+    "scenes": 0,
+    "canonical": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/growth-build/",
+    "overflow": []
+  },
+  {
+    "route": "services/partner",
+    "width": 360,
+    "scrollWidth": 360,
+    "h1": "CULT.\nPARTNER.",
+    "scenes": 0,
+    "canonical": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/partner/",
+    "overflow": []
+  }
+]

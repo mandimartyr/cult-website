@@ -1,0 +1,464 @@
+/* Compact brief sheet: flat rules, square controls, no nested card padding. */
+html.riso:not(:has(.home-page)) .contact-page .contact-layout {
+  grid-template-columns: 0.65fr 1.4fr;
+  gap: 4vw;
+}
+html.riso:not(:has(.home-page)) .contact-page .contact-form-wrap {
+  padding: 0;
+  border: 0;
+  border-top: 3px solid var(--accent);
+  background: transparent;
+  min-width: 0;
+}
+html.riso .contact-page .contact-form .form-note {
+  font-size: 12px;
+  line-height: 1.6;
+  padding: 14px 0;
+  margin: 0 0 18px;
+  border-bottom: 1px solid #555;
+}
+html.riso .contact-page .engagement-fieldset {
+  padding: 0;
+  border: 0;
+  margin: 0 0 18px;
+  min-width: 0;
+}
+html.riso .contact-page .engagement-fieldset legend {
+  padding: 0;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0;
+  margin-bottom: 10px;
+}
+html.riso .contact-page .engagement-choices {
+  grid-template-columns: 1fr 1fr;
+  gap: 0;
+  margin: 0;
+  border-top: 1px solid #555;
+}
+html.riso .contact-page .engagement-choice {
+  min-height: 64px;
+  gap: 10px;
+  margin: 0;
+  padding: 10px 8px;
+  border-bottom: 1px solid #555;
+  align-items: flex-start;
+  transition: background-color 150ms;
+}
+html.riso .contact-page .engagement-choice:nth-child(odd) {
+  border-right: 1px solid #555;
+}
+html.riso .contact-page .engagement-choice:has(input:checked) {
+  background: #ef14721c;
+  box-shadow: inset 3px 0 var(--accent);
+}
+html.riso .contact-page .engagement-choice:has(input:focus-visible) {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+html.riso .contact-page .engagement-choice input {
+  appearance: none;
+  border: 1px solid #aaa;
+  width: 15px;
+  height: 15px;
+  min-height: 0;
+  padding: 0;
+  margin: 3px 0 0;
+  border-radius: 0;
+  flex: 0 0 15px;
+  background: transparent;
+  display: grid;
+  place-content: center;
+}
+html.riso .contact-page .engagement-choice input:checked {
+  border-color: var(--accent);
+  background: var(--accent);
+}
+html.riso .contact-page .engagement-choice input:checked:after {
+  content: '';
+  width: 7px;
+  height: 7px;
+  background: #080808;
+}
+html.riso .contact-page .engagement-choice-name {
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 1.35;
+}
+html.riso .contact-page .engagement-choice-copy {
+  gap: 4px;
+  min-width: 0;
+}
+html.riso .contact-page .engagement-choice-copy small {
+  font-size: 10px;
+  line-height: 1.5;
+}
+html.riso .contact-page .required-note {
+  font-size: 10px;
+  margin: 0 0 16px;
+}
+html.riso .contact-page .form-grid {
+  grid-template-columns: 1fr 1fr;
+  gap: 18px 20px;
+  margin-bottom: 22px;
+}
+html.riso .contact-page .field {
+  min-width: 0;
+}
+html.riso .contact-page .field label {
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 1.45;
+  margin-bottom: 3px;
+  color: #eee9df;
+}
+html.riso .contact-page .field input,
+html.riso .contact-page .field textarea {
+  padding: 8px 0;
+  min-height: 40px;
+  border: 0;
+  border-bottom: 1px solid #777;
+  border-radius: 0;
+  background: transparent;
+  box-shadow: none;
+  font-size: 16px;
+  line-height: 1.5;
+}
+html.riso .contact-page .field textarea {
+  height: 66px;
+  min-height: 66px;
+  resize: vertical;
+}
+html.riso .contact-page .field input:focus,
+html.riso .contact-page .field textarea:focus {
+  outline: 0;
+  border-bottom: 2px solid var(--accent);
+  background: #ef14720a;
+}
+html.riso .contact-page .field :is(input, textarea)[aria-invalid='true'] {
+  border-color: var(--accent);
+}
+html.riso .contact-page .field-error {
+  font-size: 11px;
+  margin: 5px 0 0;
+  line-height: 1.5;
+}
+html.riso .contact-page .contact-form > .action {
+  min-height: 44px;
+  padding: 10px 16px;
+  gap: 20px;
+  font-size: 13px;
+  border-radius: 0;
+  box-shadow: none;
+}
+html.riso .contact-page .enquiry-review {
+  margin-top: 25px;
+  padding-top: 20px;
+}
+html.riso .contact-page .enquiry-review h2 {
+  font-size: 32px;
+  margin-bottom: 15px;
+}
+html.riso .contact-page .enquiry-review > p {
+  font-size: 13px;
+}
+@media (max-width: 768px) {
+  html.riso:not(:has(.home-page)) .contact-page .contact-layout {
+    grid-template-columns: 1fr;
+    gap: 35px;
+  }
+}
+@media (max-width: 480px) {
+  html.riso .contact-page .engagement-choices {
+    grid-template-columns: 1fr;
+  }
+  html.riso .contact-page .engagement-choice:nth-child(odd) {
+    border-right: 0;
+  }
+  html.riso .contact-page .engagement-choice {
+    min-height: 54px;
+    padding: 9px 6px;
+  }
+  html.riso .contact-page .form-grid {
+    grid-template-columns: 1fr;
+    gap: 15px;
+  }
+  html.riso .contact-page .field-wide {
+    grid-column: auto;
+  }
+  html.riso .contact-page .contact-form > .action {
+    width: 100%;
+    justify-content: space-between;
+  }
+}
+@media (forced-colors: active) {
+  html.riso .contact-page .engagement-choice input {
+    appearance: auto;
+  }
+}
+/* Contact page: poster opening, direct email strip, compact brief, plain next steps. */
+html.riso:not(:has(.home-page)) .contact-rebuilt .contact-hero {
+  min-height: 80svh;
+  padding: 125px 5% 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 30px;
+}
+html.riso .contact-rebuilt .contact-hero h1.cult-poster-title {
+  font-size: clamp(72px, 17.5vw, 260px);
+  line-height: 0.96;
+  letter-spacing: -0.025em;
+  margin: 0;
+}
+html.riso .contact-rebuilt .contact-hero h1 > span:last-child {
+  margin-left: 0;
+}
+html.riso .contact-rebuilt .contact-dot {
+  color: var(--accent);
+}
+html.riso .contact-rebuilt .contact-hero-baseline {
+  margin: 0;
+  padding: 0;
+  align-items: end;
+}
+html.riso .contact-rebuilt .contact-hero-baseline p {
+  font-size: clamp(14px, 1.25vw, 18px);
+  line-height: 1.65;
+}
+html.riso .contact-rebuilt .contact-hero-baseline a {
+  border-radius: 0;
+  padding: 12px 18px;
+  min-height: 44px;
+  font-size: 13px;
+  box-shadow: none;
+}
+.contact-hero-foot {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  padding: 20px 0;
+  border-top: 1px solid #eee9df66;
+  font: 10px/1.5 var(--font-cult-mono);
+  letter-spacing: 0.04em;
+}
+.contact-direct {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  padding: 22px 5%;
+  background: #eee9df;
+  color: #080808;
+  font: 11px/1.5 var(--font-cult-mono);
+}
+.contact-direct a {
+  font-size: clamp(14px, 2vw, 27px);
+  font-weight: 700;
+  text-decoration: none;
+  border-bottom: 1px solid #080808;
+  overflow-wrap: anywhere;
+}
+html.riso:not(:has(.home-page)) .contact-rebuilt .contact-layout {
+  padding: 65px 5%;
+  grid-template-columns: 0.7fr 1.3fr;
+  gap: 7%;
+  align-items: start;
+  scroll-margin-top: 80px;
+}
+html.riso .contact-rebuilt .contact-section-label {
+  font: 11px/1.5 var(--font-cult-mono);
+  letter-spacing: 0.06em;
+  margin: 0 0 24px;
+}
+html.riso .contact-rebuilt .contact-aside h2 {
+  font: clamp(40px, 5.6vw, 84px)/1.02 var(--font-cult-display);
+  letter-spacing: -0.025em;
+  margin: 0 0 25px;
+}
+html.riso .contact-rebuilt h2 em {
+  font-style: normal;
+  color: var(--accent);
+}
+html.riso .contact-rebuilt .contact-aside > p:not(.contact-section-label) {
+  font-size: 13px;
+  line-height: 1.7;
+  margin: 0 0 25px;
+  max-width: 35ch;
+}
+html.riso .contact-rebuilt .contact-prompts {
+  padding: 0;
+  margin: 30px 0;
+  list-style: none;
+}
+html.riso .contact-rebuilt .contact-prompts li {
+  display: flex;
+  gap: 16px;
+  border-top: 1px solid #555;
+  padding: 15px 0;
+  font-size: 12px;
+  line-height: 1.5;
+}
+.contact-prompts li > span {
+  color: var(--accent);
+  font-size: 10px;
+  padding-top: 2px;
+}
+.contact-prompts strong {
+  font-size: 13px;
+}
+.contact-prompts li p {
+  font-size: 11px;
+  line-height: 1.6;
+  margin: 5px 0 0;
+  color: #bbb;
+}
+html.riso .contact-rebuilt .contact-aside .contact-small-note {
+  font-size: 11px;
+  font-style: italic;
+  color: #bbb;
+}
+.contact-next {
+  display: grid;
+  grid-template-columns: 1fr 1.3fr;
+  gap: 8%;
+  padding: 55px 5%;
+  border-top: 1px solid #555;
+  background: #121111;
+}
+html.riso .contact-rebuilt .contact-next h2 {
+  font-size: clamp(40px, 5.5vw, 80px);
+  line-height: 1.02;
+  margin: 0;
+}
+.contact-answers details {
+  border-top: 1px solid #777;
+}
+.contact-answers details:last-child {
+  border-bottom: 1px solid #777;
+}
+html.riso .contact-rebuilt .contact-answers summary {
+  cursor: pointer;
+  padding: 18px 0;
+  min-height: 48px;
+  font-size: 13px;
+  line-height: 1.5;
+  font-weight: 700;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  gap: 15px;
+}
+.contact-answers summary:after {
+  content: '+';
+  color: var(--accent);
+}
+.contact-answers details[open] summary:after {
+  content: '−';
+}
+html.riso .contact-rebuilt .contact-answers p {
+  font-size: 13px;
+  line-height: 1.75;
+  max-width: 52ch;
+  margin: 0 0 22px;
+  color: #ccc;
+}
+.contact-signoff {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  align-items: center;
+  padding: 28px 5%;
+  font: 11px/1.5 var(--font-cult-mono);
+  border-top: 1px solid #555;
+}
+.contact-signoff a {
+  color: var(--accent);
+  font-weight: 700;
+  font-size: 14px;
+}
+@media (max-width: 768px) {
+  html.riso:not(:has(.home-page)) .contact-rebuilt .contact-layout {
+    grid-template-columns: 1fr;
+    gap: 25px;
+    padding: 40px 5%;
+  }
+  html.riso .contact-rebuilt .contact-form-wrap {
+    order: 0;
+  }
+  html.riso .contact-rebuilt .contact-aside h2 {
+    font-size: 48px;
+  }
+  html.riso .contact-rebuilt .contact-aside h2 br {
+    display: none;
+  }
+  html.riso .contact-rebuilt .contact-aside h2 em:before {
+    content: ' ';
+  }
+  .contact-prompts {
+    display: none;
+  }
+  html.riso .contact-rebuilt .contact-aside .contact-small-note {
+    margin-bottom: 0;
+  }
+  .contact-next {
+    grid-template-columns: 1fr;
+    gap: 30px;
+  }
+  .contact-direct {
+    align-items: start;
+    flex-direction: column;
+    gap: 8px;
+  }
+}
+@media (max-width: 480px) {
+  html.riso:not(:has(.home-page)) .contact-rebuilt .contact-hero {
+    min-height: 650px;
+    padding-top: 110px;
+    gap: 28px;
+  }
+  html.riso .contact-rebuilt .contact-hero h1.cult-poster-title {
+    font-size: clamp(56px, 18.5vw, 120px);
+  }
+  .contact-hero-foot {
+    font-size: 8px;
+    gap: 15px;
+  }
+  .contact-hero-foot > span:last-child {
+    text-align: right;
+  }
+  .contact-signoff {
+    align-items: start;
+    flex-direction: column;
+  }
+  .contact-direct a {
+    font-size: 17px;
+  }
+}
+html.riso .contact-rebuilt .form-grid .field-wide {
+  grid-column: 1/-1;
+}
+html.riso .contact-rebuilt .contact-form-wrap .action {
+  border-radius: 0;
+  box-shadow: none;
+  padding: 10px 16px;
+  min-height: 44px;
+}
+html.riso .contact-rebuilt .contact-form .action:disabled {
+  opacity: 0.65;
+  cursor: wait;
+  transform: none;
+}
+html.riso .contact-rebuilt .enquiry-success {
+  padding-top: 24px;
+}
+html.riso .contact-rebuilt .enquiry-success h2 {
+  font-size: clamp(36px, 4.5vw, 64px);
+  line-height: 1.05;
+  margin: 20px 0;
+}
+html.riso .contact-rebuilt .enquiry-success > p {
+  font-size: 14px;
+  line-height: 1.7;
+  max-width: 50ch;
+}

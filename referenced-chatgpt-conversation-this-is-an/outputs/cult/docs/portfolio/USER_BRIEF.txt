@@ -1,0 +1,1242 @@
+You are modifying the EXISTING CULT. / Cult Media House website.
+
+DO NOT rebuild the website from scratch.
+
+DO NOT redesign completed sections.
+
+DO NOT change the existing hero, six capability worlds, thesis section, typography system, palette, navigation, footer, film system, or core motion language unless required to fix a specific bug.
+
+The current design direction is approved.
+
+Your task is specifically to:
+
+1. Restore the commercial depth of the Audit / Build / Partner engagement section.
+2. Build a serious self-initiated portfolio system.
+3. Replace the current empty portfolio placeholders.
+4. Create a strong dedicated Work page and individual project pages.
+5. Preserve CULT.’s current art direction and interaction language.
+
+Before editing anything, inspect the existing codebase and identify the current components/routes for:
+
+* engagement section
+* Audit
+* Build
+* Partner
+* Selected Work
+* Work page
+* case-study routing
+* media/image components
+
+Work WITH the existing architecture.
+
+Do not replace good existing components simply because you would have built them differently.
+
+---
+
+# 01 — RESTORE THE COMMERCIAL ARCHITECTURE
+
+The current Audit / Build / Partner section has been oversimplified.
+
+Restore the complete commercial logic.
+
+The section remains:
+
+# Three ways in.
+
+Supporting copy:
+
+You do not need to know which channel is broken before you call us.
+
+You need to know what you want to change.
+
+There are three engagement paths:
+
+---
+
+# 01 / AUDIT.
+
+Headline:
+
+# Find what is stopping growth.
+
+Price:
+
+FROM $1,500
+
+Description:
+
+A focused full-funnel diagnostic designed to identify where attention, demand, conversion, retention, or measurement is breaking down.
+
+Include concise scope language covering:
+
+Strategy
+Website
+Search
+Creative
+Paid media
+Email
+Conversion
+Measurement
+
+Deliverable:
+
+A prioritized diagnosis and practical 90-day roadmap showing what should change first, what can wait, and where additional investment is most likely to matter.
+
+CTA:
+
+START WITH AN AUDIT
+
+---
+
+# 02 / BUILD.
+
+Headline:
+
+# Build what the funnel is missing.
+
+Price:
+
+FROM $4,000
+
+Description:
+
+Focused implementation around a defined growth constraint.
+
+A Build may include:
+
+Websites
+Landing pages
+SEO
+AEO
+Content systems
+Email
+Paid campaigns
+Programmatic
+Creative
+Analytics
+CRO
+
+Do NOT imply every Build includes everything.
+
+Core positioning:
+
+Fix the constraint.
+Build the next stage of growth.
+
+CTA:
+
+DISCUSS A BUILD
+
+---
+
+# 03 / PARTNER.
+
+Headline:
+
+# Run the system.
+
+Price:
+
+FROM $4,000 / MONTH
+
+Description:
+
+Ongoing senior strategy and execution across the channels that actually matter to growth.
+
+Position this as the premium ongoing relationship.
+
+Include:
+
+Strategy
+Campaign planning
+Creative direction
+Paid media
+Search
+Conversion
+Lifecycle
+Measurement
+Optimization
+
+Paid media spend and major production costs are separate.
+
+Core positioning:
+
+One growth strategy.
+One operating rhythm.
+No disconnected vendors.
+
+CTA:
+
+WORK WITH CULT.
+
+---
+
+# ENGAGEMENT DESIGN RULES
+
+Do NOT turn these into SaaS pricing cards.
+
+Keep the existing cinematic/editorial “three doors” concept.
+
+Prices should be secondary utility information.
+
+The visual hierarchy should be:
+
+NUMBER
+NAME
+HEADLINE
+PRICE
+DESCRIPTION
+SELECT DELIVERABLES
+CTA
+
+Keep strong media.
+
+Keep large typography.
+
+Keep open composition.
+
+Avoid:
+
+checkmark lists
+pricing-table UI
+popular badges
+feature comparison grids
+giant rounded cards
+gradient surfaces
+
+These are strategic engagement models, not subscription tiers.
+
+---
+
+# 02 — REFRAME THE WORK SECTION
+
+Change the homepage headline from:
+
+WORK THAT MOVED SOMETHING.
+
+to:
+
+# WORK BUILT TO MOVE SOMETHING.
+
+Reason:
+
+The initial portfolio consists of self-initiated concept work, so we must not imply measured client results that do not exist.
+
+Add supporting copy:
+
+Self-initiated studies in strategy, creative, media, search and conversion. Built to show the thinking—not invent the results.
+
+---
+
+# SELF-INITIATED LABEL SYSTEM
+
+Every concept project MUST be transparently identified.
+
+Use a small editorial identifier such as:
+
+SELF-INITIATED / CULT. STUDY 001
+
+or:
+
+CULT. STUDY 001 / SELF-INITIATED
+
+Do not hide this disclosure.
+
+Do not make it apologetic.
+
+Treat “Self-initiated” as an intentional studio classification.
+
+The projects are fictional commercial exercises created by CULT. to demonstrate strategy and execution.
+
+Never present them as commissioned client work.
+
+Never invent testimonials.
+
+Never invent revenue.
+
+Never invent ROAS.
+
+Never invent conversion increases.
+
+Never invent customers.
+
+Never invent awards.
+
+---
+
+# 03 — CREATE FIVE SELF-INITIATED CASE STUDIES
+
+Build the portfolio around five distinct fictional brands.
+
+Each project should demonstrate a different commercial capability and industry.
+
+The projects must feel like REAL businesses CULT. could plausibly pitch or launch tomorrow.
+
+They should not feel like superficial logo-design exercises.
+
+Each study must include:
+
+business premise
+commercial problem
+positioning
+brand/campaign concept
+website or digital experience
+channel strategy
+media thinking
+conversion thinking
+measurement framework
+finished visual work
+
+---
+
+# STUDY 001 — HARDLINE.
+
+CATEGORY:
+
+Freight / logistics / B2B infrastructure
+
+ROLE OF THIS PROJECT:
+
+Demonstrate that CULT. can make a traditionally unglamorous B2B category commercially and creatively compelling.
+
+DISCIPLINES:
+
+Brand positioning
+Website strategy
+B2B demand generation
+SEO
+Paid search
+LinkedIn
+Programmatic
+Landing pages
+Measurement
+
+FICTIONAL BUSINESS:
+
+HARDLINE is a North American freight and logistics operator built around high-consequence shipments, industrial supply chains, time-sensitive freight, and complex routing.
+
+THE COMMERCIAL PROBLEM:
+
+Most freight companies communicate with interchangeable claims:
+
+Reliable.
+Fast.
+Trusted.
+Experienced.
+
+HARDLINE needs to look more capable, more modern and more operationally serious than regional competitors while generating qualified commercial leads.
+
+STRATEGIC POSITION:
+
+Do not sell transportation.
+
+Sell certainty when the shipment matters.
+
+POSSIBLE CAMPAIGN LINE:
+
+# FAILURE IS EXPENSIVE.
+
+Secondary territory:
+
+WHEN IT HAS TO MOVE, IT MOVES.
+
+VISUAL DIRECTION:
+
+Black
+steel
+wet pavement
+container yards
+scanning equipment
+night freight
+hard white light
+single magenta signal
+extreme crops
+industrial numbering
+route coordinates
+
+DELIVERABLES TO SHOW:
+
+homepage
+service landing page
+paid-search landing page
+LinkedIn campaign
+programmatic display creative
+OOH concept
+search strategy
+lead form
+measurement framework
+
+SUCCESS CRITERIA — NOT RESULTS:
+
+qualified quote requests
+cost per qualified lead
+search visibility
+landing-page conversion rate
+sales-qualified opportunity rate
+pipeline contribution
+
+Make HARDLINE the PRIMARY FEATURED CASE on the homepage.
+
+---
+
+# STUDY 002 — NOCT.
+
+CATEGORY:
+
+Fragrance / beauty / ecommerce
+
+ROLE:
+
+Show CULT.’s creative direction, ecommerce, performance creative and lifecycle capabilities.
+
+FICTIONAL BUSINESS:
+
+NOCT is an independent fragrance house producing severe, atmospheric fragrances positioned against overly polished luxury perfume branding.
+
+COMMERCIAL PROBLEM:
+
+The product has strong aesthetic potential but enters a category saturated with beige luxury, heritage clichés and indistinguishable product photography.
+
+STRATEGIC POSITION:
+
+Fragrance for after dark.
+
+POSSIBLE CAMPAIGN TERRITORY:
+
+# WEAR THE AFTERMATH.
+
+or:
+
+# STAY AFTER DARK.
+
+VISUAL DIRECTION:
+
+monochrome skin
+black glass
+chrome
+hard flash
+severe cropping
+wet surfaces
+one pink light
+macro product photography
+negative space
+
+DISCIPLINES:
+
+Positioning
+Creative direction
+Ecommerce
+Paid social
+Performance creative
+Email lifecycle
+CRO
+Retargeting
+
+DELIVERABLES:
+
+product page
+campaign landing page
+Meta creative
+TikTok/Reels concept
+email launch sequence
+retargeting ads
+product photography system
+cart / checkout CRO thinking
+
+SUCCESS CRITERIA:
+
+new-customer CAC
+product-page conversion
+email capture
+first-purchase conversion
+creative hold rate
+repeat purchase
+
+---
+
+# STUDY 003 — AER.
+
+CATEGORY:
+
+Regional aviation / travel
+
+ROLE:
+
+Show integrated brand, campaign, media, search and booking-experience thinking.
+
+FICTIONAL BUSINESS:
+
+AER is a challenger regional airline connecting underserved Canadian and northern-market routes.
+
+COMMERCIAL PROBLEM:
+
+The airline needs to create preference against larger carriers while making unfamiliar routes feel commercially relevant.
+
+STRATEGIC POSITION:
+
+Not more destinations.
+
+Better connections to the places people actually need to go.
+
+VISUAL DIRECTION:
+
+enormous skies
+aircraft cropped aggressively
+navigation graphics
+route coordinates
+cold blue/grey
+black
+white
+single magenta interruption
+occasional organic contrast
+extreme negative space
+
+DISCIPLINES:
+
+Launch strategy
+Campaign
+Paid media
+Programmatic
+Search
+Landing pages
+Route promotion
+Email
+
+DELIVERABLES:
+
+launch page
+route page
+display campaign
+airport OOH
+paid social
+search ads
+fare alert email
+destination creative system
+
+SUCCESS CRITERIA:
+
+route searches
+booking starts
+completed bookings
+CAC
+branded-search growth
+email subscriptions
+route-level demand
+
+---
+
+# STUDY 004 — FIELD.
+
+CATEGORY:
+
+Hospitality / wilderness stay
+
+ROLE:
+
+Show CULT.’s ability to build demand and conversion for a destination-led business.
+
+FICTIONAL BUSINESS:
+
+FIELD is a contemporary wilderness accommodation concept located outside major urban centres.
+
+Do NOT make it look like beige “quiet luxury.”
+
+COMMERCIAL PROBLEM:
+
+Destination hospitality businesses often rely too heavily on attractive photography while giving visitors weak reasons to book directly.
+
+STRATEGIC POSITION:
+
+# LEAVE THE SIGNAL.
+
+or another restrained positioning idea focused on intentional distance, environment and physical place.
+
+VISUAL DIRECTION:
+
+architecture
+dark timber
+harsh landscapes
+fog
+snow
+fire
+maps
+coordinates
+weather
+large negative space
+little-to-no lifestyle posing
+
+DISCIPLINES:
+
+Brand strategy
+Website
+Organic search
+Paid search
+Paid social
+Retargeting
+Email
+Booking CRO
+
+DELIVERABLES:
+
+homepage
+stay page
+seasonal landing page
+search content
+paid creative
+abandoned-booking email
+retargeting campaign
+
+SUCCESS CRITERIA:
+
+direct-booking share
+booking conversion
+cost per booking
+email capture
+occupancy contribution
+branded search
+
+---
+
+# STUDY 005 — SIGNAL.
+
+CATEGORY:
+
+B2B intelligence / analytics software
+
+ROLE:
+
+Demonstrate CULT.’s B2B positioning, demand generation, search and conversion thinking without falling into generic SaaS design.
+
+FICTIONAL BUSINESS:
+
+SIGNAL turns fragmented operational or market data into prioritized intelligence for commercial teams.
+
+COMMERCIAL PROBLEM:
+
+The analytics category is saturated with vague promises, dashboards, gradients and interchangeable “AI-powered insights” language.
+
+STRATEGIC POSITION:
+
+The value is not more data.
+
+It is knowing what deserves action.
+
+POSSIBLE LINE:
+
+# KNOW WHAT MATTERS NEXT.
+
+VISUAL DIRECTION:
+
+data treated as physical signal
+precision
+printing
+thermal images
+measurement
+radar-like abstraction
+black
+white
+chrome
+magenta
+NO blue-purple SaaS gradients
+
+DISCIPLINES:
+
+Positioning
+Website
+SEO
+Content
+Paid search
+LinkedIn
+Programmatic
+Conversion
+Lead nurture
+
+DELIVERABLES:
+
+homepage
+product page
+comparison/search page
+LinkedIn creative
+paid-search landing page
+lead magnet
+nurture email
+demo conversion flow
+
+SUCCESS CRITERIA:
+
+qualified demos
+cost per qualified demo
+search visibility
+content-assisted conversions
+pipeline
+sales-cycle influence
+
+---
+
+# 04 — HOMEPAGE WORK COMPOSITION
+
+Do NOT display all five projects equally.
+
+The homepage should have hierarchy.
+
+Recommended composition:
+
+FEATURED:
+
+HARDLINE.
+
+Large landscape media.
+
+Approximately full content width.
+
+Make it visually dominant.
+
+Then:
+
+NOCT.
+AER.
+
+Use an asymmetric two-project composition below.
+
+At the bottom:
+
+VIEW ALL STUDIES →
+
+The homepage does not need to show all five.
+
+FIELD and SIGNAL belong primarily on the full Work page.
+
+---
+
+# HOMEPAGE PROJECT CONTENT
+
+Each homepage project preview should show:
+
+SELF-INITIATED / CULT. STUDY XXX
+
+PROJECT NAME
+
+INDUSTRY
+
+DISCIPLINES
+
+One strong strategic sentence.
+
+Example HARDLINE:
+
+HARDLINE.
+Freight / B2B / Demand Generation
+
+Making operational certainty the product.
+
+Do NOT show fake metrics.
+
+Do NOT show Problem / System / Result boxes if they make the section feel like a case-study template.
+
+Prefer strong visual storytelling.
+
+---
+
+# 05 — WORK PAGE
+
+Turn the Work page into an editorial project index.
+
+Hero:
+
+# WORK BUILT TO MOVE SOMETHING.
+
+Intro:
+
+Self-initiated studies in strategy, creative, media, search and conversion.
+
+Built to test how CULT. would attack a category when the brief starts at zero.
+
+Add a restrained clarification:
+
+All CULT. Studies shown here are self-initiated concept projects unless otherwise identified.
+
+Then display:
+
+001 HARDLINE
+002 NOCT
+003 AER
+004 FIELD
+005 SIGNAL
+
+Do not use five identical cards.
+
+Vary scale and rhythm.
+
+Suggested pattern:
+
+HARDLINE — huge landscape feature
+
+NOCT — tall editorial crop
+
+AER — wide cinematic strip
+
+FIELD — image + large typography composition
+
+SIGNAL — technical / typographic composition
+
+The Work page should feel more like an editorial archive than a portfolio template.
+
+---
+
+# 06 — INDIVIDUAL CASE-STUDY ROUTES
+
+Create data-driven routes for:
+
+/work/hardline
+/work/noct
+/work/aer
+/work/field
+/work/signal
+
+Each case study should use the same underlying system but allow different composition and media behavior.
+
+Do NOT make every project page visually identical.
+
+Keep structural consistency while varying layout rhythm.
+
+---
+
+# CASE STUDY STRUCTURE
+
+Each study should contain:
+
+01 / STATUS
+
+SELF-INITIATED / CULT. STUDY XXX
+
+Include:
+
+This is a self-initiated concept study created by CULT. to demonstrate strategic and creative thinking. The business and brief are fictional.
+
+Keep this disclosure visible but restrained.
+
+---
+
+02 / THE BRIEF
+
+Describe the fictional company and commercial problem.
+
+---
+
+03 / THE POSITION
+
+Explain the strategic decision.
+
+Do not write vague brand-strategy language.
+
+Make a clear decision.
+
+For example:
+
+HARDLINE does not sell freight capacity.
+
+It sells reduced operational risk when failure carries a cost.
+
+---
+
+04 / THE SYSTEM
+
+Show what CULT. would build.
+
+Examples:
+
+brand
+campaign
+website
+search
+media
+creative
+email
+conversion
+measurement
+
+---
+
+05 / THE CAMPAIGN
+
+Show the strongest campaign idea and creative system.
+
+Use large visual media.
+
+Do not put campaign pieces into tiny cards.
+
+---
+
+06 / THE EXPERIENCE
+
+Show:
+
+website
+landing page
+mobile experience
+forms
+email
+conversion paths
+
+Use realistic polished mockups.
+
+---
+
+07 / THE MEDIA PLAN
+
+Demonstrate channel thinking.
+
+Examples:
+
+Google Search
+Meta
+LinkedIn
+Programmatic
+YouTube
+retargeting
+contextual
+native
+
+Only include channels that make sense for that fictional business.
+
+Explain WHY each channel has a job.
+
+Do not show fake spend or performance unless clearly marked as hypothetical planning assumptions.
+
+---
+
+08 / SEARCH + CONTENT
+
+Where relevant show:
+
+keyword architecture
+organic landing-page strategy
+search-intent model
+content cluster
+local search
+AEO opportunities
+
+Do not fabricate ranking results.
+
+---
+
+09 / MEASUREMENT
+
+Use the label:
+
+# SUCCESS CRITERIA
+
+Not:
+
+RESULTS
+
+Show what CULT. would measure if this were launched.
+
+Explicitly state:
+
+No performance results are reported because this is a self-initiated concept study.
+
+---
+
+10 / NEXT STUDY
+
+Create a cinematic transition into the next case.
+
+Do not use a generic “Next project” card.
+
+Use large typography and media.
+
+---
+
+# 07 — ART DIRECTION
+
+All five brands need individual identities.
+
+However, the SITE displaying them must remain CULT.
+
+CULT.’s presentation layer remains:
+
+#050505
+
+white
+
+chrome
+
+#FF2EB8
+
+Figtree
+
+hard contrast
+
+strong negative space
+
+editorial typography
+
+precise motion
+
+6–8px media radius maximum
+
+The project artwork itself can have different palettes.
+
+Do NOT recolour every fictional brand pink.
+
+Pink belongs primarily to CULT.’s interface and editorial framing.
+
+---
+
+# 08 — MOTION
+
+Portfolio interactions should feel authored.
+
+Possible behaviors:
+
+Featured HARDLINE image subtly expands as it enters the viewport.
+
+Project numbers can slide or tick into position.
+
+Hovering a project can change the surrounding project-label information.
+
+Project media can use very small controlled scale movement.
+
+Case-study media reveals can use clipping/masks.
+
+NEXT STUDY transitions can be cinematic.
+
+Do NOT:
+
+parallax everything
+animate every word
+use constant fade-up
+use glitch effects
+create scroll hijacking
+
+UI moves quickly.
+
+Film/media moves slowly.
+
+---
+
+# 09 — BUILD REAL VISUALS
+
+Do NOT leave the portfolio filled with blank placeholder blocks.
+
+Create finished visual concepts for the fictional brands.
+
+Use high-quality generated assets where required.
+
+Create:
+
+campaign key art
+website mockups
+OOH
+display creative
+social ads
+landing pages
+email
+mobile screens
+environmental/industry imagery
+
+The projects need enough material to feel like legitimate case studies.
+
+Do not use obviously generic stock imagery.
+
+Do not make fake client logos using the CULT typeface.
+
+Each fictional business gets its own credible visual identity.
+
+---
+
+# 10 — INTEGRITY RULE
+
+This rule is absolute:
+
+The portfolio must demonstrate capability without fabricating experience.
+
+Never imply:
+
+CULT. was hired by these brands.
+
+Never imply:
+
+the campaigns ran.
+
+Never imply:
+
+the results happened.
+
+Never write:
+
+“we increased”
+“we achieved”
+“we delivered a 4x ROAS”
+“conversion rose”
+“revenue increased”
+
+unless there is actual verified client evidence.
+
+Instead use:
+
+THE BRIEF
+
+THE STRATEGY
+
+THE SYSTEM
+
+THE CAMPAIGN
+
+THE EXPERIENCE
+
+THE MEDIA PLAN
+
+SUCCESS CRITERIA
+
+This distinction must remain clear everywhere.
+
+---
+
+# 11 — DO NOT REMOVE EXISTING SITE CONTENT
+
+This implementation must NOT remove or substantially rewrite:
+
+Hero
+
+Interactive capability selector
+
+The Problem
+
+Strategy story
+
+Creative story
+
+Media story
+
+Search story
+
+Conversion story
+
+Measurement story
+
+“Attention can be bought. Preference has to be built.”
+
+Founder-led section
+
+Final CTA
+
+Footer
+
+Current accessibility controls
+
+Film pause controls
+
+SEO metadata
+
+Schema
+
+Existing responsive logic unless fixing a real issue
+
+Audit / Build / Partner must be EXPANDED, not removed.
+
+The portfolio is ADDED as proof.
+
+Do not simplify the commercial architecture to make room for portfolio content.
+
+---
+
+# 12 — RESPONSIVE
+
+The portfolio must receive a real mobile composition.
+
+Do not simply stack desktop cards.
+
+On mobile:
+
+featured projects remain visually strong
+
+typography remains large
+
+project meta stays legible
+
+media crops intentionally
+
+horizontal overflow is prohibited
+
+case-study mockups remain readable
+
+large desktop split compositions should recompose naturally
+
+avoid massive empty 100vh sections unless visually justified
+
+---
+
+# 13 — PERFORMANCE
+
+The portfolio will become asset-heavy.
+
+Use:
+
+responsive images
+WebP / AVIF where appropriate
+lazy loading
+video posters
+deferred offscreen video
+appropriate sizes
+image aspect-ratio reservation
+
+Do not destroy Core Web Vitals to make the portfolio cinematic.
+
+---
+
+# 14 — IMPLEMENTATION ORDER
+
+Work in this order:
+
+1. Inspect existing engagement and work components.
+2. Restore complete Audit / Build / Partner content.
+3. Replace homepage portfolio placeholders.
+4. Build reusable project data model.
+5. Build Work index.
+6. Build HARDLINE case study first.
+7. Verify the HARDLINE system visually and responsively.
+8. Extend the system to NOCT, AER, FIELD and SIGNAL.
+9. Add project-specific media/assets.
+10. Add restrained portfolio motion.
+11. Test desktop/tablet/mobile.
+12. Run accessibility and performance QA.
+
+Do not attempt to redesign unrelated pages during this task.
+
+---
+
+# FINAL QUALITY TEST
+
+Before finishing, answer these questions by inspecting the rendered site:
+
+Does Audit / Build / Partner still clearly explain how someone hires CULT.?
+
+Does the portfolio demonstrate real strategic range?
+
+Is every fictional project clearly marked self-initiated?
+
+Are there zero fabricated results?
+
+Does HARDLINE feel meaningfully different from NOCT?
+
+Does NOCT feel meaningfully different from AER?
+
+Does every project still look like it is being presented by CULT.?
+
+Does the Work page feel like an editorial archive rather than a template grid?
+
+Does the portfolio make CULT. look more credible rather than less?
+
+Could a real prospect understand both:
+
+WHAT CULT. CAN DO
+
+and
+
+HOW TO HIRE CULT.
+
+If either answer is no, continue refining.
+
+Do not declare this complete until both are clear.

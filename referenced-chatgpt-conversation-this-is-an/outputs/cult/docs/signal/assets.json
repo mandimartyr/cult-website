@@ -1,0 +1,19 @@
+{
+  "method": "built-in imagegen",
+  "concepts": {
+    "noise": "/Users/mandijordan/.codex/generated_images/01a0785f-c01f-7ef2-b0b7-15f065e2d514/exec-726ec058-0d75-4538-96f6-fa6e1cc43c5f.png",
+    "filter": "/Users/mandijordan/.codex/generated_images/01a0785f-c01f-7ef2-b0b7-15f065e2d514/exec-c0224fca-bd97-4b16-9d44-22cccd86bd10.png",
+    "signal": "/Users/mandijordan/.codex/generated_images/01a0785f-c01f-7ef2-b0b7-15f065e2d514/exec-d1d7d419-03f8-4eb2-b452-7f597ff4b619.png",
+    "cause": "/Users/mandijordan/.codex/generated_images/01a0785f-c01f-7ef2-b0b7-15f065e2d514/exec-e1dc66f8-f1cb-4054-93ea-be8382d52794.png",
+    "brief": "/Users/mandijordan/.codex/generated_images/01a0785f-c01f-7ef2-b0b7-15f065e2d514/exec-4370ab59-f6eb-4474-84ee-1dbda3d76485.png",
+    "market": "/Users/mandijordan/.codex/generated_images/01a0785f-c01f-7ef2-b0b7-15f065e2d514/exec-232b9532-dcfc-42d8-b71c-f76c0f05777a.png",
+    "campaign": "/Users/mandijordan/.codex/generated_images/01a0785f-c01f-7ef2-b0b7-15f065e2d514/exec-d4143c10-b5eb-4968-9322-e16263e14388.png",
+    "response": "/Users/mandijordan/.codex/generated_images/01a0785f-c01f-7ef2-b0b7-15f065e2d514/exec-67bd00a0-6922-4235-b43f-2d37311d3e16.png",
+    "decision": "/Users/mandijordan/.codex/generated_images/01a0785f-c01f-7ef2-b0b7-15f065e2d514/exec-b0560355-78cc-4979-bb13-9fd365d96048.png"
+  },
+  "production": {
+    "ooh": "/Users/mandijordan/.codex/generated_images/01a0785f-c01f-7ef2-b0b7-15f065e2d514/exec-3609b6e8-f717-4dfc-82eb-d866196eb9c4.png",
+    "station": "/Users/mandijordan/.codex/generated_images/01a0785f-c01f-7ef2-b0b7-15f065e2d514/exec-668966f5-c73b-457a-8b29-f55a7826f388.png",
+    "lobby": "/Users/mandijordan/.codex/generated_images/01a0785f-c01f-7ef2-b0b7-15f065e2d514/exec-1363a2ed-3e86-41fe-a96e-b28f9119150b.png"
+  }
+}

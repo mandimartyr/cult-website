@@ -1,0 +1,23 @@
+[
+  {
+    "width": 1440,
+    "overflow": 0,
+    "headingBounds": true,
+    "contactLink": true,
+    "footerLinks": true
+  },
+  {
+    "width": 851,
+    "overflow": 0,
+    "headingBounds": true,
+    "contactLink": true,
+    "footerLinks": true
+  },
+  {
+    "width": 390,
+    "overflow": 0,
+    "headingBounds": true,
+    "contactLink": true,
+    "footerLinks": true
+  }
+]

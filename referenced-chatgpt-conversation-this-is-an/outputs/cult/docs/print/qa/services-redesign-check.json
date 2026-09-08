@@ -1,0 +1,23 @@
+[
+  {
+    "width": 1440,
+    "capabilities": 7,
+    "packageLinks": true,
+    "keyboard": true,
+    "overflow": 0
+  },
+  {
+    "width": 810,
+    "capabilities": 7,
+    "packageLinks": true,
+    "keyboard": true,
+    "overflow": 0
+  },
+  {
+    "width": 390,
+    "capabilities": 7,
+    "packageLinks": true,
+    "keyboard": true,
+    "overflow": 0
+  }
+]

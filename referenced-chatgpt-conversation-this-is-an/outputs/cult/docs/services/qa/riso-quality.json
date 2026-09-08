@@ -1,0 +1,746 @@
+[
+  {
+    "width": 1536,
+    "route": "services",
+    "cls": 0,
+    "overflow": 0,
+    "brokenImages": [],
+    "videoSources": [],
+    "schemas": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "CULT.",
+            "item": "https://cult-media-house.dark-humanit-8920.chatgpt.site"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Services",
+            "item": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@type": "Service",
+              "name": "Strategy + Growth",
+              "description": "Positioning, audiences, funnels, campaigns, offers, and growth roadmaps built around a defined commercial outcome.",
+              "provider": {
+                "@id": "https://cult-media-house.dark-humanit-8920.chatgpt.site/#organization"
+              },
+              "url": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@type": "Service",
+              "name": "Websites + Conversion",
+              "description": "Websites, landing pages, lead capture, and conversion systems that move people beyond the first click.",
+              "provider": {
+                "@id": "https://cult-media-house.dark-humanit-8920.chatgpt.site/#organization"
+              },
+              "url": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "@type": "Service",
+              "name": "Search + Discovery",
+              "description": "SEO, answer-engine visibility, service pages, content systems, local search, and search strategy designed around what buyers are actually trying to find.",
+              "provider": {
+                "@id": "https://cult-media-house.dark-humanit-8920.chatgpt.site/#organization"
+              },
+              "url": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "@type": "Service",
+              "name": "Email + Lifecycle",
+              "description": "Email, lifecycle campaigns, and retention systems connected to the wider funnel.",
+              "provider": {
+                "@id": "https://cult-media-house.dark-humanit-8920.chatgpt.site/#organization"
+              },
+              "url": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+              "@type": "Service",
+              "name": "Paid Media + Programmatic",
+              "description": "Meta. Google. TikTok. LinkedIn. Reddit. Programmatic. Retargeting. Every dollar gets a job.",
+              "provider": {
+                "@id": "https://cult-media-house.dark-humanit-8920.chatgpt.site/#organization"
+              },
+              "url": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "item": {
+              "@type": "Service",
+              "name": "Performance Creative",
+              "description": "Campaign concepts, hooks, video, static, copy, testing systems, and creative built to perform in the environments where people actually see it.",
+              "provider": {
+                "@id": "https://cult-media-house.dark-humanit-8920.chatgpt.site/#organization"
+              },
+              "url": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "item": {
+              "@type": "Service",
+              "name": "Analytics + Optimization",
+              "description": "Tracking, dashboards, attribution, testing, CRO, and reporting designed to improve the next decision—not just document the last one.",
+              "provider": {
+                "@id": "https://cult-media-house.dark-humanit-8920.chatgpt.site/#organization"
+              },
+              "url": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Organization",
+            "@id": "https://cult-media-house.dark-humanit-8920.chatgpt.site/#organization",
+            "name": "CULT.",
+            "legalName": "Cult Media House",
+            "url": "https://cult-media-house.dark-humanit-8920.chatgpt.site",
+            "email": "hello@cultmedia.house",
+            "description": "Full-funnel marketing for brands worth following. CULT. connects strategy, creative, search, paid media, web, email, conversion, and measurement.",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Hamilton",
+              "addressRegion": "ON",
+              "addressCountry": "CA"
+            }
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://cult-media-house.dark-humanit-8920.chatgpt.site/#website",
+            "name": "CULT. / Cult Media House",
+            "url": "https://cult-media-house.dark-humanit-8920.chatgpt.site",
+            "publisher": {
+              "@id": "https://cult-media-house.dark-humanit-8920.chatgpt.site/#organization"
+            }
+          }
+        ]
+      }
+    ],
+    "canonical": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/",
+    "axe": []
+  },
+  {
+    "width": 1536,
+    "route": "services/attention-audit",
+    "cls": 0,
+    "overflow": 0,
+    "brokenImages": [],
+    "videoSources": [],
+    "schemas": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "CULT.",
+            "item": "https://cult-media-house.dark-humanit-8920.chatgpt.site"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "The Attention Audit",
+            "item": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/attention-audit/"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "name": "The Attention Audit",
+        "description": "A focused full-funnel diagnostic designed to identify where attention, demand, conversion, retention, or measurement is breaking down.",
+        "url": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/attention-audit/",
+        "provider": {
+          "@id": "https://cult-media-house.dark-humanit-8920.chatgpt.site/#organization"
+        },
+        "serviceType": "Strategy / Website / Search / Creative / Paid media / Email / Conversion / Measurement"
+      },
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Organization",
+            "@id": "https://cult-media-house.dark-humanit-8920.chatgpt.site/#organization",
+            "name": "CULT.",
+            "legalName": "Cult Media House",
+            "url": "https://cult-media-house.dark-humanit-8920.chatgpt.site",
+            "email": "hello@cultmedia.house",
+            "description": "Full-funnel marketing for brands worth following. CULT. connects strategy, creative, search, paid media, web, email, conversion, and measurement.",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Hamilton",
+              "addressRegion": "ON",
+              "addressCountry": "CA"
+            }
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://cult-media-house.dark-humanit-8920.chatgpt.site/#website",
+            "name": "CULT. / Cult Media House",
+            "url": "https://cult-media-house.dark-humanit-8920.chatgpt.site",
+            "publisher": {
+              "@id": "https://cult-media-house.dark-humanit-8920.chatgpt.site/#organization"
+            }
+          }
+        ]
+      }
+    ],
+    "canonical": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/attention-audit/",
+    "axe": []
+  },
+  {
+    "width": 1536,
+    "route": "services/growth-build",
+    "cls": 0,
+    "overflow": 0,
+    "brokenImages": [],
+    "videoSources": [],
+    "schemas": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "CULT.",
+            "item": "https://cult-media-house.dark-humanit-8920.chatgpt.site"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "The Growth Build",
+            "item": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/growth-build/"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "name": "The Growth Build",
+        "description": "Focused implementation around a defined growth constraint.",
+        "url": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/growth-build/",
+        "provider": {
+          "@id": "https://cult-media-house.dark-humanit-8920.chatgpt.site/#organization"
+        },
+        "serviceType": "Websites / Landing pages / SEO / AEO / Content systems / Email / Paid campaigns / Programmatic / Creative / Analytics / CRO"
+      },
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Organization",
+            "@id": "https://cult-media-house.dark-humanit-8920.chatgpt.site/#organization",
+            "name": "CULT.",
+            "legalName": "Cult Media House",
+            "url": "https://cult-media-house.dark-humanit-8920.chatgpt.site",
+            "email": "hello@cultmedia.house",
+            "description": "Full-funnel marketing for brands worth following. CULT. connects strategy, creative, search, paid media, web, email, conversion, and measurement.",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Hamilton",
+              "addressRegion": "ON",
+              "addressCountry": "CA"
+            }
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://cult-media-house.dark-humanit-8920.chatgpt.site/#website",
+            "name": "CULT. / Cult Media House",
+            "url": "https://cult-media-house.dark-humanit-8920.chatgpt.site",
+            "publisher": {
+              "@id": "https://cult-media-house.dark-humanit-8920.chatgpt.site/#organization"
+            }
+          }
+        ]
+      }
+    ],
+    "canonical": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/growth-build/",
+    "axe": []
+  },
+  {
+    "width": 1536,
+    "route": "services/partner",
+    "cls": 0,
+    "overflow": 0,
+    "brokenImages": [],
+    "videoSources": [],
+    "schemas": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "CULT.",
+            "item": "https://cult-media-house.dark-humanit-8920.chatgpt.site"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "CULT. Partner",
+            "item": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/partner/"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "name": "CULT. Partner",
+        "description": "Ongoing senior strategy and execution across the channels that actually matter to growth.",
+        "url": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/partner/",
+        "provider": {
+          "@id": "https://cult-media-house.dark-humanit-8920.chatgpt.site/#organization"
+        },
+        "serviceType": "Strategy / Campaign planning / Creative direction / Paid media / Search / Conversion / Lifecycle / Measurement / Optimization"
+      },
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Organization",
+            "@id": "https://cult-media-house.dark-humanit-8920.chatgpt.site/#organization",
+            "name": "CULT.",
+            "legalName": "Cult Media House",
+            "url": "https://cult-media-house.dark-humanit-8920.chatgpt.site",
+            "email": "hello@cultmedia.house",
+            "description": "Full-funnel marketing for brands worth following. CULT. connects strategy, creative, search, paid media, web, email, conversion, and measurement.",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Hamilton",
+              "addressRegion": "ON",
+              "addressCountry": "CA"
+            }
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://cult-media-house.dark-humanit-8920.chatgpt.site/#website",
+            "name": "CULT. / Cult Media House",
+            "url": "https://cult-media-house.dark-humanit-8920.chatgpt.site",
+            "publisher": {
+              "@id": "https://cult-media-house.dark-humanit-8920.chatgpt.site/#organization"
+            }
+          }
+        ]
+      }
+    ],
+    "canonical": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/partner/",
+    "axe": []
+  },
+  {
+    "width": 390,
+    "route": "services",
+    "cls": 0,
+    "overflow": 0,
+    "brokenImages": [],
+    "videoSources": [],
+    "schemas": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "CULT.",
+            "item": "https://cult-media-house.dark-humanit-8920.chatgpt.site"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Services",
+            "item": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@type": "Service",
+              "name": "Strategy + Growth",
+              "description": "Positioning, audiences, funnels, campaigns, offers, and growth roadmaps built around a defined commercial outcome.",
+              "provider": {
+                "@id": "https://cult-media-house.dark-humanit-8920.chatgpt.site/#organization"
+              },
+              "url": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@type": "Service",
+              "name": "Websites + Conversion",
+              "description": "Websites, landing pages, lead capture, and conversion systems that move people beyond the first click.",
+              "provider": {
+                "@id": "https://cult-media-house.dark-humanit-8920.chatgpt.site/#organization"
+              },
+              "url": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "@type": "Service",
+              "name": "Search + Discovery",
+              "description": "SEO, answer-engine visibility, service pages, content systems, local search, and search strategy designed around what buyers are actually trying to find.",
+              "provider": {
+                "@id": "https://cult-media-house.dark-humanit-8920.chatgpt.site/#organization"
+              },
+              "url": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "@type": "Service",
+              "name": "Email + Lifecycle",
+              "description": "Email, lifecycle campaigns, and retention systems connected to the wider funnel.",
+              "provider": {
+                "@id": "https://cult-media-house.dark-humanit-8920.chatgpt.site/#organization"
+              },
+              "url": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+              "@type": "Service",
+              "name": "Paid Media + Programmatic",
+              "description": "Meta. Google. TikTok. LinkedIn. Reddit. Programmatic. Retargeting. Every dollar gets a job.",
+              "provider": {
+                "@id": "https://cult-media-house.dark-humanit-8920.chatgpt.site/#organization"
+              },
+              "url": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "item": {
+              "@type": "Service",
+              "name": "Performance Creative",
+              "description": "Campaign concepts, hooks, video, static, copy, testing systems, and creative built to perform in the environments where people actually see it.",
+              "provider": {
+                "@id": "https://cult-media-house.dark-humanit-8920.chatgpt.site/#organization"
+              },
+              "url": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "item": {
+              "@type": "Service",
+              "name": "Analytics + Optimization",
+              "description": "Tracking, dashboards, attribution, testing, CRO, and reporting designed to improve the next decision—not just document the last one.",
+              "provider": {
+                "@id": "https://cult-media-house.dark-humanit-8920.chatgpt.site/#organization"
+              },
+              "url": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Organization",
+            "@id": "https://cult-media-house.dark-humanit-8920.chatgpt.site/#organization",
+            "name": "CULT.",
+            "legalName": "Cult Media House",
+            "url": "https://cult-media-house.dark-humanit-8920.chatgpt.site",
+            "email": "hello@cultmedia.house",
+            "description": "Full-funnel marketing for brands worth following. CULT. connects strategy, creative, search, paid media, web, email, conversion, and measurement.",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Hamilton",
+              "addressRegion": "ON",
+              "addressCountry": "CA"
+            }
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://cult-media-house.dark-humanit-8920.chatgpt.site/#website",
+            "name": "CULT. / Cult Media House",
+            "url": "https://cult-media-house.dark-humanit-8920.chatgpt.site",
+            "publisher": {
+              "@id": "https://cult-media-house.dark-humanit-8920.chatgpt.site/#organization"
+            }
+          }
+        ]
+      }
+    ],
+    "canonical": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/",
+    "axe": []
+  },
+  {
+    "width": 390,
+    "route": "services/attention-audit",
+    "cls": 0,
+    "overflow": 0,
+    "brokenImages": [],
+    "videoSources": [],
+    "schemas": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "CULT.",
+            "item": "https://cult-media-house.dark-humanit-8920.chatgpt.site"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "The Attention Audit",
+            "item": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/attention-audit/"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "name": "The Attention Audit",
+        "description": "A focused full-funnel diagnostic designed to identify where attention, demand, conversion, retention, or measurement is breaking down.",
+        "url": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/attention-audit/",
+        "provider": {
+          "@id": "https://cult-media-house.dark-humanit-8920.chatgpt.site/#organization"
+        },
+        "serviceType": "Strategy / Website / Search / Creative / Paid media / Email / Conversion / Measurement"
+      },
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Organization",
+            "@id": "https://cult-media-house.dark-humanit-8920.chatgpt.site/#organization",
+            "name": "CULT.",
+            "legalName": "Cult Media House",
+            "url": "https://cult-media-house.dark-humanit-8920.chatgpt.site",
+            "email": "hello@cultmedia.house",
+            "description": "Full-funnel marketing for brands worth following. CULT. connects strategy, creative, search, paid media, web, email, conversion, and measurement.",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Hamilton",
+              "addressRegion": "ON",
+              "addressCountry": "CA"
+            }
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://cult-media-house.dark-humanit-8920.chatgpt.site/#website",
+            "name": "CULT. / Cult Media House",
+            "url": "https://cult-media-house.dark-humanit-8920.chatgpt.site",
+            "publisher": {
+              "@id": "https://cult-media-house.dark-humanit-8920.chatgpt.site/#organization"
+            }
+          }
+        ]
+      }
+    ],
+    "canonical": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/attention-audit/",
+    "axe": []
+  },
+  {
+    "width": 390,
+    "route": "services/growth-build",
+    "cls": 0,
+    "overflow": 0,
+    "brokenImages": [],
+    "videoSources": [],
+    "schemas": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "CULT.",
+            "item": "https://cult-media-house.dark-humanit-8920.chatgpt.site"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "The Growth Build",
+            "item": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/growth-build/"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "name": "The Growth Build",
+        "description": "Focused implementation around a defined growth constraint.",
+        "url": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/growth-build/",
+        "provider": {
+          "@id": "https://cult-media-house.dark-humanit-8920.chatgpt.site/#organization"
+        },
+        "serviceType": "Websites / Landing pages / SEO / AEO / Content systems / Email / Paid campaigns / Programmatic / Creative / Analytics / CRO"
+      },
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Organization",
+            "@id": "https://cult-media-house.dark-humanit-8920.chatgpt.site/#organization",
+            "name": "CULT.",
+            "legalName": "Cult Media House",
+            "url": "https://cult-media-house.dark-humanit-8920.chatgpt.site",
+            "email": "hello@cultmedia.house",
+            "description": "Full-funnel marketing for brands worth following. CULT. connects strategy, creative, search, paid media, web, email, conversion, and measurement.",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Hamilton",
+              "addressRegion": "ON",
+              "addressCountry": "CA"
+            }
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://cult-media-house.dark-humanit-8920.chatgpt.site/#website",
+            "name": "CULT. / Cult Media House",
+            "url": "https://cult-media-house.dark-humanit-8920.chatgpt.site",
+            "publisher": {
+              "@id": "https://cult-media-house.dark-humanit-8920.chatgpt.site/#organization"
+            }
+          }
+        ]
+      }
+    ],
+    "canonical": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/growth-build/",
+    "axe": []
+  },
+  {
+    "width": 390,
+    "route": "services/partner",
+    "cls": 0,
+    "overflow": 0,
+    "brokenImages": [],
+    "videoSources": [],
+    "schemas": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "CULT.",
+            "item": "https://cult-media-house.dark-humanit-8920.chatgpt.site"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "CULT. Partner",
+            "item": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/partner/"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "name": "CULT. Partner",
+        "description": "Ongoing senior strategy and execution across the channels that actually matter to growth.",
+        "url": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/partner/",
+        "provider": {
+          "@id": "https://cult-media-house.dark-humanit-8920.chatgpt.site/#organization"
+        },
+        "serviceType": "Strategy / Campaign planning / Creative direction / Paid media / Search / Conversion / Lifecycle / Measurement / Optimization"
+      },
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Organization",
+            "@id": "https://cult-media-house.dark-humanit-8920.chatgpt.site/#organization",
+            "name": "CULT.",
+            "legalName": "Cult Media House",
+            "url": "https://cult-media-house.dark-humanit-8920.chatgpt.site",
+            "email": "hello@cultmedia.house",
+            "description": "Full-funnel marketing for brands worth following. CULT. connects strategy, creative, search, paid media, web, email, conversion, and measurement.",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Hamilton",
+              "addressRegion": "ON",
+              "addressCountry": "CA"
+            }
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://cult-media-house.dark-humanit-8920.chatgpt.site/#website",
+            "name": "CULT. / Cult Media House",
+            "url": "https://cult-media-house.dark-humanit-8920.chatgpt.site",
+            "publisher": {
+              "@id": "https://cult-media-house.dark-humanit-8920.chatgpt.site/#organization"
+            }
+          }
+        ]
+      }
+    ],
+    "canonical": "https://cult-media-house.dark-humanit-8920.chatgpt.site/services/partner/",
+    "axe": []
+  },
+  {
+    "motion": {
+      "film": {
+        "src": "http://127.0.0.1:4179/studies/services/audit-print-1536.webp",
+        "complete": true,
+        "width": 1439,
+        "kind": "still print photograph"
+      },
+      "active": "TUESDAY\nDECISION\nWhat matters?",
+      "stopped": []
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "width": 1440,
+    "cold": {
+      "hero": "http://127.0.0.1:4179/studies/noct/hero-1536.webp",
+      "bytes": 121418,
+      "images": [
+        "hero-1536.webp"
+      ]
+    },
+    "cls": 0,
+    "badImages": [],
+    "nameErrors": false,
+    "h1": "NOCT.",
+    "videoCount": 0,
+    "scriptSchema": {
+      "@context": "https://schema.org",
+      "@type": "CreativeWork",
+      "name": "NOCT. — Self-initiated CULT. Study 002",
+      "description": "This is a self-initiated concept study created by CULT. to demonstrate strategic and creative thinking. The business and brief are fictional.",
+      "url": "https://cult-media-house.dark-humanit-8920.chatgpt.site/work/noct/",
+      "creator": {
+        "@id": "https://cult-media-house.dark-humanit-8920.chatgpt.site/#organization"
+      },
+      "genre": "Self-initiated fictional commercial concept",
+      "image": "https://cult-media-house.dark-humanit-8920.chatgpt.site/studies/noct/hero-1536.webp"
+    }
+  },
+  {
+    "width": 390,
+    "cold": {
+      "hero": "http://127.0.0.1:4179/studies/noct/hero-1536.webp",
+      "bytes": 121418,
+      "images": [
+        "hero-1536.webp"
+      ]
+    },
+    "cls": 0,
+    "badImages": [],
+    "nameErrors": false,
+    "h1": "NOCT.",
+    "videoCount": 0,
+    "scriptSchema": {
+      "@context": "https://schema.org",
+      "@type": "CreativeWork",
+      "name": "NOCT. — Self-initiated CULT. Study 002",
+      "description": "This is a self-initiated concept study created by CULT. to demonstrate strategic and creative thinking. The business and brief are fictional.",
+      "url": "https://cult-media-house.dark-humanit-8920.chatgpt.site/work/noct/",
+      "creator": {
+        "@id": "https://cult-media-house.dark-humanit-8920.chatgpt.site/#organization"
+      },
+      "genre": "Self-initiated fictional commercial concept",
+      "image": "https://cult-media-house.dark-humanit-8920.chatgpt.site/studies/noct/hero-1536.webp"
+    }
+  }
+]

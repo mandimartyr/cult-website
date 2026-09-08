@@ -1,0 +1,21 @@
+{
+  "method": "Built-in image generation; original files retained. Exact NOCT. name visually verified in every product asset.",
+  "assets": {
+    "hero": "/Users/mandijordan/.codex/generated_images/01a0785f-c01f-7ef2-b0b7-15f065e2d514/exec-b9bdcd8e-51c6-470e-96a1-9bc45840f626.png",
+    "object": "/Users/mandijordan/.codex/generated_images/01a0785f-c01f-7ef2-b0b7-15f065e2d514/exec-a0fdf0ec-69f2-4982-bbca-f078617cf10b.png",
+    "identity": "/Users/mandijordan/.codex/generated_images/01a0785f-c01f-7ef2-b0b7-15f065e2d514/exec-a16b79a0-0d12-429d-bf63-eeff8258eb9d.png",
+    "skin": "/Users/mandijordan/.codex/generated_images/01a0785f-c01f-7ef2-b0b7-15f065e2d514/exec-dd723a46-04f1-4d36-8685-13ef5ff564c6.png",
+    "corridor": "/Users/mandijordan/.codex/generated_images/01a0785f-c01f-7ef2-b0b7-15f065e2d514/exec-7cc19119-3190-4209-99d9-8b9eb4d7277e.png",
+    "street": "/Users/mandijordan/.codex/generated_images/01a0785f-c01f-7ef2-b0b7-15f065e2d514/exec-06aafa23-73b1-4fcc-9b5d-a8939f94a8ae.png",
+    "morning": "/Users/mandijordan/.codex/generated_images/01a0785f-c01f-7ef2-b0b7-15f065e2d514/exec-3938df11-40f7-4e2b-a9b8-d07275e06043.png",
+    "posting": "/Users/mandijordan/.codex/generated_images/01a0785f-c01f-7ef2-b0b7-15f065e2d514/exec-f71f8dee-645b-4117-a657-6f45fb8903c3.png"
+  },
+  "concepts": {
+    "opening": "/Users/mandijordan/.codex/generated_images/01a0785f-c01f-7ef2-b0b7-15f065e2d514/exec-b748e69b-55c0-4f74-9eb6-41cd50a05abc.png",
+    "scent": "/Users/mandijordan/.codex/generated_images/01a0785f-c01f-7ef2-b0b7-15f065e2d514/exec-6181510a-3722-4f97-89a5-f11bcf479070.png",
+    "identity": "/Users/mandijordan/.codex/generated_images/01a0785f-c01f-7ef2-b0b7-15f065e2d514/exec-9f74157f-b5c3-456e-93ce-0a4fde15ad59.png",
+    "campaign": "/Users/mandijordan/.codex/generated_images/01a0785f-c01f-7ef2-b0b7-15f065e2d514/exec-3b0b4728-f969-4145-9eb9-73189c131c0c.png",
+    "commerce": "/Users/mandijordan/.codex/generated_images/01a0785f-c01f-7ef2-b0b7-15f065e2d514/exec-8135d9d6-bd44-4fe8-a7b4-c427ee4067e5.png",
+    "system": "/Users/mandijordan/.codex/generated_images/01a0785f-c01f-7ef2-b0b7-15f065e2d514/exec-ca4ef1b8-cb85-4331-9e2a-f96a7fde4166.png"
+  }
+}

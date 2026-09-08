@@ -1,0 +1,42 @@
+{
+  "report": [
+    {
+      "width": 1440,
+      "scent": true,
+      "object": true,
+      "film": true,
+      "shop": true,
+      "email": true,
+      "metrics": true,
+      "reducedMotion": true,
+      "nextStudy": true,
+      "axe": []
+    },
+    {
+      "width": 390,
+      "scent": true,
+      "object": true,
+      "film": true,
+      "shop": true,
+      "email": true,
+      "metrics": true,
+      "reducedMotion": true,
+      "nextStudy": true,
+      "axe": []
+    },
+    {
+      "width": 360,
+      "scent": true,
+      "object": true,
+      "film": true,
+      "shop": true,
+      "email": true,
+      "metrics": true,
+      "reducedMotion": true,
+      "nextStudy": true,
+      "axe": []
+    }
+  ],
+  "errors": [],
+  "mutations": []
+}

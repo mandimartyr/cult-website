@@ -1,0 +1,400 @@
+{
+  "report": [
+    {
+      "width": 1440,
+      "slug": "hardline",
+      "shift": 0,
+      "loadedImages": [
+        {
+          "src": "hardline-1536.webp",
+          "loading": "eager",
+          "complete": true,
+          "naturalWidth": 1296
+        },
+        {
+          "src": "hardline-application-1536.webp",
+          "loading": "lazy",
+          "complete": true,
+          "naturalWidth": 1296
+        },
+        {
+          "src": "hardline-1536.webp",
+          "loading": "lazy",
+          "complete": true,
+          "naturalWidth": 936
+        },
+        {
+          "src": "hardline-1536.webp",
+          "loading": "lazy",
+          "complete": true,
+          "naturalWidth": 719
+        },
+        {
+          "src": "noct-1536.webp",
+          "loading": "lazy",
+          "complete": true,
+          "naturalWidth": 1296
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "slug": "noct",
+      "shift": 0,
+      "loadedImages": [
+        {
+          "src": "noct-1536.webp",
+          "loading": "eager",
+          "complete": true,
+          "naturalWidth": 1296
+        },
+        {
+          "src": "noct-application-1536.webp",
+          "loading": "lazy",
+          "complete": true,
+          "naturalWidth": 1296
+        },
+        {
+          "src": "noct-1536.webp",
+          "loading": "lazy",
+          "complete": true,
+          "naturalWidth": 936
+        },
+        {
+          "src": "noct-1536.webp",
+          "loading": "lazy",
+          "complete": true,
+          "naturalWidth": 719
+        },
+        {
+          "src": "noct-application-960.webp",
+          "loading": "lazy",
+          "complete": true,
+          "naturalWidth": 720
+        },
+        {
+          "src": "aer-1536.webp",
+          "loading": "lazy",
+          "complete": true,
+          "naturalWidth": 1296
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "slug": "aer",
+      "shift": 0,
+      "loadedImages": [
+        {
+          "src": "aer-1536.webp",
+          "loading": "eager",
+          "complete": true,
+          "naturalWidth": 1296
+        },
+        {
+          "src": "aer-application-1536.webp",
+          "loading": "lazy",
+          "complete": true,
+          "naturalWidth": 1296
+        },
+        {
+          "src": "aer-1536.webp",
+          "loading": "lazy",
+          "complete": true,
+          "naturalWidth": 936
+        },
+        {
+          "src": "aer-1536.webp",
+          "loading": "lazy",
+          "complete": true,
+          "naturalWidth": 719
+        },
+        {
+          "src": "field-1536.webp",
+          "loading": "lazy",
+          "complete": true,
+          "naturalWidth": 1296
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "slug": "field",
+      "shift": 0,
+      "loadedImages": [
+        {
+          "src": "field-1536.webp",
+          "loading": "eager",
+          "complete": true,
+          "naturalWidth": 1296
+        },
+        {
+          "src": "field-application-1536.webp",
+          "loading": "lazy",
+          "complete": true,
+          "naturalWidth": 1296
+        },
+        {
+          "src": "field-1536.webp",
+          "loading": "lazy",
+          "complete": true,
+          "naturalWidth": 936
+        },
+        {
+          "src": "field-1536.webp",
+          "loading": "lazy",
+          "complete": true,
+          "naturalWidth": 719
+        },
+        {
+          "src": "field-application-960.webp",
+          "loading": "lazy",
+          "complete": true,
+          "naturalWidth": 720
+        },
+        {
+          "src": "signal-1536.webp",
+          "loading": "lazy",
+          "complete": true,
+          "naturalWidth": 1296
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "slug": "signal",
+      "shift": 0,
+      "loadedImages": [
+        {
+          "src": "signal-1536.webp",
+          "loading": "eager",
+          "complete": true,
+          "naturalWidth": 1296
+        },
+        {
+          "src": "signal-application-1536.webp",
+          "loading": "lazy",
+          "complete": true,
+          "naturalWidth": 1296
+        },
+        {
+          "src": "signal-1536.webp",
+          "loading": "lazy",
+          "complete": true,
+          "naturalWidth": 936
+        },
+        {
+          "src": "signal-1536.webp",
+          "loading": "lazy",
+          "complete": true,
+          "naturalWidth": 719
+        },
+        {
+          "src": "hardline-1536.webp",
+          "loading": "lazy",
+          "complete": true,
+          "naturalWidth": 1296
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "slug": "hardline",
+      "shift": 0,
+      "loadedImages": [
+        {
+          "src": "hardline-1536.webp",
+          "loading": "eager",
+          "complete": true,
+          "naturalWidth": 390
+        },
+        {
+          "src": "hardline-application-1536.webp",
+          "loading": "lazy",
+          "complete": true,
+          "naturalWidth": 390
+        },
+        {
+          "src": "hardline-1536.webp",
+          "loading": "lazy",
+          "complete": true,
+          "naturalWidth": 390
+        },
+        {
+          "src": "hardline-1536.webp",
+          "loading": "lazy",
+          "complete": true,
+          "naturalWidth": 390
+        },
+        {
+          "src": "noct-1536.webp",
+          "loading": "lazy",
+          "complete": true,
+          "naturalWidth": 390
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "slug": "noct",
+      "shift": 0,
+      "loadedImages": [
+        {
+          "src": "noct-1536.webp",
+          "loading": "eager",
+          "complete": true,
+          "naturalWidth": 390
+        },
+        {
+          "src": "noct-application-1536.webp",
+          "loading": "lazy",
+          "complete": true,
+          "naturalWidth": 390
+        },
+        {
+          "src": "noct-1536.webp",
+          "loading": "lazy",
+          "complete": true,
+          "naturalWidth": 390
+        },
+        {
+          "src": "noct-1536.webp",
+          "loading": "lazy",
+          "complete": true,
+          "naturalWidth": 390
+        },
+        {
+          "src": "noct-application-1536.webp",
+          "loading": "lazy",
+          "complete": true,
+          "naturalWidth": 390
+        },
+        {
+          "src": "aer-1536.webp",
+          "loading": "lazy",
+          "complete": true,
+          "naturalWidth": 390
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "slug": "aer",
+      "shift": 0,
+      "loadedImages": [
+        {
+          "src": "aer-1536.webp",
+          "loading": "eager",
+          "complete": true,
+          "naturalWidth": 390
+        },
+        {
+          "src": "aer-application-1536.webp",
+          "loading": "lazy",
+          "complete": true,
+          "naturalWidth": 390
+        },
+        {
+          "src": "aer-1536.webp",
+          "loading": "lazy",
+          "complete": true,
+          "naturalWidth": 390
+        },
+        {
+          "src": "aer-1536.webp",
+          "loading": "lazy",
+          "complete": true,
+          "naturalWidth": 390
+        },
+        {
+          "src": "field-1536.webp",
+          "loading": "lazy",
+          "complete": true,
+          "naturalWidth": 390
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "slug": "field",
+      "shift": 0,
+      "loadedImages": [
+        {
+          "src": "field-1536.webp",
+          "loading": "eager",
+          "complete": true,
+          "naturalWidth": 390
+        },
+        {
+          "src": "field-application-1536.webp",
+          "loading": "lazy",
+          "complete": true,
+          "naturalWidth": 390
+        },
+        {
+          "src": "field-1536.webp",
+          "loading": "lazy",
+          "complete": true,
+          "naturalWidth": 390
+        },
+        {
+          "src": "field-1536.webp",
+          "loading": "lazy",
+          "complete": true,
+          "naturalWidth": 390
+        },
+        {
+          "src": "field-application-1536.webp",
+          "loading": "lazy",
+          "complete": true,
+          "naturalWidth": 390
+        },
+        {
+          "src": "signal-1536.webp",
+          "loading": "lazy",
+          "complete": true,
+          "naturalWidth": 390
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "slug": "signal",
+      "shift": 0,
+      "loadedImages": [
+        {
+          "src": "signal-1536.webp",
+          "loading": "eager",
+          "complete": true,
+          "naturalWidth": 390
+        },
+        {
+          "src": "signal-application-1536.webp",
+          "loading": "lazy",
+          "complete": true,
+          "naturalWidth": 390
+        },
+        {
+          "src": "signal-1536.webp",
+          "loading": "lazy",
+          "complete": true,
+          "naturalWidth": 390
+        },
+        {
+          "src": "signal-1536.webp",
+          "loading": "lazy",
+          "complete": true,
+          "naturalWidth": 390
+        },
+        {
+          "src": "hardline-1536.webp",
+          "loading": "lazy",
+          "complete": true,
+          "naturalWidth": 390
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "badRequests": []
+}

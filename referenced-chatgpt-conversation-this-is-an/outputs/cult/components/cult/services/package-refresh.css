@@ -1,0 +1,454 @@
+/* Compact editorial service cards; price and content share a clear reading order. */
+html.riso .sv-main .service-manifesto {
+  padding-block: 65px;
+  background: #050505;
+  border-bottom: 1px solid #555;
+}
+.service-manifesto > div {
+  display: grid;
+  grid-template-columns: 1.25fr 1fr;
+  gap: 6vw;
+  margin-top: 25px;
+}
+html.riso .sv-main .service-manifesto h2 {
+  font: 400 clamp(40px, 5.5vw, 80px)/1.06 var(--font-services-display);
+  letter-spacing: 0;
+  margin: 0;
+}
+.service-manifesto h2 em {
+  color: var(--accent);
+  font-style: normal;
+}
+html.riso .sv-main .service-manifesto p {
+  font: 400 15px/1.75 var(--font-cult-mono);
+  max-width: 48ch;
+  margin: 0 0 20px;
+}
+.service-manifesto a {
+  font: 700 13px var(--font-cult-mono);
+  border-bottom: 2px solid var(--accent);
+  padding-bottom: 8px;
+}
+html.riso .sv-main .service-package {
+  margin: 35px var(--gutter);
+  padding: 0;
+  border: 1px solid #555;
+  background: #080808;
+  scroll-margin-top: 100px;
+}
+.service-package .edition-register {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+  padding: 18px 24px;
+  border-bottom: 1px solid #555;
+  font: 400 13px/1.5 var(--font-cult-mono);
+  margin: 0;
+}
+.service-package .edition-register > span {
+  color: var(--accent);
+}
+.service-package .package-body {
+  display: grid;
+  grid-template-columns: 0.85fr 1.15fr;
+}
+.service-package .package-art {
+  position: relative;
+  min-height: 320px;
+  overflow: hidden;
+  border-right: 1px solid #555;
+}
+.service-package .package-art img {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: 70% center;
+}
+.service-package .package-art > span {
+  position: absolute;
+  bottom: 14px;
+  left: 20px;
+  font: 400 80px/1 var(--font-services-display);
+  color: #eee9df;
+}
+.service-package .package-copy {
+  padding: 30px;
+}
+html.riso .sv-main .service-package h2 {
+  font: 400 clamp(40px, 5.4vw, 76px)/1.02 var(--font-services-display);
+  letter-spacing: 0;
+  margin: 0 0 22px;
+  text-transform: uppercase;
+}
+html.riso .sv-main .service-package h3 {
+  font: 700 14px/1.5 var(--font-cult-mono);
+  letter-spacing: 0;
+  color: var(--accent);
+  margin: 0 0 14px;
+  text-transform: none;
+}
+html.riso .sv-main .service-package .package-copy p {
+  font: 400 15px/1.7 var(--font-cult-mono);
+  margin: 0;
+  padding: 0;
+  background: none;
+  max-width: 52ch;
+}
+.service-package .edition-bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 25px;
+  padding: 22px 24px;
+  margin: 0;
+  border-top: 1px solid #555;
+}
+.service-package .edition-bottom ul {
+  font: 400 12px/1.8 var(--font-cult-mono);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.service-package .edition-bottom li::before {
+  content: '↗ ';
+  color: var(--accent);
+}
+html.riso .sv-main .service-package .sv-link {
+  font: 700 12px/1.5 var(--font-cult-mono);
+  padding: 12px 0;
+  min-width: 0;
+  max-width: 100%;
+}
+.service-package .edition-examples {
+  margin: 0;
+  padding: 0 24px;
+  border-top: 1px solid #555;
+}
+.service-package .edition-examples summary {
+  padding: 20px 0;
+  font: 700 13px var(--font-cult-mono);
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+}
+.service-package-1 .edition-register {
+  background: #eee9df;
+  color: #050505;
+}
+html.riso .sv-main .service-package-1 .edition-register .sv-label {
+  color: #050505;
+}
+.service-package-2 .edition-register {
+  border-top: 5px solid var(--accent);
+}
+html.riso .sv-main .sv-named-packages {
+  padding-block: 60px;
+  background: #eee9df;
+  color: #050505;
+}
+html.riso .sv-main .sv-named-packages .sv-display {
+  font: 400 clamp(42px, 6vw, 84px)/1.05 var(--font-services-display);
+  letter-spacing: 0;
+  color: #050505;
+}
+html.riso .sv-main .sv-named-packages p {
+  color: #282828;
+  font-size: 14px;
+}
+html.riso .sv-main .sv-named-list {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0;
+  margin-top: 35px;
+  border-top: 2px solid #050505;
+}
+html.riso .sv-main .sv-named-list li {
+  padding: 25px 20px;
+  border-bottom: 1px solid #777;
+  background: none;
+  min-width: 0;
+}
+.sv-named-list li:nth-child(odd) {
+  border-right: 1px solid #777;
+}
+html.riso .sv-main .sv-named-main {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 12px;
+}
+html.riso .sv-main .sv-named-main strong {
+  font: 400 32px/1.1 var(--font-services-display);
+  letter-spacing: 0;
+  color: #050505;
+}
+html.riso .sv-main .sv-named-packages .sv-label {
+  font: 400 11px/1.6 var(--font-cult-mono);
+  color: #383838;
+  white-space: normal;
+}
+html.riso .sv-main .sv-named-meta {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 12px;
+  margin-top: 20px;
+}
+html.riso .sv-main .sv-named-meta .sv-link {
+  font: 700 11px/1.5 var(--font-cult-mono);
+  color: #050505;
+  border-color: #050505;
+  padding: 8px 0;
+  min-width: 0;
+  max-width: 100%;
+  width: 100%;
+}
+@media (max-width: 700px) {
+  .service-manifesto > div {
+    grid-template-columns: 1fr;
+    gap: 25px;
+  }
+  html.riso .sv-main .service-manifesto {
+    padding-block: 40px;
+  }
+  .service-package .package-body {
+    grid-template-columns: 1fr;
+  }
+  .service-package .package-art {
+    min-height: 0;
+    height: 210px;
+    border-right: 0;
+    border-bottom: 1px solid #555;
+  }
+  .service-package .package-copy {
+    padding: 24px 20px;
+  }
+  .service-package .edition-register {
+    padding: 15px 20px;
+  }
+  .service-package .edition-bottom {
+    align-items: stretch;
+    flex-direction: column;
+    padding: 20px;
+  }
+  .service-package .edition-bottom .sv-link {
+    align-self: flex-start;
+  }
+  html.riso .sv-main .sv-named-list {
+    grid-template-columns: 1fr;
+  }
+  .sv-named-list li:nth-child(odd) {
+    border-right: 0;
+  }
+  html.riso .sv-main .sv-named-list li {
+    padding: 24px 0;
+  }
+}
+html.riso .sv-main .service-contact {
+  position: relative;
+  isolation: isolate;
+  display: grid;
+  grid-template-columns: 1.1fr 1fr;
+  gap: 24px 5vw;
+  min-height: 0;
+  padding-block: 55px;
+  overflow: hidden;
+  background: #050505;
+  border-top: 1px solid #555;
+}
+.service-contact-art {
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  opacity: 0.28;
+}
+.service-contact-art img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: right center;
+}
+.service-contact > .sv-label {
+  grid-column: 1/-1;
+}
+html.riso .sv-main .service-contact h2 {
+  font: 400 clamp(42px, 6.2vw, 88px)/1.04 var(--font-services-display);
+  letter-spacing: 0;
+  margin: 0;
+  text-transform: uppercase;
+}
+.service-contact h2 em {
+  color: var(--accent);
+  font-style: normal;
+}
+html.riso .sv-main .service-contact .sr-note {
+  margin: 0;
+  padding: 0;
+  max-width: 480px;
+  background: none;
+  align-self: center;
+}
+html.riso .sv-main .service-contact .sr-note p {
+  font: 400 15px/1.7 var(--font-cult-mono);
+  margin: 0 0 22px;
+  padding: 0;
+}
+html.riso .sv-main .service-contact .sv-link {
+  font: 700 13px/1.4 var(--font-cult-mono);
+  padding: 15px 18px;
+  background: var(--accent);
+  color: #050505;
+  width: 100%;
+  min-height: 48px;
+}
+html.riso .sv-main .service-contact .sr-email {
+  display: inline-block;
+  margin-top: 18px;
+  font: 400 12px/1.5 var(--font-cult-mono);
+  color: #eee9df;
+}
+@media (max-width: 700px) {
+  html.riso .sv-main .service-contact {
+    grid-template-columns: 1fr;
+    padding-block: 35px;
+    gap: 22px;
+  }
+  .service-contact > .sv-label {
+    grid-column: auto;
+  }
+}
+.package-accordion {
+  list-style: none;
+  margin: 35px 0 0;
+  padding: 0;
+  border-top: 2px solid #050505;
+}
+.package-accordion > li {
+  margin: 0;
+  padding: 0;
+  border-bottom: 1px solid #777;
+}
+.package-panel summary {
+  display: grid;
+  grid-template-columns: 35px minmax(0, 1fr) auto 30px;
+  align-items: center;
+  gap: 20px;
+  padding: 23px 12px;
+  cursor: pointer;
+  list-style: none;
+  transition:
+    background 0.18s,
+    color 0.18s;
+}
+.package-panel summary::-webkit-details-marker {
+  display: none;
+}
+.package-panel summary strong {
+  font: 400 clamp(24px, 3vw, 40px)/1.12 var(--font-services-display);
+  letter-spacing: 0;
+}
+.package-index,
+.package-price,
+.package-caption {
+  font: 400 11px/1.6 var(--font-cult-mono);
+  letter-spacing: 0.04em;
+}
+.package-price {
+  max-width: 230px;
+  text-align: right;
+}
+.package-toggle {
+  font: 400 30px/1 var(--font-cult-mono);
+  text-align: center;
+  color: var(--accent);
+  transition: transform 0.2s;
+}
+.package-panel summary:hover {
+  background: #ded8ca;
+}
+.package-panel summary:focus-visible {
+  outline: 3px solid #050505;
+  outline-offset: -3px;
+}
+.package-panel[open] > summary {
+  background: #050505;
+  color: #eee9df;
+}
+.package-panel[open] .package-toggle {
+  transform: rotate(45deg);
+}
+.package-panel-content {
+  display: grid;
+  grid-template-columns: 1.4fr 1fr;
+  gap: 50px;
+  padding: 28px 24px 32px 67px;
+}
+html.riso .sv-main .package-panel-content h4 {
+  font: 400 clamp(25px, 3vw, 38px)/1.15 var(--font-services-display);
+  letter-spacing: 0;
+  margin: 15px 0;
+  color: #050505;
+}
+html.riso .sv-main .package-panel-content p {
+  font: 400 13px/1.75 var(--font-cult-mono);
+  margin: 12px 0;
+  color: #282828;
+}
+html.riso .sv-main .package-panel-content .package-tags {
+  font-size: 10px;
+  border-top: 1px solid #aaa;
+  padding-top: 14px;
+}
+.package-next {
+  border-left: 2px solid var(--accent);
+  padding-left: 24px;
+}
+.package-next > strong {
+  display: block;
+  font: 400 30px/1.1 var(--font-services-display);
+  margin: 15px 0;
+}
+html.riso .sv-main .package-next .sv-link {
+  font: 700 12px/1.5 var(--font-cult-mono);
+  color: #050505;
+  border-color: #050505;
+  min-width: 0;
+  width: 100%;
+  margin-top: 12px;
+}
+@media (max-width: 700px) {
+  .package-panel summary {
+    grid-template-columns: 24px minmax(0, 1fr) 24px;
+    gap: 10px;
+    padding: 20px 8px;
+  }
+  .package-price {
+    grid-column: 2;
+    grid-row: 2;
+    text-align: left;
+    max-width: none;
+  }
+  .package-toggle {
+    grid-column: 3;
+    grid-row: 1/3;
+  }
+  .package-index {
+    align-self: start;
+  }
+  .package-panel-content {
+    grid-template-columns: 1fr;
+    gap: 20px;
+    padding: 20px 15px;
+  }
+  .package-next {
+    padding-left: 15px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .package-toggle,
+  .package-panel summary {
+    transition: none;
+  }
+}

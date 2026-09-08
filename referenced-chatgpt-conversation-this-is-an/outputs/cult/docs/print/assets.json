@@ -1,0 +1,31 @@
+{
+  "creative": {
+    "source": "/Users/mandijordan/.codex/generated_images/01a0785f-c01f-7ef2-b0b7-15f065e2d514/exec-d67787ac-0658-4250-a069-a2b304177972.png",
+    "production": "public/print/creative-{480,960,1536}.webp"
+  },
+  "strategy": {
+    "source": "/Users/mandijordan/.codex/generated_images/01a0785f-c01f-7ef2-b0b7-15f065e2d514/exec-cfe7ae51-1526-4034-8847-eef7d2e673ab.png",
+    "production": "public/print/strategy-{480,960,1536}.webp"
+  },
+  "media": {
+    "source": "/Users/mandijordan/.codex/generated_images/01a0785f-c01f-7ef2-b0b7-15f065e2d514/exec-cf060c9c-cd3a-4f99-bcfa-f4d1b44ed086.png",
+    "production": "public/print/media-{480,960,1536}.webp"
+  },
+  "search": {
+    "source": "/Users/mandijordan/.codex/generated_images/01a0785f-c01f-7ef2-b0b7-15f065e2d514/exec-86baebbb-2328-4eff-9cb5-a48130a1676c.png",
+    "production": "public/print/search-{480,960,1536}.webp"
+  },
+  "conversion": {
+    "source": "/Users/mandijordan/.codex/generated_images/01a0785f-c01f-7ef2-b0b7-15f065e2d514/exec-5648ee5b-e905-486d-8798-8ffcd8c87316.png",
+    "production": "public/print/conversion-{480,960,1536}.webp"
+  },
+  "measurement": {
+    "source": "/Users/mandijordan/.codex/generated_images/01a0785f-c01f-7ef2-b0b7-15f065e2d514/exec-8be30652-76a2-4220-9a78-0e0f7fc21e19.png",
+    "production": "public/print/measurement-{480,960,1536}.webp"
+  },
+  "thinking": {
+    "source": "/Users/mandijordan/.codex/generated_images/01a0785f-c01f-7ef2-b0b7-15f065e2d514/exec-90c372b7-b5c5-4040-a928-8ee76792a879.png",
+    "production": "public/print/thinking-{480,960,1536}.webp",
+    "status": "awaiting user review"
+  }
+}

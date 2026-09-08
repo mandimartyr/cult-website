@@ -1,0 +1,26 @@
+[
+  {
+    "width": 1440,
+    "overflow": 0,
+    "sixStates": true
+  },
+  {
+    "width": 768,
+    "overflow": 0,
+    "sixStates": true
+  },
+  {
+    "width": 390,
+    "overflow": 0,
+    "sixStates": true
+  },
+  {
+    "width": 360,
+    "overflow": 0,
+    "sixStates": true
+  },
+  {
+    "normal": "0.9s",
+    "reduced": "0s"
+  }
+]

@@ -1,0 +1,1307 @@
+REDESIGN THE CULT. ATTENTION AUDIT PACKAGE PAGE.
+
+The current page is commercially clear, but visually and editorially it feels too much like a conventional consulting service page.
+
+Do NOT simply restyle the existing sections.
+
+Do NOT preserve the current:
+
+hero
+table of contents
+job
+included / not included
+outcomes
+process
+capabilities
+next
+
+layout as-is.
+
+Keep the core offer.
+
+Rebuild the EXPERIENCE.
+
+---
+
+# THE OFFER
+
+THE ATTENTION AUDIT.
+
+Starting at $1,500.
+
+10–14 days.
+
+A focused full-funnel diagnostic designed to identify the commercial constraint limiting growth and sequence what should happen next.
+
+The audit may examine:
+
+strategy
+
+website
+
+search
+
+creative
+
+paid media
+
+email
+
+conversion
+
+measurement
+
+But it is NOT seven mini-audits stitched together.
+
+It is one investigation:
+
+# WHAT IS ACTUALLY HOLDING GROWTH BACK?
+
+---
+
+# CENTRAL IDEA
+
+The entire page should revolve around:
+
+# SYMPTOMS ARE NOT THE PROBLEM.
+
+# FIND THE CONSTRAINT.
+
+Businesses often react to symptoms:
+
+TRAFFIC IS DOWN.
+
+CPC IS UP.
+
+LEADS ARE FLAT.
+
+EMAIL IS QUIET.
+
+THE SITE FEELS OLD.
+
+SEO ISN’T MOVING.
+
+PAID IS GETTING EXPENSIVE.
+
+CONVERSION IS WEAK.
+
+Those statements may be true.
+
+They are not yet a diagnosis.
+
+CULT. looks across the system to understand:
+
+what changed
+
+where the leak actually begins
+
+what is causing it
+
+what matters commercially
+
+what should be fixed first
+
+what should stop
+
+what should be tested
+
+what should wait
+
+The Attention Audit turns scattered symptoms into a sequence.
+
+---
+
+# NEW HERO
+
+Do not lead with a generic cinematic background and a package title floating over it.
+
+The first viewport should immediately communicate diagnosis.
+
+Use a near-black background.
+
+Small:
+
+01 / AUDIT
+
+FROM $1,500
+
+10–14 DAYS
+
+Then enormous:
+
+# THE
+
+# ATTENTION
+
+# AUDIT.
+
+Then:
+
+# FIND THE
+
+# CONSTRAINT.
+
+Supporting copy:
+
+Your marketing may have ten visible problems.
+
+Usually, they are not ten separate problems.
+
+Before you spend more, add another channel, rebuild something, or change direction, find the constraint that matters first.
+
+CTA:
+
+START AN AUDIT →
+
+Secondary small link:
+
+SEE WHAT’S INCLUDED
+
+Do not overcrowd the hero.
+
+---
+
+# HERO VISUAL BEHAVIOUR
+
+Around the headline, surface fragments of commercial symptoms:
+
+TRAFFIC ↓
+
+CPC ↑
+
+CONVERSION ↓
+
+OPEN RATE ↓
+
+BRAND SEARCH ↔
+
+DEMO RATE ↓
+
+DIRECT TRAFFIC ↑
+
+BOUNCE ↑
+
+PIPELINE ↔
+
+Some should appear contradictory.
+
+This is intentional.
+
+As the visitor scrolls, these fragments should begin connecting.
+
+One becomes the likely constraint.
+
+Example:
+
+PAID CPC ↑
+
+is not necessarily the problem.
+
+The deeper sequence could become:
+
+ORGANIC VISIBILITY ↓
+
+↓
+
+PAID DEPENDENCE ↑
+
+↓
+
+CPC PRESSURE ↑
+
+↓
+
+CAC ↑
+
+Then:
+
+# THE EXPENSIVE SYMPTOM
+
+# WAS NOT THE FIRST FAILURE.
+
+This is the kind of thinking the Audit should demonstrate.
+
+Clearly label any example as illustrative.
+
+Do not present fictional figures as CULT client results.
+
+---
+
+# SCENE 02 — SYMPTOMS
+
+Hard transition.
+
+Huge:
+
+# WHAT
+
+# LOOKS
+
+# BROKEN?
+
+Create a dense field of common symptoms:
+
+WE NEED MORE TRAFFIC.
+
+PAID IS TOO EXPENSIVE.
+
+THE WEBSITE ISN’T CONVERTING.
+
+SEO IS SLOW.
+
+EMAIL DOESN’T DO MUCH.
+
+OUR CREATIVE IS TIRED.
+
+LEADS ARE BAD.
+
+SALES SAYS MARKETING ISN’T WORKING.
+
+WE NEED A NEW SITE.
+
+WE NEED MORE CONTENT.
+
+WE SHOULD TRY TIKTOK.
+
+WE SHOULD SPEND MORE.
+
+Let them overlap slightly.
+
+Feel noisy.
+
+Then begin crossing them out.
+
+Not because they are false.
+
+Because they are observations, not diagnoses.
+
+Then enormous:
+
+# SYMPTOMS
+
+# ARE NOT
+
+# STRATEGY.
+
+---
+
+# SCENE 03 — READ THE SYSTEM
+
+Now show what CULT actually audits.
+
+Do NOT create eight service cards.
+
+Use one full-width system.
+
+STRATEGY
+
+↓
+
+DISCOVERY
+
+↓
+
+ATTENTION
+
+↓
+
+CLICK
+
+↓
+
+LANDING
+
+↓
+
+CONVERSION
+
+↓
+
+FOLLOW-UP
+
+↓
+
+REVENUE
+
+↓
+
+MEASUREMENT
+
+Then let CULT’s actual capabilities attach to the appropriate points:
+
+SEARCH
+
+PAID
+
+CREATIVE
+
+WEB
+
+EMAIL
+
+ANALYTICS
+
+But the visual should communicate that these things interact.
+
+Example:
+
+A search problem can become a media-cost problem.
+
+A creative problem can look like an audience problem.
+
+A landing-page problem can make paid media look inefficient.
+
+A measurement problem can make good marketing look bad.
+
+An email problem can waste acquisition that already worked.
+
+Major line:
+
+# WE AUDIT
+
+# THE PATH.
+
+# NOT THE
+
+# DEPARTMENTS.
+
+This is stronger than repeatedly saying “full-funnel diagnostic.”
+
+---
+
+# COPY UPDATE — CORE DESCRIPTION
+
+Replace the existing repeated diagnostic paragraphs with:
+
+THE ATTENTION AUDIT IS FOR BUSINESSES THAT KNOW MARKETING IS UNDERPERFORMING BUT DO NOT YET TRUST THEIR DIAGNOSIS.
+
+We read the commercial path from visibility to conversion to retention, identify where performance begins to break down, and separate symptoms from causes.
+
+You leave knowing what deserves attention now, what should stop consuming time or budget, what needs to be tested, and what can wait.
+
+---
+
+# SCENE 04 — THE CONSTRAINT
+
+This should be the signature scene.
+
+Start with multiple possible problems:
+
+SEARCH
+
+PAID
+
+CREATIVE
+
+SITE
+
+EMAIL
+
+MEASUREMENT
+
+Then visually eliminate them.
+
+Example:
+
+SEARCH
+
+WATCH
+
+PAID
+
+SYMPTOM
+
+CREATIVE
+
+SECONDARY
+
+EMAIL
+
+NOT MATERIAL
+
+MEASUREMENT
+
+NEEDS CLEANUP
+
+SITE CONVERSION
+
+# PRIMARY CONSTRAINT
+
+Then clear the entire viewport.
+
+Leave:
+
+# CONVERSION
+
+# −—
+
+No fictional metric required.
+
+Then:
+
+PRIMARY CONSTRAINT
+
+LANDING EXPERIENCE
+
+COMMERCIAL EFFECT
+
+PAID AND ORGANIC DEMAND ARE ARRIVING.
+
+TOO LITTLE OF IT IS TURNING INTO ACTION.
+
+Then:
+
+# FIX THIS
+
+# BEFORE
+
+# BUYING MORE
+
+# TRAFFIC.
+
+This demonstrates what the audit is actually valuable for.
+
+---
+
+# SCENE 05 — FIX / STOP / TEST / WAIT
+
+This existing concept is strong.
+
+Elevate it into the main decision framework.
+
+Do NOT bury it as one bullet.
+
+Full viewport:
+
+# FIX.
+
+What is materially suppressing growth now.
+
+Example:
+
+LANDING-PAGE CONVERSION
+
+---
+
+Scroll:
+
+# STOP.
+
+Activity consuming resources without a clear commercial job.
+
+Example:
+
+LOW-INTENT PAID EXPANSION
+
+---
+
+Scroll:
+
+# TEST.
+
+A meaningful hypothesis that needs evidence.
+
+Example:
+
+CATEGORY LANDING-PAGE POSITIONING
+
+---
+
+Scroll:
+
+# WAIT.
+
+Ideas that may be useful later but do not deserve attention yet.
+
+Example:
+
+NEW CHANNEL EXPANSION
+
+Then:
+
+# PRIORITY
+
+# IS A STRATEGY.
+
+This should be one of the most memorable sections.
+
+---
+
+# SCENE 06 — WHAT YOU ACTUALLY GET
+
+Do not call the section:
+
+“What is in. What is not.”
+
+That sounds contractual.
+
+Use:
+
+# WHAT LEAVES
+
+# THE ROOM
+
+# WITH YOU.
+
+Then reveal four tangible outputs.
+
+Do not make them generic cards.
+
+Make them feel like pieces of the actual working document.
+
+01
+
+# THE DIAGNOSIS
+
+The primary commercial constraint and the evidence behind it.
+
+02
+
+# THE PRIORITY MAP
+
+What to:
+
+FIX
+
+STOP
+
+TEST
+
+WAIT
+
+03
+
+# THE 90-DAY SEQUENCE
+
+What happens first.
+
+What depends on what.
+
+Where investment is likely to matter most.
+
+04
+
+# THE WORKING SESSION
+
+A focused walkthrough of the findings, decisions, trade-offs, and next moves.
+
+Potential small line:
+
+NOT A 90-PAGE DECK.
+
+A WORKING MAP.
+
+---
+
+# COPY UPDATE — DELIVERABLE
+
+Replace:
+
+“A prioritized diagnosis and practical 90-day roadmap showing what should change first, what can wait, and where additional investment is most likely to matter.”
+
+With:
+
+# ONE DIAGNOSIS.
+
+# ONE PRIORITY MAP.
+
+# ONE 90-DAY SEQUENCE.
+
+The deliverable shows where growth is being constrained, the evidence behind that conclusion, what should change first, what should stop consuming resources, what needs to be tested, and what can wait.
+
+It is built to be used.
+
+Not presented once and forgotten.
+
+---
+
+# SCENE 07 — WHAT WE MAY LOOK AT
+
+Keep scope clarity.
+
+But do not frame it as a services menu.
+
+Headline:
+
+# WE FOLLOW
+
+# THE PROBLEM.
+
+Then the areas CULT may investigate:
+
+STRATEGY
+
+Is the commercial objective clear enough to guide the system?
+
+SEARCH
+
+Can buyers find you when intent exists?
+
+CREATIVE
+
+Is the message earning attention?
+
+PAID MEDIA
+
+Is spend creating the right kind of demand?
+
+WEBSITE
+
+Does attention have somewhere effective to land?
+
+EMAIL
+
+Does the relationship continue after the first action?
+
+CONVERSION
+
+Where is intent being lost?
+
+MEASUREMENT
+
+Can we trust the story the numbers are telling?
+
+This copy is more useful than simply naming channels.
+
+Let these appear as giant horizontal editorial rows.
+
+Not cards.
+
+---
+
+# SCENE 08 — WHAT THIS IS NOT
+
+Keep the existing boundaries, but sharpen the copy.
+
+Headline:
+
+# DIAGNOSIS
+
+# IS NOT
+
+# IMPLEMENTATION.
+
+Then:
+
+NOT INCLUDED IN THE AUDIT FEE
+
+Building the fixes.
+
+Campaign management.
+
+A site redesign for its own sake.
+
+A giant document padded to justify the fee.
+
+Invented benchmarks, rankings or performance claims.
+
+Then:
+
+# WE ARE NOT PAID
+
+# TO FIND
+
+# MORE WORK.
+
+Potential supporting copy:
+
+If the evidence says the right move is to leave something alone, that is a valid outcome.
+
+If you already have the team to execute the roadmap, use them.
+
+If CULT should build the missing piece, that becomes a separate Growth Build.
+
+If the system needs ongoing senior operation, that may become CULT. Partner.
+
+This gives the offer more credibility.
+
+---
+
+# IMPORTANT COPY CHANGE
+
+Remove or heavily revise:
+
+“Most audits become a Growth Build or a CULT. Partner engagement. The map is the start.”
+
+That line risks making the Audit sound like a paid sales funnel into larger work.
+
+Instead use:
+
+# THE AUDIT
+
+# DOES NOT OBLIGATE
+
+# THE NEXT ENGAGEMENT.
+
+Then:
+
+You may take the roadmap and run it internally.
+
+You may bring CULT. back to build the missing piece.
+
+You may need ongoing operation through CULT. Partner.
+
+Or the right next move may be to do nothing yet.
+
+The diagnosis should determine the next engagement.
+
+Not the other way around.
+
+This is a much stronger trust signal.
+
+---
+
+# SCENE 09 — HOW IT RUNS
+
+The existing Intake / Read the path / Roadmap structure is good.
+
+Keep it to three stages.
+
+But rewrite and art-direct it.
+
+01
+
+# GIVE US
+
+# THE REAL PICTURE.
+
+Business model.
+
+Commercial objective.
+
+Current marketing.
+
+Access.
+
+Analytics.
+
+Known problems.
+
+The number leadership actually cares about.
+
+---
+
+02
+
+# WE TRACE
+
+# THE BREAK.
+
+Visibility.
+
+Attention.
+
+Demand.
+
+Conversion.
+
+Retention.
+
+Measurement.
+
+We identify where the problem begins rather than where it becomes obvious.
+
+---
+
+03
+
+# WE SEQUENCE
+
+# THE RESPONSE.
+
+Diagnosis.
+
+Priority map.
+
+Quick wins.
+
+Dependencies.
+
+90-day roadmap.
+
+Working session.
+
+Then:
+
+# 10–14 DAYS.
+
+No elaborate process timeline.
+
+Three stages are enough.
+
+---
+
+# WHO THIS IS FOR
+
+Add one short commercial qualification scene.
+
+Headline:
+
+# START HERE
+
+# IF THE PROBLEM
+
+# IS STILL BLURRY.
+
+Good fit:
+
+Marketing activity exists.
+
+Performance feels weaker than it should.
+
+Different channels are telling different stories.
+
+You are considering increasing spend.
+
+You are considering rebuilding something.
+
+Your team has opinions but not enough shared evidence.
+
+You need a clear sequence before committing more budget.
+
+Then:
+
+# SKIP THE AUDIT
+
+# IF YOU ALREADY KNOW
+
+# WHAT NEEDS TO BE BUILT.
+
+Link:
+
+THE GROWTH BUILD →
+
+This is much clearer than burying the qualification in paragraphs.
+
+---
+
+# OPTIONAL EXAMPLE DIAGNOSIS
+
+Create one clearly labelled illustrative example.
+
+ILLUSTRATIVE AUDIT
+
+SYMPTOM
+
+PAID MEDIA COSTS ARE RISING.
+
+OBSERVATION
+
+MORE SPEND IS BEING USED TO MAINTAIN THE SAME DEMAND.
+
+CAUSE
+
+ORGANIC CATEGORY VISIBILITY HAS DECLINED.
+
+EFFECT
+
+PAID MEDIA IS REPLACING DEMAND THAT SEARCH PREVIOUSLY CAPTURED ORGANICALLY.
+
+CONSTRAINT
+
+SEARCH VISIBILITY.
+
+FIRST MOVE
+
+RECOVER HIGH-INTENT CATEGORY COVERAGE BEFORE EXPANDING PAID NON-BRAND.
+
+This is conceptual.
+
+Do not present it as a real CULT client result.
+
+This scene demonstrates the value of the audit better than another paragraph can.
+
+---
+
+# FINAL CTA
+
+Do not end with two generic cards for Build and Partner.
+
+First make the Audit decision.
+
+Full viewport.
+
+Small:
+
+FROM $1,500
+
+10–14 DAYS
+
+Then enormous:
+
+# STOP
+
+# GUESSING
+
+# WHAT’S
+
+# BROKEN.
+
+Then:
+
+THE ATTENTION AUDIT.
+
+Find the constraint.
+
+Sequence the response.
+
+CTA:
+
+# START AN AUDIT →
+
+Then small secondary navigation beneath:
+
+ALREADY KNOW WHAT NEEDS TO CHANGE?
+
+THE GROWTH BUILD →
+
+NEED ONGOING OPERATION?
+
+CULT. PARTNER →
+
+---
+
+# VISUAL DIRECTION
+
+This page should feel:
+
+diagnostic
+
+forensic
+
+analytical
+
+editorial
+
+precise
+
+commercial
+
+slightly severe
+
+highly controlled
+
+Think:
+
+strategy war room
+
+marked-up report
+
+editorial investigation
+
+financial analysis
+
+creative redlining
+
+commercial post-mortem
+
+NOT:
+
+cybersecurity
+
+hospital diagnostics
+
+SaaS analytics dashboard
+
+consulting PowerPoint
+
+spreadsheet aesthetic
+
+generic agency services page
+
+---
+
+# VISUAL LANGUAGE
+
+Use:
+
+black
+
+white / paper
+
+chrome
+
+CULT pink as the annotation / diagnosis colour
+
+hard rules
+
+redactions
+
+strikethroughs
+
+margin notes
+
+annotations
+
+underlines
+
+editorial numbering
+
+large evidence statements
+
+small technical metadata
+
+oversized type
+
+intentional whitespace
+
+The pink should behave like a strategist’s marker pen:
+
+circle
+
+underline
+
+connect
+
+cross out
+
+prioritize
+
+Do not use it as ambient decoration.
+
+---
+
+# SIGNATURE MOTIF
+
+The page needs one recurring motif:
+
+# THE CULT MARKUP.
+
+Raw observations appear in white.
+
+CULT annotations appear in pink.
+
+Examples:
+
+TRAFFIC DOWN
+
+→ SYMPTOM
+
+CPC UP
+
+→ EFFECT
+
+LANDING CONVERSION
+
+→ INVESTIGATE
+
+MEASUREMENT
+
+→ UNRELIABLE
+
+ORGANIC CATEGORY SHARE
+
+→ PRIMARY CONSTRAINT
+
+This markup system can travel through the entire page.
+
+It makes the Audit feel like an actual CULT methodology without inventing a fake proprietary framework.
+
+---
+
+# INTERACTION
+
+Useful interactions:
+
+symptoms appearing and being crossed out
+
+cause-and-effect lines forming
+
+one primary constraint becoming visually dominant
+
+FIX / STOP / TEST / WAIT replacing one another full-screen
+
+audit-document fragments sliding into alignment
+
+annotations appearing as the user moves through the page
+
+90-day priorities physically sequencing themselves
+
+Avoid:
+
+floating cards
+
+generic scroll fade on every element
+
+cursor gimmicks
+
+glowing analytics
+
+3D diagrams
+
+animated graphs with fake numbers
+
+---
+
+# COPY HIERARCHY
+
+Even if the visitor only reads the giant text, the page should say:
+
+THE ATTENTION AUDIT.
+
+FIND THE CONSTRAINT.
+
+SYMPTOMS ARE NOT STRATEGY.
+
+WE AUDIT THE PATH. NOT THE DEPARTMENTS.
+
+FIX.
+
+STOP.
+
+TEST.
+
+WAIT.
+
+PRIORITY IS A STRATEGY.
+
+ONE DIAGNOSIS. ONE PRIORITY MAP. ONE 90-DAY SEQUENCE.
+
+DIAGNOSIS IS NOT IMPLEMENTATION.
+
+THE AUDIT DOES NOT OBLIGATE THE NEXT ENGAGEMENT.
+
+STOP GUESSING WHAT’S BROKEN.
+
+Everything else supports these statements.
+
+---
+
+# KEEP THESE COMMERCIAL DETAILS
+
+FROM $1,500
+
+10–14 DAYS
+
+FULL-FUNNEL REVIEW MAY INCLUDE:
+
+Strategy
+Website
+Search
+Creative
+Paid media
+Email
+Conversion
+Measurement
+
+DELIVERABLES:
+
+Primary diagnosis
+
+Evidence
+
+FIX / STOP / TEST / WAIT priority map
+
+90-day roadmap
+
+Working session
+
+Implementation is separate.
+
+Do not fabricate results, rankings, benchmarks, testimonials or client logos.
+
+---
+
+# SEO / PAGE COPY
+
+Use an SEO title along the lines of:
+
+Marketing Audit & Growth Strategy | CULT.
+
+Meta description:
+
+CULT.’s Attention Audit is a focused full-funnel marketing audit that identifies what is limiting growth, what should change first, and what to do over the next 90 days.
+
+The visible H1 should remain:
+
+THE ATTENTION AUDIT.
+
+Do not stuff “marketing audit” language throughout the page.
+
+Use natural supporting language around:
+
+marketing audit
+
+full-funnel marketing audit
+
+growth strategy
+
+conversion audit
+
+paid media audit
+
+SEO audit
+
+website conversion
+
+marketing performance
+
+only where contextually useful.
+
+The page should sell the offer first.
+
+Search optimization should remain invisible to the reader.
+
+---
+
+# MOBILE
+
+This page must remain highly art-directed on mobile.
+
+Do not turn it into:
+
+heading
+
+paragraph
+
+heading
+
+paragraph
+
+list
+
+list
+
+CTA
+
+Preserve:
+
+giant statements
+
+markup annotations
+
+symptom elimination
+
+constraint reveal
+
+FIX / STOP / TEST / WAIT
+
+deliverable sequence
+
+strong final CTA
+
+Make type responsive so oversized language does not clip.
+
+Maintain legibility.
+
+---
+
+# FINAL TEST
+
+At the beginning of the page:
+
+THE CLIENT HAS MANY POSSIBLE PROBLEMS.
+
+At the end:
+
+THE CLIENT UNDERSTANDS WHAT DESERVES ATTENTION FIRST.
+
+The visitor should EXPERIENCE that change.
+
+If the redesigned page still feels like a well-written description of an audit package, redesign it again.
+
+The page should prove the value of diagnosis by behaving like a diagnosis.
+
+# DO NOT EXPLAIN THE AUDIT.
+
+# PERFORM A SMALL VERSION OF IT.

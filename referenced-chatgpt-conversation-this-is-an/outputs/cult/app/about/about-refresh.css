@@ -1,0 +1,244 @@
+/* About-specific composition, preserving the shared brand typography. */
+html.riso .about-page .page-hero {
+  display: flex;
+  align-items: flex-end;
+  min-height: var(--cult-hero-h);
+  padding: 120px 5vw 45px;
+  position: relative;
+}
+html.riso .about-page .page-hero h1.cult-poster-title {
+  font: 400 clamp(72px, 17.5vw, 260px)/1 var(--font-cult-display), Impact, sans-serif;
+  letter-spacing: -0.025em;
+  width: 100%;
+  max-width: none;
+  margin: 0;
+  text-transform: uppercase;
+}
+html.riso .about-page .page-hero h1.cult-poster-title span {
+  display: block;
+  width: max-content;
+  max-width: 100%;
+  margin: 0;
+  transform-origin: left;
+  font-size: 1em;
+  line-height: inherit;
+}
+html.riso .about-page .page-hero h1.cult-poster-title span:first-child { transform: scaleX(0.6); }
+html.riso .about-page .page-hero h1.cult-poster-title span:nth-child(2) { transform: scaleX(0.65); }
+html.riso .about-page .page-hero h1.cult-poster-title span:nth-child(2) {
+  color: var(--accent);
+}
+.about-intro-strip {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 5vw;
+  padding: 28px 5vw;
+  border-block: 1px solid #555;
+  background: #eee9df;
+  color: #050505;
+}
+html.riso .about-page .about-intro-strip p {
+  font: 400 14px/1.7 var(--font-cult-mono);
+  margin: 0;
+  max-width: 55ch;
+  padding: 0;
+  background: none;
+  border: 0;
+  color: #050505;
+}
+html.riso .about-page .about-intro-strip p:first-child {
+  font-weight: 700;
+}
+.about-signal {
+  display: grid;
+  grid-template-columns: 0.8fr 1.2fr;
+  margin: 35px 5vw 0;
+  border: 1px solid #555;
+  background: #050505;
+}
+.about-signal-art {
+  position: relative;
+  min-height: 360px;
+  overflow: hidden;
+}
+.about-signal-art img {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  object-fit: cover;
+  object-position: 75% center;
+}
+.about-signal-copy {
+  padding: 40px;
+}
+html.riso .about-page .about-signal h2 {
+  font: 400 clamp(42px, 6vw, 86px)/1.04 var(--font-cult-display);
+  letter-spacing: 0;
+  margin: 20px 0;
+  text-transform: uppercase;
+}
+.about-signal h2 em {
+  font-style: normal;
+  color: var(--accent);
+}
+html.riso .about-page .about-signal-copy > p:not(.label) {
+  font: 400 15px/1.75 var(--font-cult-mono);
+  max-width: 49ch;
+  margin: 0;
+}
+.about-principles {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 45px 5vw;
+  gap: 1px;
+  background: #050505;
+}
+.about-principle {
+  padding: 28px;
+  min-height: 235px;
+  background: #eee9df;
+  color: #050505;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 25px;
+}
+html.riso .about-page .about-principle h2 {
+  font: 400 clamp(32px, 4.4vw, 62px)/1.08 var(--font-cult-display);
+  letter-spacing: 0;
+  margin: 0;
+  text-transform: uppercase;
+}
+html.riso .about-page .about-principle .label {
+  font: 400 12px var(--font-cult-mono);
+  color: inherit;
+}
+.about-principle:nth-child(2) {
+  background: var(--accent);
+  color: #050505;
+}
+.about-principle:nth-child(3) {
+  background: #161616;
+  color: #eee9df;
+}
+.about-principle:nth-child(4) {
+  background: #e8d72d;
+  color: #050505;
+}
+.about-principle:nth-child(2) .accent {
+  color: #050505;
+}
+.about-agency {
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+  border-block: 1px solid #555;
+}
+.about-agency-art {
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  opacity: 0.2;
+}
+.about-agency-art img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  object-position: left center;
+}
+html.riso .about-page .about-agency .founder {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 5vw;
+  padding: 50px 5vw;
+  min-height: 0;
+  background: transparent;
+}
+html.riso .about-page .about-agency .founder h2 {
+  font: 400 clamp(40px, 5vw, 72px)/1.07 var(--font-cult-display);
+  letter-spacing: 0;
+  margin-top: 24px;
+}
+html.riso .about-page .about-agency .founder h2 strong,
+html.riso .about-page .about-agency .founder h2 span {
+  font: inherit;
+  display: block;
+}
+html.riso .about-page .about-agency .founder h2 > span {
+  color: var(--accent);
+  margin-top: 12px;
+}
+html.riso .about-page .about-agency .founder-copy {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  max-width: 52ch;
+}
+html.riso .about-page .about-agency .founder-copy p {
+  font: 400 14px/1.75 var(--font-cult-mono);
+  margin: 0 0 18px;
+}
+html.riso .about-page .about-agency .founder-copy p:first-child {
+  font-weight: 700;
+}
+@media (max-width: 700px) {
+  html.riso .about-page .page-hero {
+    min-height: var(--cult-hero-h);
+    padding-top: 110px;
+    align-items: flex-start;
+  }
+  html.riso .about-page .page-hero h1.cult-poster-title {
+    font-size: clamp(56px, 18.5vw, 120px);
+    width: 70%;
+  }
+  .about-intro-strip,
+  .about-signal,
+  html.riso .about-page .about-agency .founder {
+    grid-template-columns: 1fr;
+  }
+  .about-signal-art {
+    min-height: 220px;
+  }
+  .about-signal-copy {
+    padding: 25px;
+  }
+  .about-principles {
+    grid-template-columns: 1fr;
+  }
+  .about-principle {
+    min-height: 190px;
+  }
+  .about-intro-strip {
+    gap: 15px;
+  }
+  html.riso .about-page .about-agency .founder {
+    padding-block: 35px;
+    gap: 25px;
+  }
+}
+/* Complete the About page rhythm with a compact entry directory and sign-off. */
+html.riso .about-page .about-path{padding:45px 5vw;min-height:0;background:#050505}
+html.riso .about-page .about-path h2{font:400 clamp(38px,5vw,68px)/1.1 var(--font-cult-display);letter-spacing:0;margin:18px 0}
+html.riso .about-page .about-path-lead{font:400 14px/1.7 var(--font-cult-mono);max-width:55ch;margin:0 0 25px}
+html.riso .about-page .about-path-ways{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:0;border:1px solid #555;margin:25px 0 0;padding:0;list-style:none}
+html.riso .about-page .about-path-ways li{margin:0;padding:0;border:0;min-width:0}
+html.riso .about-page .about-path-ways li+li{border-left:1px solid #555}
+html.riso .about-page .about-path-ways a{display:flex;flex-direction:column;gap:14px;padding:24px;height:100%;background:none;transition:background .2s}
+html.riso .about-page .about-path-ways a:hover{background:#191919}
+html.riso .about-page .about-path-ways a strong{font:400 30px/1.15 var(--font-cult-display);letter-spacing:0}
+html.riso .about-page .about-path-ways a>span{font:400 12px/1.7 var(--font-cult-mono)}
+html.riso .about-page .about-path-ways .about-path-price{color:var(--accent);font-weight:700}
+html.riso .about-page .print-close{min-height:0;padding:45px 5vw;display:grid;grid-template-columns:1fr 1fr;gap:25px 5vw}
+html.riso .about-page .print-close>.label{grid-column:1/-1}
+html.riso .about-page .print-close h2{font:400 clamp(44px,6vw,82px)/1.02 var(--font-cult-display);letter-spacing:0;margin:0}
+html.riso .about-page .close-invitation{align-self:center;margin:0;padding:0}
+html.riso .about-page .close-invitation p{font:400 14px/1.7 var(--font-cult-mono);margin-bottom:22px}
+html.riso .about-page .close-note{display:block;font:400 11px/1.6 var(--font-cult-mono);margin-top:18px}
+@media(max-width:700px){html.riso .about-page .about-path-ways{grid-template-columns:1fr}html.riso .about-page .about-path-ways li+li{border-left:0;border-top:1px solid #555}html.riso .about-page .print-close{grid-template-columns:1fr;padding-block:35px}html.riso .about-page .print-close>.label{grid-column:auto}}
+@media(prefers-reduced-motion:reduce){html.riso .about-page .about-path-ways a{transition:none}}
+
+/* Two-line wordmark: keep START A together and give CULT the dominant scale. */
+html.riso .about-page .page-hero h1.cult-poster-title{width:100%;font-size:clamp(72px,17.5vw,260px);line-height:1;letter-spacing:-.025em}
+html.riso .about-page .page-hero h1.cult-poster-title span{white-space:nowrap;transform-origin:left}
+html.riso .about-page .page-hero h1.cult-poster-title span:nth-child(2){font-size:1em;line-height:1.02;margin-top:12px}
+@media(max-width:700px){html.riso .about-page .page-hero{min-height:var(--cult-hero-h);align-items:center}html.riso .about-page .page-hero h1.cult-poster-title{width:90%;font-size:18vw}}

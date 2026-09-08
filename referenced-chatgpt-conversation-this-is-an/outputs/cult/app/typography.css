@@ -1,0 +1,341 @@
+/* Approved CULT system: Print + Terminal. Local brand studies keep their fonts.
+   Anton: display. Space Mono 400: reading. 700: actions. Italic: editorial notes. */
+html.riso
+  :is(
+    .home-page,
+    .about-page,
+    .contact-page,
+    .work-page,
+    .sv-page,
+    .pk-page,
+    .journal,
+    .journal-index,
+    .print-footer,
+    .print-close
+  ) {
+  --font-cult-body: var(--font-cult-mono);
+  --font-cult-heading: var(--font-cult-display);
+  font-family: var(--font-cult-mono), monospace;
+  font-weight: 400;
+}
+/* Public route H1s: same Anton face as homepage hero (never Barlow). */
+html.riso
+  :is(
+    .home-page,
+    .about-page,
+    .contact-page,
+    .work-page,
+    .sv-page,
+    .pk-page,
+    .journal,
+    .journal-index
+  )
+  :is(h1, h1.cult-poster-title) {
+  font-family: var(--font-cult-display), Impact, sans-serif;
+  font-weight: 400;
+}
+html.riso .header :is(.primary-nav a, .menu-toggle) {
+  font-family: var(--font-cult-mono), monospace;
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 1.4;
+  letter-spacing: 0;
+}
+html.riso .header .nav-number {
+  font-family: var(--font-cult-mono), monospace;
+  font-size: 10px;
+  font-weight: 400;
+  letter-spacing: 0.05em;
+}
+html.riso
+  :is(.home-page, .about-page, .contact-page, .work-page, .sv-page, .pk-page, .journal, .journal-index)
+  :is(p, li, dd) {
+  font-family: var(--font-cult-mono), monospace;
+  letter-spacing: 0;
+}
+html.riso
+  :is(.home-page, .about-page, .contact-page, .work-page, .sv-page, .pk-page, .journal, .journal-index)
+  :is(h2, h3) {
+  font-family: var(--font-cult-display), Impact, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.02em;
+}
+html.riso
+  :is(
+    .sv-main .sr-system,
+    .sv-main .sr-process,
+    .sv-main .sr-start,
+    .about-page .gravity,
+    .home-page .engagement-intro,
+    .home-page .portfolio-intro
+  )
+  h2 {
+  font-size: clamp(42px, 6.5vw, 96px);
+  line-height: 1.04;
+}
+html.riso
+  :is(.home-page, .about-page, .contact-page, .work-page, .sv-page, .pk-page, .journal, .journal-index)
+  :is(
+    .sr-intro,
+    .sv-intro,
+    .page-intro p,
+    .principle p,
+    .gravity > p:not(.label),
+    .story-copy,
+    .contact-aside > p,
+    .pk-intro
+  ) {
+  font-size: clamp(15px, 1.25vw, 18px);
+  font-weight: 400;
+  line-height: 1.7;
+  max-width: 58ch;
+}
+html.riso .sv-main .sr-system .sr-intro {
+  font-size: clamp(15px, 1.25vw, 18px);
+  line-height: 1.7;
+  max-width: 58ch;
+}
+html.riso .home-page .hero-description {
+  font-family: var(--font-cult-mono), monospace !important;
+  font-size: 16px !important;
+  line-height: 1.65 !important;
+}
+html.riso
+  :is(.home-page, .about-page, .contact-page, .work-page, .sv-page, .pk-page, .journal, .journal-index)
+  :is(.action, .sv-link, button, summary, input, textarea, select) {
+  font-family: var(--font-cult-mono), monospace;
+  letter-spacing: 0;
+}
+html.riso
+  :is(.home-page, .about-page, .contact-page, .work-page, .sv-page, .pk-page, .journal, .journal-index)
+  :is(.action, .sv-link, button, summary) {
+  font-weight: 700;
+}
+html.riso
+  :is(.home-page, .about-page, .contact-page, .work-page, .sv-page, .pk-page, .journal, .journal-index)
+  :is(.action, .sv-link) {
+  font-size: clamp(13px, 1.05vw, 16px);
+  line-height: 1.45;
+}
+html.riso
+  :is(.home-page, .about-page, .contact-page, .work-page, .sv-page, .pk-page, .journal, .journal-index)
+  :is(input, textarea, select) {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+}
+html.riso
+  :is(.home-page, .about-page, .contact-page, .work-page, .sv-page, .pk-page, .journal, .journal-index)
+  :is(.label, .sv-label, .pk-label, .contact-register) {
+  font-family: var(--font-cult-mono), monospace;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 1.5;
+  letter-spacing: 0.07em;
+}
+html.riso
+  :is(.home-page, .about-page, .contact-page, .work-page, .sv-page, .pk-page, .journal, .journal-index)
+  :is(strong, b) {
+  font-weight: 700;
+}
+html.riso
+  :is(.home-page, .about-page, .contact-page, .work-page, .sv-page, .pk-page, .journal, .journal-index)
+  :is(.planning-note, .close-note, .archive-disclosure) {
+  font-family: var(--font-cult-mono), monospace;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 12px;
+  line-height: 1.65;
+}
+html.riso .print-footer .footer-directory a {
+  font-family: var(--font-cult-display), Impact, sans-serif;
+  font-weight: 400;
+}
+html.riso
+  .print-footer
+  :is(.footer-register, .footer-colophon, .footer-signature > p) {
+  font-family: var(--font-cult-mono), monospace;
+}
+html.riso .print-footer .footer-signature > p {
+  font-size: clamp(14px, 1.65vw, 24px);
+  font-style: italic;
+  line-height: 1.4;
+}
+html.riso .print-close .close-invitation .action {
+  font-family: var(--font-cult-mono), monospace;
+  font-size: clamp(15px, 1.4vw, 20px);
+  font-weight: 700;
+  line-height: 1.45;
+  letter-spacing: 0;
+}
+/* Work archive chrome only. Do not cascade a font reset into designed mockups. */
+html.riso
+  .cult-gallery
+  :is(
+    .cg-hero,
+    .cg-strip,
+    .cg-jump,
+    .cg-head,
+    .cg-study-info,
+    .cg-caption,
+    .cg-credit,
+    .cg-cta
+  ) {
+  font-family: var(--font-cult-mono), monospace;
+}
+html.riso
+  .cult-gallery
+  :is(.cg-hero p, .cg-head p, .cg-study-info p, .cg-credit p) {
+  font-family: var(--font-cult-mono), monospace;
+  line-height: 1.65;
+}
+html.riso
+  .cult-gallery
+  :is(.cg-hero h1, .cg-head h2, .cg-study-info h3, .cg-cta h2) {
+  font-family: var(--font-cult-display), "Anton", sans-serif;
+  font-weight: 400;
+}
+html.riso .cult-gallery :is(.cg-jump a, .cg-filters button, .cg-cta a) {
+  font-family: var(--font-cult-mono), monospace;
+  font-weight: 700;
+}
+@media (max-width: 600px) {
+  html.riso .header .primary-nav a {
+    font-size: 18px;
+    line-height: 1.5;
+  }
+  html.riso .header .menu-toggle {
+    font-size: 13px;
+  }
+  html.riso
+    :is(.home-page, .about-page, .contact-page, .work-page, .sv-page, .pk-page, .journal, .journal-index)
+    :is(.sr-intro, .page-intro p, .pk-intro) {
+    font-size: 15px;
+    line-height: 1.7;
+  }
+  html.riso .print-footer .footer-signature > p {
+    font-size: 13px;
+  }
+}
+/* User-approved typewriter accent: preserve Courier in the Services rail. */
+html.riso .sv-main .sv-channel-rail {
+  font-family: 'Courier New', monospace;
+  font-weight: 400;
+  letter-spacing: 0.04em;
+}
+html.riso .sv-main .sv-channel-rail span {
+  font-family: inherit;
+  font-weight: 400;
+}
+html.riso .sv-main .sv-proposition p {
+  font-family: var(--font-cult-mono), monospace;
+  font-size: clamp(16px, 1.5vw, 22px);
+  line-height: 1.7;
+  max-width: 58ch;
+}
+html.riso .sv-main .sv-proposition strong {
+  display: inline;
+  font-weight: 700;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+  background: #eee9df;
+  color: #080808;
+  padding: 0.1em 0.25em;
+}
+html.riso .sv-main .sr-intro strong {
+  font-weight: 700;
+  color: #eee9df;
+  text-decoration: underline;
+  text-decoration-color: var(--accent);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 0.25em;
+}
+html.riso
+  :is(.home-page, .about-page, .contact-page, .work-page, .sv-page, .pk-page, .journal, .journal-index)
+  :is(.action, .sv-link):hover {
+  font-style: italic;
+}
+html.riso .contact-page .contact-register {
+  font-weight: 700;
+}
+html.riso .sv-main .sv-hero-credit {
+  font-weight: 400;
+  letter-spacing: 0.08em;
+}
+@media (max-width: 600px) {
+  html.riso .sv-main .sv-hero-baseline {
+    margin-top: 24px;
+  }
+}
+
+
+/* HOMEPAGE-MATCH H1 densification — same Anton squeeze as .print-hero h1 */
+html.riso
+  :is(.about-page, .contact-page, .sv-page, .pk-page)
+  :is(.page-hero, .contact-hero, .sv-hero, .pk-hero)
+  h1
+  > span,
+html.riso .sv-main .sv-hero h1 > span {
+  display: block;
+  width: max-content;
+  max-width: 100%;
+  transform-origin: left;
+  margin-left: 0 !important;
+}
+html.riso
+  :is(.about-page, .contact-page, .sv-page, .pk-page)
+  :is(.page-hero, .contact-hero, .sv-hero, .pk-hero)
+  h1
+  > span:first-child,
+html.riso .sv-main .sv-hero h1 > span:first-child {
+  transform: scaleX(0.6);
+}
+html.riso
+  :is(.about-page, .contact-page, .sv-page, .pk-page)
+  :is(.page-hero, .contact-hero, .sv-hero, .pk-hero)
+  h1
+  > span:nth-child(2),
+html.riso .sv-main .sv-hero h1 > span:nth-child(2) {
+  transform: scaleX(0.65);
+}
+html.riso
+  :is(.about-page, .contact-page, .sv-page, .pk-page)
+  :is(.page-hero, .contact-hero, .sv-hero, .pk-hero)
+  h1
+  > span:nth-child(3),
+html.riso .sv-main .sv-hero h1 > span:nth-child(3) {
+  transform: scaleX(0.65);
+}
+html.riso
+  :is(.about-page, .contact-page, .sv-page, .pk-page)
+  :is(.page-hero, .contact-hero, .sv-hero, .pk-hero)
+  h1,
+html.riso .sv-main .sv-hero h1 {
+  letter-spacing: -0.025em !important;
+  line-height: 1 !important;
+  font-family: var(--font-cult-display), "Anton", Impact, sans-serif !important;
+  font-weight: 400 !important;
+  text-transform: uppercase !important;
+}
+
+
+/* journal-hero densification — match About/Services poster H1s */
+html.riso .journal .journal-hero h1,
+html.riso .journal .journal-hero h1.cult-poster-title {
+  letter-spacing: -0.025em !important;
+  line-height: 1 !important;
+  font-size: clamp(72px, 17.5vw, 260px) !important;
+  font-family: var(--font-cult-display), "Anton", Impact, sans-serif !important;
+  font-weight: 400 !important;
+  text-transform: uppercase !important;
+}
+html.riso .journal .journal-hero h1 > :is(span, em) {
+  display: block;
+  width: max-content;
+  max-width: 100%;
+  margin-left: 0 !important;
+  transform-origin: left;
+  font: inherit;
+}
+html.riso .journal .journal-hero h1 > span:first-child { transform: scaleX(0.6); }
+html.riso .journal .journal-hero h1 > em { transform: scaleX(0.65); }

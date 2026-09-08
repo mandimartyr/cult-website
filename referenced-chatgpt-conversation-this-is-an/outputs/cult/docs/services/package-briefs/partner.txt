@@ -1,0 +1,1997 @@
+RADICALLY REDESIGN THE CULT. PARTNER PACKAGE PAGE.
+
+DO NOT simply restyle the current page.
+
+DO NOT preserve the current:
+
+hero
+table of contents
+job
+included / not included
+outcomes
+process
+capabilities
+next
+
+structure as a stack of conventional service-page sections.
+
+The underlying commercial offer is strong.
+
+The presentation is not.
+
+CULT. Partner should feel like the most sophisticated commercial relationship CULT. offers.
+
+It is not:
+
+a monthly marketing package
+
+a fractional marketing department
+
+an outsourced task queue
+
+unlimited requests
+
+a bundle of channels
+
+a junior account manager relaying work to specialists
+
+It is:
+
+# AN ACTIVE GROWTH OPERATING SYSTEM.
+
+Senior strategy.
+
+Continuous execution.
+
+Constant reading of evidence.
+
+One coordinated commercial rhythm.
+
+---
+
+# FIRST: THINK IN WIREFRAME SCENES
+
+Before implementation, establish the complete page spatially.
+
+Do not improvise the layout from prose.
+
+The final page should consist of approximately 8 major scenes:
+
+01 / LIVE
+02 / ONE SYSTEM
+03 / THE RHYTHM
+04 / DECISION
+05 / EXECUTION
+06 / THE EDGES
+07 / 90 DAYS
+08 / KEEP MOVING
+
+Every scene needs a genuinely different composition.
+
+Do NOT build:
+
+eight centered sections
+
+eight cards
+
+eight 1100px text containers
+
+or
+
+heading → paragraph → list → next section
+
+The Partner page should feel continuously active.
+
+---
+
+# DISTINCT FROM THE OTHER PACKAGES
+
+The three CULT service pages must have different behaviours.
+
+THE ATTENTION AUDIT
+
+Visual idea:
+
+NOISE → DIAGNOSIS
+
+Forensic.
+
+Annotated.
+
+Eliminating possibilities.
+
+---
+
+THE GROWTH BUILD
+
+Visual idea:
+
+MISSING → BUILT → LIVE
+
+Constructive.
+
+Kinetic.
+
+Assembly.
+
+Launch.
+
+---
+
+CULT. PARTNER
+
+Visual idea:
+
+# LIVE → READ → DECIDE → CHANGE → REPEAT
+
+Operational.
+
+Rhythmic.
+
+Continuous.
+
+Responsive.
+
+The Partner page should feel like the system never stops moving.
+
+---
+
+# THE OFFER
+
+CULT. PARTNER.
+
+From $4,000 / month.
+
+Ongoing.
+
+Core proposition:
+
+Ongoing senior strategy and execution across the channels that actually matter to growth.
+
+One growth strategy.
+
+One operating rhythm.
+
+No disconnected vendors.
+
+Existing inclusions to preserve:
+
+Senior strategy on the account — not a junior relay.
+
+Campaign planning and creative direction.
+
+The mix that matters: search, paid, web, email, conversion — as needed, not as a buffet.
+
+Weekly operating rhythm.
+
+Measurement that changes the next decision.
+
+Paid media spend is separate.
+
+Major production is separate.
+
+Do not fabricate a minimum term.
+
+Do not fabricate media budgets.
+
+Do not fabricate performance results.
+
+---
+
+# NEW CENTRAL POSITIONING
+
+The strongest distinction should be:
+
+# PARTNER IS NOT
+
+# MORE MARKETING.
+
+# IT IS
+
+# CONTINUOUS
+
+# DIRECTION.
+
+Businesses rarely suffer because nobody can launch another campaign.
+
+The harder problem is deciding:
+
+what deserves attention
+
+what stopped working
+
+what needs to change
+
+where budget should move
+
+what creative needs replacing
+
+what page needs fixing
+
+which channel deserves expansion
+
+which activity should stop
+
+and what the evidence says next
+
+CULT. Partner exists to keep making those decisions and putting them into market.
+
+---
+
+# NEW HERO
+
+Do NOT use another cinematic video with package title over it.
+
+Make this hero feel alive.
+
+Near black.
+
+The page is already operating when it loads.
+
+Large pieces of the commercial system are moving around the screen:
+
+SEARCH
+
+PAID
+
+CREATIVE
+
+WEB
+
+EMAIL
+
+CONVERSION
+
+MEASUREMENT
+
+They should not appear as cards.
+
+Think typography behaving like an active system.
+
+Small technical information can appear around the edges:
+
+WEEK / 08
+
+ACTIVE PRIORITIES / 03
+
+LIVE TESTS / 02
+
+NEXT READ / —
+
+Do NOT fabricate client performance numbers.
+
+These are interface-state concepts only.
+
+Then enormous:
+
+# CULT.
+
+# PARTNER.
+
+Then:
+
+# RUN
+
+# THE
+
+# SYSTEM.
+
+Supporting copy:
+
+Senior strategy and continuous execution across the parts of marketing that actually matter to growth.
+
+One strategy.
+
+One operating rhythm.
+
+No disconnected vendors.
+
+FROM $4,000 / MONTH
+
+ONGOING
+
+CTA:
+
+WORK WITH CULT. →
+
+Secondary:
+
+NEED SOMETHING SPECIFIC BUILT?
+
+THE GROWTH BUILD →
+
+---
+
+# HERO MOTION
+
+The system should continuously reorganize itself.
+
+For example:
+
+SEARCH
+
+moves up in priority.
+
+PAID
+
+reduces.
+
+CREATIVE
+
+enters active production.
+
+LANDING
+
+becomes a constraint.
+
+EMAIL
+
+moves to watch.
+
+MEASUREMENT
+
+connects everything.
+
+The point is not to create a fake dashboard.
+
+The point is:
+
+# PRIORITY CHANGES.
+
+The page should visibly respond.
+
+---
+
+# SCENE 01 — LIVE
+
+Hard transition.
+
+Huge:
+
+# MARKETING
+
+# DOES NOT
+
+# STAY FIXED.
+
+Then expose changing conditions:
+
+SEARCH DEMAND CHANGES.
+
+MEDIA COSTS CHANGE.
+
+CREATIVE FATIGUES.
+
+COMPETITORS MOVE.
+
+PAGES DECAY.
+
+AUDIENCES SHIFT.
+
+PIPELINE CHANGES.
+
+THE BUSINESS CHANGES.
+
+Then:
+
+# THE PLAN
+
+# HAS TO
+
+# MOVE TOO.
+
+This establishes why an ongoing relationship exists.
+
+Do not explain retainers.
+
+Explain the problem of static marketing.
+
+---
+
+# COPY UPDATE — CORE DESCRIPTION
+
+Use:
+
+CULT. PARTNER IS FOR BUSINESSES THAT ALREADY HAVE A MARKETING SYSTEM IN MOTION AND NEED SENIOR ATTENTION KEEPING IT USEFUL.
+
+We read performance, make the next decision, direct the work, ship what needs to change, and repeat.
+
+The channel mix changes with the problem.
+
+Search when search matters.
+
+Paid when paid matters.
+
+Creative when the message is tired.
+
+Web when conversion is leaking.
+
+Email when acquired attention is being wasted.
+
+Measurement throughout.
+
+Partner is not access to everything CULT. can do.
+
+It is access to CULT.’s judgement about what deserves doing next.
+
+---
+
+# SCENE 02 — ONE SYSTEM
+
+This should attack the fragmented-vendor problem visually.
+
+Start with a chaotic composition:
+
+SEO AGENCY
+
+PAID AGENCY
+
+FREELANCE DESIGNER
+
+WEB DEVELOPER
+
+EMAIL PLATFORM
+
+CONTENT WRITER
+
+INTERNAL TEAM
+
+ANALYTICS
+
+All separated.
+
+Each moving in a different direction.
+
+Then expose the problem:
+
+SEO OPTIMIZES TRAFFIC.
+
+PAID OPTIMIZES CLICKS.
+
+CREATIVE OPTIMIZES APPROVAL.
+
+WEB OPTIMIZES THE PAGE.
+
+EMAIL OPTIMIZES OPENS.
+
+NO ONE OWNS THE COMMERCIAL SEQUENCE.
+
+Then everything collapses.
+
+Leave:
+
+# ONE
+
+# GROWTH
+
+# STRATEGY.
+
+Under it:
+
+SEARCH
+
+CREATIVE
+
+MEDIA
+
+WEB
+
+EMAIL
+
+CONVERSION
+
+MEASUREMENT
+
+Then:
+
+# ONE SYSTEM
+
+# INSTEAD OF
+
+# A STACK
+
+# OF VENDORS.
+
+This comes directly from the existing Partner proposition.
+
+Make it massive.
+
+---
+
+# IMPORTANT COPY DISTINCTION
+
+Do NOT claim CULT replaces every internal or external resource.
+
+Instead say:
+
+CULT. can operate across the disciplines required by the growth strategy and coordinate with the people already inside the business.
+
+The value is not owning every task.
+
+The value is making the work move in the same direction.
+
+That is more credible.
+
+---
+
+# SCENE 03 — THE RHYTHM
+
+This should be the signature visual section.
+
+Headline:
+
+# EVERY WEEK
+
+# HAS A JOB.
+
+Create a continuous circular operating rhythm:
+
+# READ
+
+What changed?
+
+↓
+
+# DECIDE
+
+What matters?
+
+↓
+
+# DIRECT
+
+What should move?
+
+↓
+
+# MAKE
+
+What needs changing?
+
+↓
+
+# LAUNCH
+
+Put it into market.
+
+↓
+
+# MEASURE
+
+What happened?
+
+↓
+
+# LEARN
+
+What does that change?
+
+↓
+
+# NEXT
+
+Repeat.
+
+Do NOT put this inside a circular infographic.
+
+Make the entire page scroll through the cycle.
+
+Each verb can become an entire viewport.
+
+READ.
+
+DECIDE.
+
+MAKE.
+
+LAUNCH.
+
+MEASURE.
+
+LEARN.
+
+Then accelerate them into:
+
+READ / DECIDE / MAKE / LAUNCH / MEASURE / LEARN / REPEAT
+
+And finally:
+
+# ONE
+
+# OPERATING
+
+# RHYTHM.
+
+---
+
+# SCENE 04 — DECISION
+
+This is where Partner becomes more valuable than “ongoing execution.”
+
+Start with competing requests:
+
+MAKE MORE ADS.
+
+POST MORE.
+
+START TIKTOK.
+
+INCREASE GOOGLE.
+
+WRITE MORE BLOGS.
+
+REDESIGN THE SITE.
+
+SEND MORE EMAIL.
+
+LAUNCH ANOTHER CAMPAIGN.
+
+Then CULT cuts through them.
+
+Most disappear.
+
+Leave:
+
+# WHAT
+
+# MOVES
+
+# THE NUMBER?
+
+This is the question Partner keeps asking.
+
+Then present one clearly labelled illustrative decision:
+
+ILLUSTRATIVE WEEKLY READ
+
+OBSERVATION
+
+Paid traffic remains stable.
+
+CONVERSION
+
+Landing-page completion has weakened.
+
+CREATIVE
+
+Still generating qualified clicks.
+
+DECISION
+
+# DO NOT
+
+# INCREASE
+
+# MEDIA YET.
+
+NEXT MOVE
+
+Fix the landing experience first.
+
+Do not use fake statistics.
+
+Do not imply this is an actual CULT client.
+
+The point is to demonstrate how ongoing strategy changes execution.
+
+---
+
+# SIGNATURE LINE
+
+Give this an entire viewport:
+
+# ACTIVITY
+
+# IS NOT
+
+# THE JOB.
+
+Scroll.
+
+# THE NEXT
+
+# RIGHT MOVE
+
+# IS.
+
+This is central to Partner.
+
+---
+
+# SCENE 05 — KILL / SCALE / CHANGE
+
+Use the strongest existing Partner language.
+
+Full black.
+
+Then:
+
+# KILL
+
+# WHAT
+
+# IS QUIET.
+
+Show low-value activity disappearing.
+
+Examples:
+
+LOW-INTENT CAMPAIGN
+
+PAUSED
+
+WEAK CREATIVE
+
+REPLACED
+
+LOW-VALUE CONTENT
+
+STOPPED
+
+UNUSED CHANNEL
+
+REMOVED
+
+Then hard transition into CULT pink or white:
+
+# SCALE
+
+# WHAT
+
+# IS
+
+# LOUD.
+
+Examples:
+
+HIGH-INTENT SEARCH
+
+EXPAND
+
+WINNING CREATIVE ANGLE
+
+ITERATE
+
+STRONG LANDING PATH
+
+AMPLIFY
+
+ENGAGED EMAIL SEGMENT
+
+DEEPEN
+
+Again:
+
+No fake results.
+
+These are conceptual operating examples.
+
+Then:
+
+# THE EVIDENCE
+
+# CHANGES
+
+# THE WORK.
+
+This preserves one of the strongest ideas already on the current page.
+
+---
+
+# SCENE 06 — THE CHANNEL MIX
+
+Do not create another capability grid.
+
+Headline:
+
+# THERE IS
+
+# NO FIXED
+
+# CHANNEL MIX.
+
+Then make the disciplines behave like an equalizer or dynamic priority field.
+
+STRATEGY
+
+██████████
+
+SEARCH
+
+████████
+
+PAID
+
+████
+
+CREATIVE
+
+██████████
+
+WEB
+
+███
+
+EMAIL
+
+██████
+
+MEASUREMENT
+
+██████████
+
+But do NOT imply these represent actual spending or hours.
+
+Label:
+
+ILLUSTRATIVE PRIORITY MIX
+
+Then let the mix change.
+
+Another business problem creates another configuration.
+
+Example:
+
+LAUNCH PHASE
+
+CREATIVE ↑
+
+MEDIA ↑
+
+LANDING ↑
+
+---
+
+ORGANIC RECOVERY PHASE
+
+SEARCH ↑
+
+CONTENT ↑
+
+WEB ↑
+
+---
+
+RETENTION PHASE
+
+EMAIL ↑
+
+CONVERSION ↑
+
+MEASUREMENT ↑
+
+Then:
+
+# AS NEEDED.
+
+# NOT AS
+
+# A BUFFET.
+
+That existing phrase is good.
+
+Promote it.
+
+---
+
+# SUPPORTING COPY
+
+Partner can use:
+
+Strategy + Growth
+
+Websites + Conversion
+
+Search + Discovery
+
+Email + Lifecycle
+
+Paid Media + Programmatic
+
+Performance Creative
+
+Analytics + Optimization
+
+But do NOT present these as seven service cards.
+
+They are resources inside one operating model.
+
+The question is never:
+
+“What services are included this month?”
+
+The question is:
+
+# “WHAT DOES THE SYSTEM NEED NEXT?”
+
+---
+
+# SCENE 07 — SENIOR ATTENTION
+
+This needs to address one of the biggest frustrations buyers have with agencies.
+
+Start enormous:
+
+# NOT
+
+# A JUNIOR
+
+# RELAY.
+
+Then:
+
+Senior strategy stays close to the account.
+
+The people deciding what should change should understand:
+
+the business
+
+the objective
+
+the evidence
+
+the creative
+
+the channel economics
+
+the trade-offs
+
+Do not overpromise that one person literally executes every discipline.
+
+Instead position CULT as:
+
+senior strategic ownership
+
+with coordinated specialist execution where required.
+
+Potential line:
+
+# FEWER
+
+# LAYERS
+
+# BETWEEN
+
+# EVIDENCE
+
+# AND
+
+# ACTION.
+
+This is stronger and more believable.
+
+---
+
+# SCENE 08 — 90 DAYS
+
+The existing onboarding begins with:
+
+access
+
+baseline
+
+commercial objective
+
+ninety-day plan
+
+Keep that.
+
+But turn it into a living operating horizon.
+
+Headline:
+
+# LONG ENOUGH
+
+# TO HAVE
+
+# DIRECTION.
+
+# SHORT ENOUGH
+
+# TO CHANGE IT.
+
+Then show:
+
+NOW
+
+What deserves attention immediately?
+
+30
+
+What has to be launched or corrected?
+
+60
+
+What are we learning?
+
+90
+
+What changes next?
+
+Then:
+
+# PLAN
+
+# IN 90 DAYS.
+
+# OPERATE
+
+# EVERY WEEK.
+
+Do not imply a three-month minimum contract unless that is separately established.
+
+This is an operating-planning horizon only.
+
+---
+
+# ONBOARDING
+
+Make onboarding concise.
+
+Do not turn it into another six-step timeline.
+
+Use:
+
+# ACCESS.
+
+Analytics.
+
+Ad accounts.
+
+Site.
+
+CRM.
+
+Search data.
+
+Creative.
+
+Relevant systems.
+
+# BASELINE.
+
+What is true now?
+
+# OBJECTIVE.
+
+What commercial change matters?
+
+# PRIORITIES.
+
+What deserves work first?
+
+Then:
+
+# RUN.
+
+---
+
+# SCENE 09 — WHAT YOU ARE ACTUALLY BUYING
+
+This is an important copy rewrite.
+
+Do not position the fee as buying hours or deliverables.
+
+Headline:
+
+# YOU ARE NOT
+
+# BUYING
+
+# A MONTH
+
+# OF TASKS.
+
+Then:
+
+You are buying an operating relationship built around:
+
+SENIOR JUDGEMENT
+
+What matters next.
+
+DIRECTION
+
+What should change.
+
+EXECUTION
+
+Getting the work into market.
+
+COORDINATION
+
+Making channels serve the same objective.
+
+MEASUREMENT
+
+Reading what happened.
+
+ITERATION
+
+Changing the next move.
+
+Then:
+
+# THE OUTPUT
+
+# CHANGES.
+
+# THE STANDARD
+
+# DOESN’T.
+
+---
+
+# THE EDGES
+
+Preserve scope clarity from the existing package.
+
+Headline:
+
+# PARTNER
+
+# HAS EDGES.
+
+INCLUDED
+
+Senior strategy on the account.
+
+Campaign planning.
+
+Creative direction.
+
+Ongoing optimization.
+
+Weekly operating rhythm.
+
+Execution across the channel mix required by the strategy.
+
+Measurement that changes the next decision.
+
+---
+
+SEPARATE
+
+Paid media spend.
+
+Major production requirements.
+
+Material projects outside the agreed operating scope.
+
+Do not call unexpected major production “included.”
+
+Do not hide costs inside vague retainer language.
+
+---
+
+NOT THE MODEL
+
+Running every channel simply because CULT. offers it.
+
+A giant task buffet.
+
+A 40-page report nobody reads.
+
+Activity without a commercial purpose.
+
+Then:
+
+# MORE
+
+# ACTIVITY
+
+# IS NOT
+
+# MORE
+
+# VALUE.
+
+---
+
+# COPY UPDATE — “PREMIUM ONGOING RELATIONSHIP”
+
+Do not use:
+
+“The premium ongoing relationship.”
+
+It sounds like package-tier language.
+
+Replace it with:
+
+# SENIOR
+
+# MARKETING
+
+# OPERATION
+
+# WITHOUT
+
+# THE VENDOR
+
+# STACK.
+
+Supporting:
+
+CULT. Partner keeps strategy, creative, distribution, conversion and measurement in one operating conversation.
+
+The exact mix changes.
+
+The commercial objective does not.
+
+---
+
+# MONTHLY REPORTING
+
+The current page correctly rejects:
+
+“A 40-page monthly report nobody reads.”
+
+Keep the idea.
+
+Create a dramatic section:
+
+# NO
+
+# REPORT
+
+# THEATRE.
+
+Then:
+
+WHAT CHANGED?
+
+WHY?
+
+WHAT DID WE DO?
+
+WHAT HAPPENED?
+
+WHAT CHANGES NEXT?
+
+That is the reporting model.
+
+Potential closing line:
+
+# REPORTING
+
+# SHOULD
+
+# END
+
+# IN A
+
+# DECISION.
+
+Very strong CULT principle.
+
+---
+
+# PERFORMANCE CREATIVE
+
+Because Partner includes ongoing execution, make creative iteration visible.
+
+Show one campaign thought developing through versions:
+
+V01
+
+HEADLINE A
+
+V02
+
+ANGLE CHANGED
+
+V03
+
+FORMAT CHANGED
+
+V04
+
+LANDING MATCHED
+
+Then:
+
+# CREATIVE
+
+# IS NOT
+
+# FINISHED
+
+# WHEN IT
+
+# IS APPROVED.
+
+Scroll:
+
+# IT IS FINISHED
+
+# WHEN THE
+
+# EVIDENCE
+
+# SAYS
+
+# WHAT NEXT.
+
+Do not invent actual ad performance.
+
+This is process demonstration.
+
+---
+
+# MEASUREMENT
+
+Measurement should be woven throughout the page, not a capabilities section at the bottom.
+
+Use a recurring small status:
+
+READING
+
+ACTIVE
+
+WATCH
+
+CHANGE
+
+STOP
+
+SCALE
+
+Then eventually:
+
+# MEASUREMENT
+
+# IS NOT
+
+# THE END
+
+# OF THE WORK.
+
+# IT CHANGES
+
+# THE NEXT
+
+# DECISION.
+
+This is already central to the existing Partner promise.
+
+Elevate it.
+
+---
+
+# WHO PARTNER IS FOR
+
+Headline:
+
+# START HERE
+
+# WHEN THE
+
+# SYSTEM
+
+# ALREADY EXISTS.
+
+Good fit:
+
+Marketing is already active.
+
+There is a real commercial objective.
+
+Multiple channels need coordination.
+
+Decisions need to be made continuously.
+
+Performance needs interpretation, not just reporting.
+
+Creative needs ongoing iteration.
+
+There is enough activity to learn from.
+
+Leadership wants senior marketing attention without coordinating several disconnected vendors.
+
+---
+
+# WHO PARTNER IS NOT FOR
+
+Headline:
+
+# DO NOT
+
+# BUY PARTNER
+
+# TO “TRY
+
+# EVERYTHING.”
+
+Then:
+
+If you do not know what is broken:
+
+THE ATTENTION AUDIT →
+
+If you know exactly what needs to be built:
+
+THE GROWTH BUILD →
+
+If you only want task fulfilment with no strategic ownership:
+
+CULT. Partner is probably not the right model.
+
+If every channel has to run regardless of evidence:
+
+CULT. Partner is not the right model.
+
+---
+
+# IMPORTANT TRUST COPY
+
+Do not imply that being on Partner guarantees that CULT will constantly recommend additional work.
+
+Use:
+
+# SOMETIMES
+
+# THE RIGHT
+
+# MOVE
+
+# IS LESS.
+
+Pause a campaign.
+
+Reduce spend.
+
+Stop publishing.
+
+Leave a page alone.
+
+Do not rebuild something that is working.
+
+Partner should create enough strategic independence to say:
+
+# DON’T
+
+# DO THAT.
+
+This makes the relationship feel far more credible.
+
+---
+
+# FINAL CTA
+
+The final scene should feel ongoing rather than project-based.
+
+Near black.
+
+The operating sequence continues faintly in the background:
+
+READ
+
+DECIDE
+
+MAKE
+
+LAUNCH
+
+MEASURE
+
+LEARN
+
+Then enormous:
+
+# THE SYSTEM
+
+# IS ALREADY
+
+# MOVING.
+
+Pause.
+
+# RUN IT
+
+# BETTER.
+
+Then:
+
+CULT. PARTNER.
+
+FROM $4,000 / MONTH
+
+ONGOING
+
+CTA:
+
+WORK WITH CULT. →
+
+Secondary:
+
+NEED THE CONSTRAINT NAMED?
+
+THE ATTENTION AUDIT →
+
+NEED ONE THING BUILT?
+
+THE GROWTH BUILD →
+
+---
+
+# VISUAL LANGUAGE
+
+CULT. Partner should feel:
+
+operational
+
+senior
+
+fast
+
+composed
+
+adaptive
+
+precise
+
+commercial
+
+alive
+
+It should visually reference:
+
+creative direction desks
+
+editorial production systems
+
+media planning rooms
+
+contact sheets
+
+decision boards
+
+marked-up campaign work
+
+browser experiences
+
+media placements
+
+measurement
+
+working documents
+
+production
+
+But never become:
+
+project management software
+
+Monday.com
+
+Asana
+
+Notion
+
+a SaaS dashboard
+
+a media-buying dashboard
+
+a corporate consulting deck
+
+---
+
+# RECURRING VISUAL MOTIF
+
+Use:
+
+# THE OPERATING STATE.
+
+Tiny states can recur throughout the page:
+
+READ
+
+DECIDE
+
+ACTIVE
+
+LIVE
+
+WATCH
+
+CHANGE
+
+STOP
+
+SCALE
+
+NEXT
+
+Use these like production marks.
+
+For example:
+
+SEARCH
+
+STATE / SCALE
+
+CREATIVE
+
+STATE / CHANGE
+
+LANDING
+
+STATE / ACTIVE
+
+EMAIL
+
+STATE / WATCH
+
+Do NOT present fake numbers.
+
+This gives Partner a live-system feeling without turning the page into software.
+
+---
+
+# TYPOGRAPHY
+
+Use extreme hierarchy.
+
+Tiny:
+
+10–12px operational metadata.
+
+Normal:
+
+16–20px explanatory copy.
+
+Large:
+
+48–72px supporting principles.
+
+Huge:
+
+100–220px major decisions.
+
+Some scenes should have very little text.
+
+Others can become dense working surfaces.
+
+Avoid repeating:
+
+small kicker
+
+H2
+
+paragraph
+
+list
+
+---
+
+# COLOUR
+
+Keep the CULT core:
+
+BLACK
+
+WHITE
+
+CHROME
+
+CULT PINK
+
+Partner should probably be the darkest and most controlled of the three service package pages.
+
+Audit:
+
+paper / black / pink annotation.
+
+Build:
+
+black / white / pink construction energy.
+
+Partner:
+
+black / chrome / white with pink active states.
+
+Pink means:
+
+ACTIVE
+
+CHANGE
+
+PRIORITY
+
+Do not spray pink decoratively across the page.
+
+---
+
+# IMAGERY
+
+Use real-looking evidence of operating marketing:
+
+campaign iterations
+
+landing pages
+
+search architecture
+
+media creative
+
+email systems
+
+measurement views
+
+work-in-progress production
+
+planning artefacts
+
+creative reviews
+
+published output
+
+Use fragments from CULT’s Work studies where useful.
+
+Examples:
+
+HARDLINE for paid/search/conversion.
+
+NOCT. for creative/media.
+
+AER. for product/CRM.
+
+FIELD. for search/lifecycle.
+
+SIGNAL. for B2B demand.
+
+INDEX. for content/audience.
+
+Do not create a portfolio carousel.
+
+The work should appear because the Partner system is operating on it.
+
+---
+
+# MOTION
+
+Motion should express rhythm and decision.
+
+Good:
+
+priority labels changing
+
+work moving from WATCH → ACTIVE
+
+creative being replaced
+
+a campaign entering LIVE
+
+irrelevant channels fading out
+
+measurement feeding back into the next decision
+
+the weekly rhythm looping
+
+Bad:
+
+random parallax
+
+particles
+
+3D blobs
+
+hover tricks everywhere
+
+glowing dashboards
+
+constant scrolling marquees
+
+generic fade-up animation on every section
+
+Respect reduced-motion preferences.
+
+---
+
+# MOBILE
+
+Partner must remain dynamic on mobile.
+
+Do not turn it into a long service-page text stack.
+
+Preserve:
+
+live hero state
+
+one-system transformation
+
+READ / DECIDE / MAKE rhythm
+
+KILL / SCALE
+
+dynamic channel mix
+
+senior-attention statement
+
+90-day horizon
+
+scope boundaries
+
+reporting principle
+
+final CTA
+
+Large typography needs responsive scaling without clipping.
+
+Operating states can become a thin vertical rail or top status strip.
+
+---
+
+# SEO
+
+Suggested SEO title:
+
+Ongoing Growth Marketing Partner | CULT.
+
+Alternative:
+
+Full-Funnel Marketing Partner | CULT.
+
+Meta description:
+
+CULT. Partner provides ongoing senior marketing strategy and execution across search, paid media, creative, web, email, conversion and measurement. One strategy, one operating rhythm, from $4,000/month.
+
+Visible H1:
+
+CULT. PARTNER.
+
+Naturally support relevant concepts such as:
+
+growth marketing partner
+
+full-funnel marketing agency
+
+ongoing marketing strategy
+
+paid media management
+
+SEO
+
+performance creative
+
+conversion optimization
+
+email marketing
+
+marketing analytics
+
+Do not turn the page into a keyword landing page.
+
+---
+
+# COPY HIERARCHY
+
+If someone reads only the huge typography, the page should communicate:
+
+CULT. PARTNER.
+
+RUN THE SYSTEM.
+
+MARKETING DOES NOT STAY FIXED.
+
+THE PLAN HAS TO MOVE TOO.
+
+ONE SYSTEM INSTEAD OF A STACK OF VENDORS.
+
+EVERY WEEK HAS A JOB.
+
+ACTIVITY IS NOT THE JOB.
+
+THE NEXT RIGHT MOVE IS.
+
+KILL WHAT IS QUIET.
+
+SCALE WHAT IS LOUD.
+
+THE EVIDENCE CHANGES THE WORK.
+
+AS NEEDED. NOT AS A BUFFET.
+
+FEWER LAYERS BETWEEN EVIDENCE AND ACTION.
+
+PLAN IN 90 DAYS. OPERATE EVERY WEEK.
+
+YOU ARE NOT BUYING A MONTH OF TASKS.
+
+REPORTING SHOULD END IN A DECISION.
+
+SOMETIMES THE RIGHT MOVE IS LESS.
+
+THE SYSTEM IS ALREADY MOVING.
+
+RUN IT BETTER.
+
+---
+
+# DO NOT INVENT
+
+Do not fabricate:
+
+ROAS
+
+conversion increases
+
+traffic growth
+
+client logos
+
+testimonials
+
+monthly output counts
+
+guaranteed deliverables
+
+minimum contract term
+
+media-budget requirements
+
+team size
+
+response-time SLAs
+
+performance claims
+
+CULT earns credibility through the operating model and quality of thought.
+
+Not invented proof.
+
+---
+
+# FINAL DESIGN TEST
+
+Blur all body copy.
+
+The visual story should still communicate:
+
+THE BUSINESS IS LIVE.
+
+↓
+
+THE MARKET CHANGES.
+
+↓
+
+CULT READS THE SYSTEM.
+
+↓
+
+PRIORITY CHANGES.
+
+↓
+
+WORK CHANGES.
+
+↓
+
+THE WORK SHIPS.
+
+↓
+
+PERFORMANCE IS READ.
+
+↓
+
+THE NEXT DECISION CHANGES.
+
+↓
+
+REPEAT.
+
+If the page instead communicates:
+
+“Here are the services included in our $4,000/month package”
+
+the redesign has failed.
+
+CULT. Partner is not a retainer menu.
+
+# IT IS SENIOR JUDGEMENT
+
+# OPERATING THE MARKETING SYSTEM
+
+# CONTINUOUSLY.

@@ -1,0 +1,110 @@
+[
+  {
+    "width": 1440,
+    "id": "strategy",
+    "full": true,
+    "overflow": 0
+  },
+  {
+    "width": 1440,
+    "id": "creative",
+    "full": true,
+    "overflow": 0
+  },
+  {
+    "width": 1440,
+    "id": "media",
+    "full": true,
+    "overflow": 0
+  },
+  {
+    "width": 1440,
+    "id": "search",
+    "full": true,
+    "overflow": 0
+  },
+  {
+    "width": 1440,
+    "id": "conversion",
+    "full": true,
+    "overflow": 0
+  },
+  {
+    "width": 1440,
+    "id": "measurement",
+    "full": true,
+    "overflow": 0
+  },
+  {
+    "width": 851,
+    "id": "strategy",
+    "full": true,
+    "overflow": 0
+  },
+  {
+    "width": 851,
+    "id": "creative",
+    "full": true,
+    "overflow": 0
+  },
+  {
+    "width": 851,
+    "id": "media",
+    "full": true,
+    "overflow": 0
+  },
+  {
+    "width": 851,
+    "id": "search",
+    "full": true,
+    "overflow": 0
+  },
+  {
+    "width": 851,
+    "id": "conversion",
+    "full": true,
+    "overflow": 0
+  },
+  {
+    "width": 851,
+    "id": "measurement",
+    "full": true,
+    "overflow": 0
+  },
+  {
+    "width": 390,
+    "id": "strategy",
+    "full": true,
+    "overflow": 0
+  },
+  {
+    "width": 390,
+    "id": "creative",
+    "full": true,
+    "overflow": 0
+  },
+  {
+    "width": 390,
+    "id": "media",
+    "full": true,
+    "overflow": 0
+  },
+  {
+    "width": 390,
+    "id": "search",
+    "full": true,
+    "overflow": 0
+  },
+  {
+    "width": 390,
+    "id": "conversion",
+    "full": true,
+    "overflow": 0
+  },
+  {
+    "width": 390,
+    "id": "measurement",
+    "full": true,
+    "overflow": 0
+  }
+]

@@ -1,0 +1,554 @@
+/* CULT. sticky header + mobile panel */
+.cult-header {
+  --ch-h: 72px;
+  position: sticky;
+  top: 0;
+  z-index: 80;
+  width: 100%;
+  background: transparent;
+  color: #f4efe6;
+  transition: background-color 180ms ease, border-color 180ms ease, box-shadow 180ms ease;
+}
+.cult-header.is-scrolled,
+.cult-header.is-open {
+  background: rgba(5, 5, 5, 0.92);
+  border-bottom: 2px solid #2a2a2a;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+}
+.cult-header.is-scrolled {
+  box-shadow: 0 8px 0 rgba(239, 20, 114, 0.15);
+}
+.cult-header__bar {
+  height: var(--ch-h);
+  padding: 0 var(--gutter, 3.6vw);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+}
+.cult-header__brand {
+  display: flex;
+  align-items: center;
+  min-height: 44px;
+  z-index: 2;
+}
+.cult-header__desktop {
+  display: flex;
+  align-items: center;
+  gap: 8px 28px;
+}
+.cult-header__link {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 44px;
+  padding: 0 0.55rem;
+  font: 700 13px/1 var(--font-cult-mono), ui-monospace, monospace;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #f4efe6;
+  text-decoration: none;
+  border: 2px solid transparent;
+  box-sizing: border-box;
+}
+.cult-header__link:hover {
+  color: var(--accent, #ef1472);
+}
+.cult-header__link[aria-current='page'] {
+  border-color: var(--accent, #ef1472);
+  color: #f4efe6;
+}
+.cult-header__num {
+  font-size: 10px;
+  color: var(--accent, #ef1472);
+  font-variant-numeric: tabular-nums;
+}
+.cult-header__cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin-left: 8px;
+  padding: 0.7rem 0.95rem;
+  border: 2px solid var(--accent, #ef1472);
+  background: var(--accent, #ef1472);
+  color: #f4efe6;
+  font: 700 12px/1 var(--font-cult-mono), ui-monospace, monospace;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.cult-header__cta:hover {
+  background: #f4efe6;
+  border-color: #f4efe6;
+  color: #050505;
+}
+.cult-header__burger {
+  display: none;
+  align-items: center;
+  gap: 12px;
+  min-height: 44px;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: #f4efe6;
+  font: 700 12px/1 var(--font-cult-mono), ui-monospace, monospace;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  cursor: pointer;
+  z-index: 2;
+}
+.cult-header__burger-lines {
+  position: relative;
+  width: 28px;
+  height: 16px;
+  display: block;
+}
+.cult-header__burger-lines i {
+  position: absolute;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: #f4efe6;
+  transition: transform 220ms ease, opacity 160ms ease, top 220ms ease;
+}
+.cult-header__burger-lines i:nth-child(1) { top: 0; }
+.cult-header__burger-lines i:nth-child(2) { top: 7px; }
+.cult-header__burger-lines i:nth-child(3) { top: 14px; }
+.cult-header.is-open .cult-header__burger-lines i:nth-child(1) {
+  top: 7px;
+  transform: rotate(45deg);
+  background: var(--accent, #ef1472);
+}
+.cult-header.is-open .cult-header__burger-lines i:nth-child(2) {
+  opacity: 0;
+}
+.cult-header.is-open .cult-header__burger-lines i:nth-child(3) {
+  top: 7px;
+  transform: rotate(-45deg);
+  background: var(--accent, #ef1472);
+}
+.cult-header__panel {
+  display: none;
+}
+.cult-header__panel.is-open {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  position: fixed;
+  inset: var(--ch-h) 0 0;
+  z-index: 70;
+  padding: 28px var(--gutter, 20px) 36px;
+  background: #050505;
+  border-top: 2px solid var(--accent, #ef1472);
+  overflow: auto;
+}
+.cult-header__mobile {
+  display: grid;
+  gap: 0;
+}
+.cult-header__mobile-link {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  align-items: center;
+  gap: 16px;
+  padding: 18px 0;
+  border-bottom: 1px solid #2a2a2a;
+  color: #f4efe6;
+  text-decoration: none;
+}
+.cult-header__mobile-link:hover,
+.cult-header__mobile-link[aria-current='page'] {
+  color: var(--accent, #ef1472);
+}
+.cult-header__mobile-name {
+  font: 400 clamp(2.4rem, 12vw, 4.2rem)/0.9 var(--font-cult-display), Impact, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: -0.02em;
+}
+.cult-header__mobile-arrow {
+  font-size: 1.4rem;
+  color: var(--accent, #ef1472);
+}
+.cult-header__panel-foot {
+  margin: 36px 0 0;
+  font: 400 12px/1.6 var(--font-cult-mono), ui-monospace, monospace;
+  letter-spacing: 0.06em;
+  color: #8a8780;
+  text-transform: uppercase;
+}
+body.cult-nav-locked {
+  overflow: hidden;
+}
+
+@media (max-width: 900px) {
+  .cult-header {
+    --ch-h: 64px;
+    background: rgba(5, 5, 5, 0.94);
+    border-bottom: 2px solid #2a2a2a;
+  }
+  .cult-header__desktop {
+    display: none;
+  }
+  .cult-header__burger {
+    display: inline-flex;
+  }
+}
+
+@media (min-width: 901px) {
+  .cult-header__panel {
+    display: none !important;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .cult-header,
+  .cult-header__burger-lines i {
+    transition: none;
+  }
+}
+
+/* Shared page-hero height — homepage + work openers match */
+:root {
+  --cult-hero-h: min(calc(100svh - 72px), 860px);
+}
+@media (max-width: 900px) {
+  :root {
+    --cult-hero-h: min(calc(100svh - 64px), 760px);
+  }
+}
+
+.home-page .print-hero.hero-locked {
+  height: var(--cult-hero-h);
+  min-height: var(--cult-hero-h);
+  max-height: var(--cult-hero-h);
+  padding: 0 0 36px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  box-sizing: border-box;
+}
+.home-page .print-hero.hero-locked .print-hero-art {
+  inset: 0;
+  top: 0;
+  height: auto !important;
+  bottom: 0;
+}
+.home-page .print-hero.hero-locked .hero-content {
+  position: relative;
+  z-index: 1;
+}
+
+.home-page .home-problem.print-opener {
+  height: var(--cult-hero-h);
+  min-height: var(--cult-hero-h) !important;
+  max-height: var(--cult-hero-h);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-top: 48px;
+  padding-bottom: 48px;
+}
+
+.cult-gallery .cg-hero--open {
+  height: var(--cult-hero-h);
+  min-height: var(--cult-hero-h) !important;
+  max-height: var(--cult-hero-h);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.about-page .page-hero,
+.page-hero.section {
+  min-height: var(--cult-hero-h);
+  height: var(--cult-hero-h);
+  box-sizing: border-box;
+}
+
+@media (max-width: 768px) {
+  .home-page .print-hero.hero-locked {
+    padding-bottom: 28px;
+  }
+  .home-page .print-hero.hero-locked .print-hero-art {
+    height: 100% !important;
+  }
+}
+
+/* Homepage H1 must fit inside locked hero (big, not clipped) */
+.home-page .print-hero.hero-locked {
+  overflow: hidden;
+  justify-content: flex-end;
+  padding-top: calc(var(--ch-h, 72px) + 12px);
+  padding-bottom: 28px;
+  gap: 0;
+}
+.home-page .print-hero.hero-locked .hero-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  flex: 1 1 auto;
+  min-height: 0;
+  padding-top: 0;
+}
+.home-page .print-hero.hero-locked h1 {
+  font-family: var(--font-cult-display), "Anton", sans-serif !important;
+  font-weight: 400 !important;
+  letter-spacing: -0.03em !important;
+  line-height: 0.88 !important;
+  font-size: clamp(72px, 17.5vw, 260px) !important;
+  max-width: 100%;
+  margin: 0 !important;
+}
+.home-page .print-hero.hero-locked h1 > span {
+  max-width: 100%;
+}
+.home-page .print-hero.hero-locked .hero-description {
+  margin-top: 14px !important;
+  max-width: 36ch;
+}
+.home-page .print-hero.hero-locked .actions {
+  margin-top: 10px !important;
+}
+@media (max-width: 768px) {
+  .home-page .print-hero.hero-locked {
+    padding-top: calc(var(--ch-h, 64px) + 8px);
+    padding-bottom: 22px;
+  }
+  .home-page .print-hero.hero-locked h1 {
+    font-size: clamp(56px, 18.5vw, 120px) !important;
+    line-height: 0.9 !important;
+  }
+}
+
+/* Sitewide page H1s → same Anton scale as homepage hero */
+:is(
+  .page-hero h1,
+  .page-hero h1.cult-poster-title,
+  .work-hero h1,
+  .contact-hero h1,
+  .contact-hero h1.cult-poster-title,
+  .about-page .page-hero h1,
+  .about-page .page-hero h1.cult-poster-title,
+  .services-page .page-hero h1,
+  .pk-page h1,
+  .pk-page h1.cult-poster-title,
+  html.riso .about-page .page-hero h1.cult-poster-title,
+  html.riso .contact-rebuilt .contact-hero h1.cult-poster-title
+) {
+  font-family: var(--font-cult-display), "Anton", sans-serif !important;
+  font-weight: 400 !important;
+  letter-spacing: -0.03em !important;
+  text-transform: uppercase !important;
+  line-height: 0.88 !important;
+  font-size: clamp(72px, 17.5vw, 260px) !important;
+  max-width: 100%;
+  margin: 0;
+}
+:is(
+  .page-hero h1,
+  .contact-hero h1,
+  .about-page .page-hero h1,
+  .pk-page h1
+) > span {
+  display: block;
+  font-family: inherit !important;
+  font-weight: inherit !important;
+  letter-spacing: inherit !important;
+  line-height: inherit !important;
+}
+.cult-gallery .cg-hero--open h1 em {
+  font-style: normal;
+  font-family: inherit;
+  color: #050505;
+  background: var(--accent, #ef1472);
+  padding: 0 0.06em 0.04em;
+  display: inline-block;
+}
+@media (max-width: 768px) {
+  :is(
+    .page-hero h1,
+    .page-hero h1.cult-poster-title,
+    .work-hero h1,
+    .contact-hero h1,
+    .about-page .page-hero h1,
+    .pk-page h1,
+      html.riso .about-page .page-hero h1.cult-poster-title,
+    html.riso .contact-rebuilt .contact-hero h1.cult-poster-title
+  ) {
+    font-size: clamp(56px, 18.5vw, 120px) !important;
+    line-height: 0.88 !important;
+  }
+}
+
+/* Force ALL route heroes = homepage hero height */
+:is(
+  .home-page .print-hero.hero-locked,
+  .home-page .home-problem.print-opener,
+  .cult-gallery .cg-hero--open,
+  .about-page .page-hero,
+  .page-hero.section,
+  .contact-page .page-hero,
+  .contact-page .contact-hero,
+  .contact-rebuilt .contact-hero,
+  html.riso .about-page .page-hero,
+  html.riso:not(:has(.home-page)) .contact-rebuilt .contact-hero,
+  .services-page .page-hero,
+  .sv-page .page-hero,
+  .pk-page .pk-hero,
+  .pk-page .page-hero
+) {
+  height: var(--cult-hero-h) !important;
+  min-height: var(--cult-hero-h) !important;
+  max-height: var(--cult-hero-h) !important;
+  box-sizing: border-box !important;
+}
+
+/* Nuclear: Services + Journal heroes = Work H1 scale */
+.riso:not(:has(.home-page)) .sv-main .sv-hero,
+.sv-main .sv-hero,
+.journal-index .journal-hero,
+.journal .journal-hero {
+  height: var(--cult-hero-h) !important;
+  min-height: var(--cult-hero-h) !important;
+  max-height: var(--cult-hero-h) !important;
+  box-sizing: border-box !important;
+}
+.riso:not(:has(.home-page)) .sv-main .sv-hero h1,
+.sv-main .sv-hero h1,
+.journal .journal-hero h1,
+.journal-index .journal-hero h1 {
+  font-family: var(--font-cult-display), "Anton", sans-serif !important;
+  font-weight: 400 !important;
+  letter-spacing: -0.03em !important;
+  text-transform: uppercase !important;
+  line-height: 0.88 !important;
+  font-size: clamp(72px, 17.5vw, 260px) !important;
+  height: auto !important;
+  max-width: 100% !important;
+  margin: 0 !important;
+}
+@media (max-width: 768px) {
+  .riso:not(:has(.home-page)) .sv-main .sv-hero h1,
+  .sv-main .sv-hero h1,
+  .journal .journal-hero h1,
+  .journal-index .journal-hero h1 {
+    font-size: clamp(56px, 18.5vw, 120px) !important;
+    line-height: 0.88 !important;
+  }
+}
+
+
+/* EVERY route hero = homepage lock */
+:is(
+  .home-page .print-hero.hero-locked,
+  .about-page .page-hero,
+  .contact-page .page-hero,
+  .contact-rebuilt .contact-hero,
+  .page-hero.section,
+  .work-hero,
+  .pk-page .pk-hero,
+  .sv-main .sv-hero,
+  .journal-index .journal-hero,
+  .journal .journal-hero,
+  .cult-gallery .cg-hero--open,
+  html.riso .about-page .page-hero,
+  html.riso .contact-rebuilt .contact-hero
+) {
+  height: var(--cult-hero-h) !important;
+  min-height: var(--cult-hero-h) !important;
+  max-height: var(--cult-hero-h) !important;
+  box-sizing: border-box !important;
+  overflow: visible !important;
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: flex-end !important;
+}
+:is(
+  .home-page .print-hero.hero-locked h1,
+  .about-page .page-hero h1,
+  .about-page .page-hero h1.cult-poster-title,
+  .contact-page .page-hero h1,
+  .contact-rebuilt .contact-hero h1,
+  .contact-rebuilt .contact-hero h1.cult-poster-title,
+  .page-hero h1,
+  .page-hero h1.cult-poster-title,
+  .work-hero h1,
+  .pk-page .pk-hero h1,
+  .pk-page h1.cult-poster-title,
+  .sv-main .sv-hero h1,
+  .journal .journal-hero h1,
+  .journal-index .journal-hero h1,
+  html.riso .about-page .page-hero h1.cult-poster-title,
+  html.riso .contact-rebuilt .contact-hero h1.cult-poster-title
+) {
+  font-family: var(--font-cult-display), "Anton", sans-serif !important;
+  font-weight: 400 !important;
+  font-size: clamp(72px, 17.5vw, 260px) !important;
+  line-height: 0.88 !important;
+  letter-spacing: -0.03em !important;
+  text-transform: uppercase !important;
+  height: auto !important;
+  max-width: 100% !important;
+  margin: 0 !important;
+  text-shadow: none !important;
+  overflow: visible !important;
+}
+:is(
+  .about-page .page-hero h1,
+  .contact-rebuilt .contact-hero h1,
+  .page-hero h1,
+  .pk-page .pk-hero h1,
+  .sv-main .sv-hero h1
+) span {
+  font-size: inherit !important;
+  line-height: inherit !important;
+  letter-spacing: inherit !important;
+  font-family: inherit !important;
+  white-space: normal !important;
+}
+@media (max-width: 768px) {
+  :is(
+    .home-page .print-hero.hero-locked h1,
+    .about-page .page-hero h1,
+    .about-page .page-hero h1.cult-poster-title,
+    .contact-rebuilt .contact-hero h1,
+    .contact-rebuilt .contact-hero h1.cult-poster-title,
+    .page-hero h1,
+    .pk-page .pk-hero h1,
+    .sv-main .sv-hero h1,
+    .journal .journal-hero h1
+  ) {
+    font-size: clamp(56px, 18.5vw, 120px) !important;
+    line-height: 0.9 !important;
+  }
+}
+
+.home-page .print-hero.hero-locked {
+  overflow: hidden !important;
+}
+
+/* Services: no clip, full words visible */
+.sv-main .sv-hero {
+  overflow: visible !important;
+}
+.sv-main .sv-hero h1,
+.sv-main .sv-hero h1 > span {
+  max-width: 100% !important;
+  overflow: visible !important;
+  margin-left: 0 !important;
+}
+.sv-main .sv-hero h1 > span {
+  width: auto !important;
+  display: block !important;
+}
+
+
+
+/* Work H1: Anton face only — sizes stay in gallery.css (no 17.5vw blast) */
+html.riso .cult-gallery :is(.cg-hero, .cg-hero--open) h1 {
+  font-family: var(--font-cult-display), "Anton", sans-serif !important;
+  font-weight: 400 !important;
+}

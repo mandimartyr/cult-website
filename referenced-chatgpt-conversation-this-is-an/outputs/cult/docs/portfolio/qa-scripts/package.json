@@ -1,0 +1,7 @@
+{
+  "name": "cult-portfolio-browser-checks",
+  "private": true,
+  "type": "module",
+  "scripts": { "verify": "node portfolio.mjs && node portfolio-interactions.mjs && node portfolio-loading.mjs" },
+  "devDependencies": { "playwright": "1.63.0", "@axe-core/playwright": "4.13.0" }
+}

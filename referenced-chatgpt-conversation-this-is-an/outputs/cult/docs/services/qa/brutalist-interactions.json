@@ -1,0 +1,2672 @@
+[
+  {
+    "width": 1440,
+    "cases": [
+      {
+        "name": "Explore a commercial dependency: Creative",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 25
+          },
+          {
+            "class": "sr-only",
+            "text": "Creative weakens. Paid efficiency falls. Customer acquisitio",
+            "diff": 569
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 29
+          }
+        ]
+      },
+      {
+        "name": "Explore a commercial dependency: Search",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 25
+          },
+          {
+            "class": "sr-only",
+            "text": "Weak search visibility increases dependence on paid acquisit",
+            "diff": 516
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 29
+          }
+        ]
+      },
+      {
+        "name": "Explore a commercial dependency: Conversion",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 25
+          },
+          {
+            "class": "sr-only",
+            "text": "A weak landing page wastes the attention paid media acquires",
+            "diff": 504
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 29
+          }
+        ]
+      },
+      {
+        "name": "Explore a commercial dependency: Lifecycle",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 25
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 29
+          }
+        ]
+      },
+      {
+        "name": "Explore Build outputs: WEB",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 25
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 29
+          }
+        ]
+      },
+      {
+        "name": "Explore Build outputs: SEARCH",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 25
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 29
+          }
+        ]
+      },
+      {
+        "name": "Explore Build outputs: MEDIA",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 25
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 29
+          }
+        ]
+      },
+      {
+        "name": "Explore Build outputs: EMAIL",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 25
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 29
+          }
+        ]
+      },
+      {
+        "name": "Explore Build outputs: MEASUREMENT",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 25
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 29
+          }
+        ]
+      },
+      {
+        "name": "How hiring works: 01\nYOU WRITE\n→",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 25
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 29
+          }
+        ]
+      },
+      {
+        "name": "How hiring works: 02\nWE TALK\n→",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 25
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 29
+          }
+        ]
+      },
+      {
+        "name": "How hiring works: 03\nWE IDENTIFY\n→",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 25
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 29
+          }
+        ]
+      },
+      {
+        "name": "How hiring works: 04\nWE RECOMMEND\n→",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 25
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 29
+          }
+        ]
+      },
+      {
+        "name": "How hiring works: 05\nWE SCOPE\n→",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 25
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 29
+          }
+        ]
+      },
+      {
+        "name": "How hiring works: 06\nWE BUILD\n→",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 25
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 29
+          }
+        ]
+      },
+      {
+        "name": "How hiring works: 07\nWE MEASURE\n→",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 25
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 29
+          }
+        ]
+      },
+      {
+        "name": "Execution rhythm: BUILD.",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 25
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 29
+          }
+        ]
+      },
+      {
+        "name": "Execution rhythm: LAUNCH.",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 25
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 29
+          }
+        ]
+      },
+      {
+        "name": "Execution rhythm: MEASURE.",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 25
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 29
+          }
+        ]
+      },
+      {
+        "name": "Execution rhythm: LEARN.",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 25
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 29
+          }
+        ]
+      },
+      {
+        "name": "Execution rhythm: IMPROVE.",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 25
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 29
+          }
+        ]
+      },
+      {
+        "name": "capability 01\nSTRATEGY + GROWTH",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 25
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 29
+          }
+        ]
+      },
+      {
+        "name": "capability 02\nWEBSITES + CONVERSION",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 25
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 29
+          }
+        ]
+      },
+      {
+        "name": "capability 03\nSEARCH + DISCOVERY",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 25
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 29
+          }
+        ]
+      },
+      {
+        "name": "capability 04\nEMAIL + LIFECYCLE",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 25
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 29
+          }
+        ]
+      },
+      {
+        "name": "capability 05\nPAID MEDIA + PROGRAMMATIC",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 25
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 29
+          }
+        ]
+      },
+      {
+        "name": "capability 06\nPERFORMANCE CREATIVE",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 25
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 29
+          }
+        ]
+      },
+      {
+        "name": "capability 07\nANALYTICS + OPTIMIZATION",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 25
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 29
+          }
+        ]
+      }
+    ],
+    "errors": [],
+    "mutations": []
+  },
+  {
+    "width": 1280,
+    "cases": [
+      {
+        "name": "Explore a commercial dependency: Creative",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 22
+          },
+          {
+            "class": "sr-only",
+            "text": "Creative weakens. Paid efficiency falls. Customer acquisitio",
+            "diff": 569
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 26
+          }
+        ]
+      },
+      {
+        "name": "Explore a commercial dependency: Search",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 22
+          },
+          {
+            "class": "sr-only",
+            "text": "Weak search visibility increases dependence on paid acquisit",
+            "diff": 516
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 26
+          }
+        ]
+      },
+      {
+        "name": "Explore a commercial dependency: Conversion",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 22
+          },
+          {
+            "class": "sr-only",
+            "text": "A weak landing page wastes the attention paid media acquires",
+            "diff": 504
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 26
+          }
+        ]
+      },
+      {
+        "name": "Explore a commercial dependency: Lifecycle",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 22
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 26
+          }
+        ]
+      },
+      {
+        "name": "Explore Build outputs: WEB",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 22
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 26
+          }
+        ]
+      },
+      {
+        "name": "Explore Build outputs: SEARCH",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 22
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 26
+          }
+        ]
+      },
+      {
+        "name": "Explore Build outputs: MEDIA",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 22
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 26
+          }
+        ]
+      },
+      {
+        "name": "Explore Build outputs: EMAIL",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 22
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 26
+          }
+        ]
+      },
+      {
+        "name": "Explore Build outputs: MEASUREMENT",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 22
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 26
+          }
+        ]
+      },
+      {
+        "name": "How hiring works: 01\nYOU WRITE\n→",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 22
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 26
+          }
+        ]
+      },
+      {
+        "name": "How hiring works: 02\nWE TALK\n→",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 22
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 26
+          }
+        ]
+      },
+      {
+        "name": "How hiring works: 03\nWE IDENTIFY\n→",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 22
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 26
+          }
+        ]
+      },
+      {
+        "name": "How hiring works: 04\nWE RECOMMEND\n→",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 22
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 26
+          }
+        ]
+      },
+      {
+        "name": "How hiring works: 05\nWE SCOPE\n→",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 22
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 26
+          }
+        ]
+      },
+      {
+        "name": "How hiring works: 06\nWE BUILD\n→",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 22
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 26
+          }
+        ]
+      },
+      {
+        "name": "How hiring works: 07\nWE MEASURE\n→",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 22
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 26
+          }
+        ]
+      },
+      {
+        "name": "Execution rhythm: BUILD.",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 22
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 26
+          }
+        ]
+      },
+      {
+        "name": "Execution rhythm: LAUNCH.",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 22
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 26
+          }
+        ]
+      },
+      {
+        "name": "Execution rhythm: MEASURE.",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 22
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 26
+          }
+        ]
+      },
+      {
+        "name": "Execution rhythm: LEARN.",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 22
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 26
+          }
+        ]
+      },
+      {
+        "name": "Execution rhythm: IMPROVE.",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 22
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 26
+          }
+        ]
+      },
+      {
+        "name": "capability 01\nSTRATEGY + GROWTH",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 22
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 26
+          }
+        ]
+      },
+      {
+        "name": "capability 02\nWEBSITES + CONVERSION",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 22
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 26
+          }
+        ]
+      },
+      {
+        "name": "capability 03\nSEARCH + DISCOVERY",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 22
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 26
+          }
+        ]
+      },
+      {
+        "name": "capability 04\nEMAIL + LIFECYCLE",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 22
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 26
+          }
+        ]
+      },
+      {
+        "name": "capability 05\nPAID MEDIA + PROGRAMMATIC",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 22
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 26
+          }
+        ]
+      },
+      {
+        "name": "capability 06\nPERFORMANCE CREATIVE",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 22
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 26
+          }
+        ]
+      },
+      {
+        "name": "capability 07\nANALYTICS + OPTIMIZATION",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "",
+            "text": "WHATNEEDSTO MOVE?",
+            "diff": 22
+          },
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 26
+          }
+        ]
+      }
+    ],
+    "errors": [],
+    "mutations": []
+  },
+  {
+    "width": 390,
+    "cases": [
+      {
+        "name": "Explore a commercial dependency: Creative",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Creative weakens. Paid efficiency falls. Customer acquisitio",
+            "diff": 569
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 8
+          }
+        ]
+      },
+      {
+        "name": "Explore a commercial dependency: Search",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Weak search visibility increases dependence on paid acquisit",
+            "diff": 516
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 8
+          }
+        ]
+      },
+      {
+        "name": "Explore a commercial dependency: Conversion",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "A weak landing page wastes the attention paid media acquires",
+            "diff": 504
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 8
+          }
+        ]
+      },
+      {
+        "name": "Explore a commercial dependency: Lifecycle",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 8
+          }
+        ]
+      },
+      {
+        "name": "Explore Build outputs: WEB",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 8
+          },
+          {
+            "class": "sv-link ",
+            "text": "Explore the AER experience",
+            "diff": 4
+          }
+        ]
+      },
+      {
+        "name": "Explore Build outputs: SEARCH",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 8
+          }
+        ]
+      },
+      {
+        "name": "Explore Build outputs: MEDIA",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 8
+          }
+        ]
+      },
+      {
+        "name": "Explore Build outputs: EMAIL",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 8
+          }
+        ]
+      },
+      {
+        "name": "Explore Build outputs: MEASUREMENT",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 8
+          }
+        ]
+      },
+      {
+        "name": "How hiring works: YOU WRITE\n→",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 8
+          }
+        ]
+      },
+      {
+        "name": "How hiring works: WE TALK\n→",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 8
+          }
+        ]
+      },
+      {
+        "name": "How hiring works: WE IDENTIFY\n→",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 8
+          }
+        ]
+      },
+      {
+        "name": "How hiring works: WE RECOMMEND\n→",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 8
+          }
+        ]
+      },
+      {
+        "name": "How hiring works: WE SCOPE\n→",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 8
+          }
+        ]
+      },
+      {
+        "name": "How hiring works: WE BUILD\n→",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 8
+          }
+        ]
+      },
+      {
+        "name": "How hiring works: WE MEASURE\n→",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 8
+          }
+        ]
+      },
+      {
+        "name": "Execution rhythm: BUILD.",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 8
+          }
+        ]
+      },
+      {
+        "name": "Execution rhythm: LAUNCH.",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 8
+          }
+        ]
+      },
+      {
+        "name": "Execution rhythm: MEASURE.",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 8
+          }
+        ]
+      },
+      {
+        "name": "Execution rhythm: LEARN.",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 8
+          }
+        ]
+      },
+      {
+        "name": "Execution rhythm: IMPROVE.",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 8
+          }
+        ]
+      },
+      {
+        "name": "capability 01\nSTRATEGY + GROWTH",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 8
+          }
+        ]
+      },
+      {
+        "name": "capability 02\nWEBSITES + CONVERSION",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 8
+          }
+        ]
+      },
+      {
+        "name": "capability 03\nSEARCH + DISCOVERY",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 8
+          }
+        ]
+      },
+      {
+        "name": "capability 04\nEMAIL + LIFECYCLE",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 8
+          }
+        ]
+      },
+      {
+        "name": "capability 05\nPAID MEDIA + PROGRAMMATIC",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 8
+          }
+        ]
+      },
+      {
+        "name": "capability 06\nPERFORMANCE CREATIVE",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 8
+          }
+        ]
+      },
+      {
+        "name": "capability 07\nANALYTICS + OPTIMIZATION",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 8
+          }
+        ]
+      }
+    ],
+    "errors": [],
+    "mutations": []
+  },
+  {
+    "width": 360,
+    "cases": [
+      {
+        "name": "Explore a commercial dependency: Creative",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Creative weakens. Paid efficiency falls. Customer acquisitio",
+            "diff": 569
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 7
+          }
+        ]
+      },
+      {
+        "name": "Explore a commercial dependency: Search",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Weak search visibility increases dependence on paid acquisit",
+            "diff": 516
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 7
+          }
+        ]
+      },
+      {
+        "name": "Explore a commercial dependency: Conversion",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "A weak landing page wastes the attention paid media acquires",
+            "diff": 504
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 7
+          }
+        ]
+      },
+      {
+        "name": "Explore a commercial dependency: Lifecycle",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 7
+          }
+        ]
+      },
+      {
+        "name": "Explore Build outputs: WEB",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 7
+          },
+          {
+            "class": "sv-link ",
+            "text": "Explore the AER experience",
+            "diff": 4
+          }
+        ]
+      },
+      {
+        "name": "Explore Build outputs: SEARCH",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 7
+          }
+        ]
+      },
+      {
+        "name": "Explore Build outputs: MEDIA",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 7
+          }
+        ]
+      },
+      {
+        "name": "Explore Build outputs: EMAIL",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 7
+          }
+        ]
+      },
+      {
+        "name": "Explore Build outputs: MEASUREMENT",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 7
+          }
+        ]
+      },
+      {
+        "name": "How hiring works: YOU WRITE\n→",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 7
+          }
+        ]
+      },
+      {
+        "name": "How hiring works: WE TALK\n→",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 7
+          }
+        ]
+      },
+      {
+        "name": "How hiring works: WE IDENTIFY\n→",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 7
+          }
+        ]
+      },
+      {
+        "name": "How hiring works: WE RECOMMEND\n→",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 7
+          }
+        ]
+      },
+      {
+        "name": "How hiring works: WE SCOPE\n→",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 7
+          }
+        ]
+      },
+      {
+        "name": "How hiring works: WE BUILD\n→",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 7
+          }
+        ]
+      },
+      {
+        "name": "How hiring works: WE MEASURE\n→",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 7
+          }
+        ]
+      },
+      {
+        "name": "Execution rhythm: BUILD.",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 7
+          }
+        ]
+      },
+      {
+        "name": "Execution rhythm: LAUNCH.",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 7
+          }
+        ]
+      },
+      {
+        "name": "Execution rhythm: MEASURE.",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 7
+          }
+        ]
+      },
+      {
+        "name": "Execution rhythm: LEARN.",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 7
+          }
+        ]
+      },
+      {
+        "name": "Execution rhythm: IMPROVE.",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 7
+          }
+        ]
+      },
+      {
+        "name": "capability 01\nSTRATEGY + GROWTH",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 7
+          }
+        ]
+      },
+      {
+        "name": "capability 02\nWEBSITES + CONVERSION",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 7
+          }
+        ]
+      },
+      {
+        "name": "capability 03\nSEARCH + DISCOVERY",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 7
+          }
+        ]
+      },
+      {
+        "name": "capability 04\nEMAIL + LIFECYCLE",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 7
+          }
+        ]
+      },
+      {
+        "name": "capability 05\nPAID MEDIA + PROGRAMMATIC",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 7
+          }
+        ]
+      },
+      {
+        "name": "capability 06\nPERFORMANCE CREATIVE",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 7
+          }
+        ]
+      },
+      {
+        "name": "capability 07\nANALYTICS + OPTIMIZATION",
+        "overflow": 0,
+        "excess": [
+          {
+            "class": "sr-only",
+            "text": "Without a lifecycle system, acquired attention is lost after",
+            "diff": 575
+          },
+          {
+            "class": "sr-only",
+            "text": "Six illustrative signals are available for inspection.",
+            "diff": 392
+          },
+          {
+            "class": "sv-pad",
+            "text": "02 / BUILDFROM $4,000BUILD WHATTHE SYSTEMIS MISSING.02",
+            "diff": 7
+          }
+        ]
+      }
+    ],
+    "errors": [],
+    "mutations": []
+  }
+]

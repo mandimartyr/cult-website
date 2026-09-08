@@ -1,0 +1,30 @@
+[
+  {
+    "width": 1440,
+    "top": {
+      "src": "http://127.0.0.1:4179/studies/hardline-1536.webp",
+      "loading": "eager",
+      "priority": "high"
+    },
+    "records": [
+      {
+        "file": "hardline-1536.webp",
+        "bytes": 132898
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "top": {
+      "src": "http://127.0.0.1:4179/studies/hardline-480.webp",
+      "loading": "eager",
+      "priority": "high"
+    },
+    "records": [
+      {
+        "file": "hardline-480.webp",
+        "bytes": 17302
+      }
+    ]
+  }
+]

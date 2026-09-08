@@ -1,0 +1,81 @@
+/* Shared CULT ink, independently composed route openings. */
+.route-print-art {position:absolute;inset:0;z-index:-1;pointer-events:none;mask-image:linear-gradient(to bottom,#000 75%,transparent);}
+.route-print-art img {width:100%;height:100%;object-fit:cover;}
+.riso:not(:has(.home-page)) :is(.about-page,.contact-page,.work-page,.sv-main,.pk-page) {background:#050505;color:#ece9e0;}
+.riso:not(:has(.home-page)) :is(.about-page,.contact-page,.work-page,.sv-main,.pk-page) :is(.section,.sv-pad,.pk-scene,.pk-hero)::after {display:none;}
+.riso:not(:has(.home-page)) :is(.about-page,.contact-page,.work-page) .page-hero {isolation:isolate;overflow:clip;position:relative;background:#050505;color:#ece9e0;padding:145px 5vw 80px;min-height:850px;}
+.riso:not(:has(.home-page)) :is(.about-page,.contact-page,.work-page) .page-hero h1 {position:relative;max-width:100%;font-family:var(--font-cult-display),Impact,sans-serif;font-size:clamp(72px, 17.5vw, 260px);line-height:1.02;letter-spacing:-.025em;text-transform:uppercase;text-shadow:none;}
+.riso:not(:has(.home-page)) .about-page .page-intro {color:#ece9e0;border-top:2px solid var(--accent);background:#050505df;padding:20px;max-width:560px;margin-top:55px;}
+.riso:not(:has(.home-page)) .about-page .page-hero h1>span:not(.accent) {margin-left:8%;}
+.riso:not(:has(.home-page)) .about-page .gravity {min-height:780px;display:flex;flex-direction:column;justify-content:center;overflow:clip;padding:80px 5vw;}
+.riso:not(:has(.home-page)) .about-page .gravity h2 {font-size:clamp(65px,8vw,120px);max-width:900px;text-shadow:3px 3px #050505;line-height:1.02;}
+.riso:not(:has(.home-page)) .about-page .gravity>p:last-child {max-width:550px;padding:15px;background:#050505e8;font-size:18px;}
+.riso:not(:has(.home-page)) .about-page .principles {padding:60px 5vw;}
+.riso:not(:has(.home-page)) .about-page .principle {padding:35px 0;border-top:1px solid #555;}
+.riso:not(:has(.home-page)) .about-page .principle h2 {font-size:clamp(45px,7vw,110px);line-height:1.05;}
+.riso:not(:has(.home-page)) .about-page .principle:nth-child(even) h2 {color:var(--accent);}
+.riso:not(:has(.home-page)) .contact-page .contact-hero {min-height:700px;}
+.contact-hero .route-print-art img {transform:scaleX(-1);}
+.riso:not(:has(.home-page)) .contact-page .contact-layout {margin-top:-70px;position:relative;z-index:1;border-top:0;gap:6vw;}
+.riso:not(:has(.home-page)) .contact-page .contact-form-wrap {background:#050505;padding:30px;border:1px solid #666;border-top:5px solid var(--accent);}
+.riso:not(:has(.home-page)) .contact-page .contact-aside {padding-top:35px;}
+.riso:not(:has(.home-page)) .contact-page .contact-aside li {font-family:var(--font-cult-display),sans-serif;font-size:clamp(22px,2.5vw,36px);text-transform:uppercase;line-height:1.3;}
+.riso:not(:has(.home-page)) .work-page .work-hero>p {max-width:520px;background:#050505e8;padding:8px 12px;margin:20px 0 0;}
+.riso:not(:has(.home-page)) .work-page .work-hero h1 {max-width:80%;}
+.riso:not(:has(.home-page)) .work-page-content {padding-inline:0;}
+.work-page .study-index {display:block;}
+.work-page .study-preview {width:100%;margin:0;position:relative;}
+.work-page .study-preview-link {display:block;position:relative;isolation:isolate;min-height:780px;padding:45px 5vw;overflow:clip;}
+.riso:not(:has(.home-page)) .work-page .study-preview-media {position:absolute;inset:0;height:100%;width:100%;transform:none;border:0;z-index:-2;mask-image:linear-gradient(transparent,#000 8%,#000 85%,transparent);}
+.work-page .study-preview-media img {height:100%;width:100%;object-fit:cover;}
+.work-page .study-preview-link::after {content:'';position:absolute;inset:0;z-index:-1;background:linear-gradient(90deg,#050505b3,transparent 80%);pointer-events:none;}
+.work-page .study-preview-info {max-width:620px;display:flex;flex-direction:column;min-height:650px;}
+.work-page .study-preview-title {margin-top:60px;}
+.work-page .study-preview-title h2 {font-size:clamp(85px,12vw,180px);text-shadow:3px 3px #050505;}
+.work-page .study-sentence {margin-top:auto;background:#050505df;padding:14px;font-size:20px;max-width:500px;}
+.work-page .study-disciplines,.work-page .study-industry {background:#050505df;width:fit-content;padding:8px;}
+.riso:not(:has(.home-page)) .sv-main .sv-hero {background:#050505;isolation:isolate;position:relative;overflow:clip;height:var(--cult-hero-h);min-height:var(--cult-hero-h);max-height:var(--cult-hero-h);padding:calc(var(--ch-h,72px) + 12px) 28px 28px;box-sizing:border-box;display:flex;flex-direction:column;justify-content:flex-end;}
+.riso:not(:has(.home-page)) .sv-main .sv-hero h1 {font-family:var(--font-cult-display),Impact,sans-serif;font-size:clamp(72px, 17.5vw, 260px);line-height:1.02;letter-spacing:-.025em;text-transform:uppercase;max-width:100%;margin:0;}
+.sv-main .sv-hero h1>span {display:block;width:fit-content;}
+.sv-main .sv-hero h1>span:nth-child(2){margin-left:0;}
+.sv-main .sv-hero h1>span:last-child{font-size:1em;}
+.sv-main .sv-hero-baseline {position:relative;}
+@media(max-width:768px){
+.riso:not(:has(.home-page)) :is(.about-page,.contact-page,.work-page) .page-hero {padding:120px 20px 65px;min-height:720px;}
+.riso:not(:has(.home-page)) :is(.about-page,.contact-page,.work-page) .page-hero h1 {font-size:18vw;max-width:100%;line-height:1.02;}
+.route-print-art img {object-position:65% center;}
+.riso:not(:has(.home-page)) .about-page .page-intro {padding:14px;margin-top:70px;font-size:16px;}
+.riso:not(:has(.home-page)) .about-page .gravity {padding:65px 20px;min-height:650px;}
+.riso:not(:has(.home-page)) .about-page .gravity h2 {font-size:13vw;}
+.riso:not(:has(.home-page)) .contact-page .contact-hero {min-height:540px;}
+.riso:not(:has(.home-page)) .contact-page .contact-layout {margin-top:0;}
+.riso:not(:has(.home-page)) .contact-page .contact-form-wrap {padding:20px 14px;}
+.work-page .study-preview-link {min-height:650px;padding:30px 20px;}
+.work-page .study-preview-info {min-height:580px;max-width:100%;}
+.work-page .study-preview-title h2 {font-size:21vw;}
+.work-page .study-sentence {font-size:17px;}
+.riso:not(:has(.home-page)) .sv-main .sv-hero h1 {font-size:18vw;line-height:1.02;}
+}
+.riso:not(:has(.home-page)) .sv-main .sv-audit-composition {position:relative;isolation:isolate;overflow:clip;min-height:800px;display:block;background:#050505;}
+.riso:not(:has(.home-page)) .sv-main .sv-audit-media {position:absolute;inset:0;width:100%;height:100%;z-index:-1;mask-image:linear-gradient(transparent,#000 10%,#000 85%,transparent);}
+.sv-main .sv-audit-media img {width:100%;height:100%;object-fit:cover;}
+.riso:not(:has(.home-page)) .sv-main .sv-audit-editorial {width:100%;max-width:900px;position:relative;background:transparent;}
+.riso:not(:has(.home-page)) .sv-main .sv-partner-main {position:relative;isolation:isolate;background:#050505;overflow:clip;}
+.riso:not(:has(.home-page)) .sv-main .sv-partner-billboard {background:transparent;}
+.riso:not(:has(.home-page)) .sv-main .sv-partner-billboard::before {display:none;}
+.riso:not(:has(.home-page)) .sv-main .sv-partner-title {color:#ece9e0;text-shadow:3px 3px #050505;}
+/* Study brands retain their own ink and artwork; only the mounting language is shared. */
+.riso:not(:has(.home-page)) :is(.hl-hero,.nt-hero,.si-hero) {border-bottom:0;}
+.riso:not(:has(.home-page)) :is(.hl-hero,.nt-hero,.si-hero)::after {opacity:.08;}
+.riso:not(:has(.home-page)) :is(.hl-hero h1,.nt-hero h1,.si-hero h1) {text-shadow:2px 2px #050505;}
+.riso:not(:has(.home-page)) :is(.case-aer,.case-field) .case-key-art {border-bottom:0;mask-image:linear-gradient(#000 90%,transparent);}
+@media(max-width:768px){.riso:not(:has(.home-page)) .sv-main .sv-audit-composition{min-height:650px;}}
+.riso:not(:has(.home-page)) .sv-main .sv-start {color:#050505;}
+@media(max-width:768px){.work-page .study-preview-title h2 {font-size:18vw;}}
+.riso:not(:has(.home-page)) .about-page .page-intro {margin-left:0;}
+@media(max-width:768px){.contact-hero .route-print-art img {object-position:25% center;}}
+
+.about-page .about-path {padding:50px 4.5vw;max-width:920px;}
+.about-page .about-path h2 {font:clamp(36px,5vw,72px)/1.05 var(--font-cult-display),sans-serif;text-transform:uppercase;margin:12px 0 18px;}
+.about-page .about-path p:not(.label) {font-size:17px;max-width:52ch;color:#333;}
+.about-page .who-its-for {margin-top:18px;color:#444;}
