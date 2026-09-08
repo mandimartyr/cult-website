@@ -25,7 +25,7 @@ export default function About() {
   return (
     <>
       <main id="main" className="inner-page about-page">
-        <section className="section page-hero">
+        <section className="section page-hero cult-hero">
           <div className="route-print-art">
             <PrintArt name="thinking" priority />
           </div>

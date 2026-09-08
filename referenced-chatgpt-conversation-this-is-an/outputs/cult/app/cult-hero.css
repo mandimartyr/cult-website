@@ -1,0 +1,156 @@
+/* One hero system for every public route. Matches homepage width + Anton. */
+
+.cult-hero,
+.home-page .print-hero.cult-hero,
+.cult-gallery .cg-hero.cult-hero,
+.sv-main .sv-hero.cult-hero,
+.pk-page .pk-hero.cult-hero,
+.about-page .page-hero.cult-hero,
+.contact-page .contact-hero.cult-hero,
+.journal .journal-hero.cult-hero,
+.journal-index .journal-hero.cult-hero,
+html.riso .about-page .page-hero.cult-hero,
+html.riso:not(:has(.home-page)) .contact-rebuilt .contact-hero.cult-hero,
+html.riso:not(:has(.home-page)) .sv-main .sv-hero.cult-hero,
+html.riso:not(:has(.home-page)) :is(.about-page, .contact-page) .page-hero.cult-hero {
+  position: relative;
+  isolation: isolate;
+  display: flex !important;
+  flex-direction: column;
+  justify-content: flex-end;
+  width: 100% !important;
+  max-width: none !important;
+  height: auto !important;
+  min-height: min(calc(100svh - 72px), 860px) !important;
+  max-height: none !important;
+  margin: 0 !important;
+  padding: 100px 0 28px !important;
+  overflow: clip;
+  box-sizing: border-box;
+  background: #050505;
+  color: #ece9e0;
+}
+
+.journal.journal-index { padding: 0 !important; min-height: 0; }
+.journal-index .journal-posts { padding: 36px 3.6vw 80px; }
+.journal.journal-index > header.journal-hero { border-bottom: 0; margin-bottom: 0; padding-bottom: 28px; }
+
+.cult-hero-art,
+.cult-hero .print-hero-art,
+.cult-hero .route-print-art,
+.cult-hero .cg-hero-art,
+.cult-hero .pk-art,
+.cult-hero .journal-art {
+  position: absolute !important;
+  inset: 0 !important;
+  z-index: 0 !important;
+  width: 100% !important;
+  height: 100% !important;
+  pointer-events: none;
+  mask-image: none;
+}
+
+.cult-hero-art img,
+.cult-hero .print-hero-art img,
+.cult-hero .route-print-art img,
+.cult-hero .cg-hero-art img,
+.cult-hero .pk-art img,
+.cult-hero .journal-art img,
+.cult-hero .print-art-layer img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: 70% center;
+}
+
+.cult-hero-content,
+.cult-hero .hero-content,
+.cult-hero .cg-hero-layout,
+.cult-hero .journal-hero-content {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  max-width: none;
+  padding: 0 3.6vw;
+}
+
+.cult-hero h1,
+.cult-hero h1.cult-poster-title,
+.home-page .print-hero.cult-hero h1,
+.sv-main .sv-hero.cult-hero h1,
+.pk-page .pk-hero.cult-hero h1,
+.about-page .page-hero.cult-hero h1,
+.contact-page .contact-hero.cult-hero h1,
+.journal .journal-hero.cult-hero h1,
+html.riso :is(.home-page, .about-page, .contact-page, .sv-page, .pk-page, .journal, .journal-index, .cult-gallery)
+  .cult-hero :is(h1, h1.cult-poster-title) {
+  width: 100%;
+  max-width: none !important;
+  margin: 0 !important;
+  font-family: var(--font-cult-display), Anton, Impact, sans-serif !important;
+  font-weight: 400 !important;
+  font-size: 19.5vw !important;
+  line-height: 0.92 !important;
+  letter-spacing: -0.04em !important;
+  text-transform: uppercase;
+  text-shadow: none;
+  font-synthesis: none;
+}
+
+.cult-hero h1 > :is(span, em, strong) {
+  display: block;
+  width: max-content;
+  max-width: 100%;
+  margin: 0 !important;
+  font: inherit !important;
+  font-style: normal !important;
+  transform-origin: left center;
+}
+.cult-hero h1 > :is(span, em, strong):first-child { transform: scaleX(0.62); }
+.cult-hero h1 > :is(span, em, strong):nth-child(2) { transform: scaleX(0.68); }
+.cult-hero h1 > :is(span, em, strong):nth-child(3) { transform: scaleX(0.72); }
+
+.home-page .cult-hero h1 > span {
+  background: #ece9e0 url("/studies/services/riso-paper.webp") repeat;
+  background-size: 768px 512px;
+  background-clip: text;
+  color: transparent;
+}
+
+.cult-gallery .cult-hero h1 em,
+.journal .cult-hero h1 em,
+.about-page .cult-hero h1 > span:last-child:not(:only-child),
+.contact-page .cult-hero h1 > span:last-child:not(:only-child),
+.sv-page .cult-hero h1 > span:last-child:not(:only-child) { color: var(--accent); }
+
+.cult-hero-below {
+  width: 100%;
+  padding: 22px 3.6vw 32px;
+  background: #050505;
+  color: #ece9e0;
+  border-top: 1px solid #ece9e028;
+  font-family: var(--font-cult-mono), monospace;
+}
+
+.home-page .cult-hero-below .hero-description {
+  max-width: 42rem;
+  margin: 0 0 16px;
+  font: 15px/1.6 var(--font-cult-mono), monospace;
+}
+.home-page .cult-hero-below .actions { display: flex; flex-wrap: wrap; gap: 10px 22px; margin: 0; }
+.sv-hero-below { display: grid; grid-template-columns: 1fr auto; gap: 12px 32px; align-items: end; }
+.pk-hero-below { display: grid; gap: 18px; }
+.pk-hero-below h2 {
+  margin: 0;
+  font-family: var(--font-cult-display), Anton, Impact, sans-serif;
+  font-size: clamp(28px, 4vw, 56px);
+  color: var(--accent);
+  text-transform: uppercase;
+}
+.pk-hero-below .pk-facts { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 20px; margin: 0; }
+@media (max-width: 768px) {
+  .cult-hero { padding: 96px 0 24px !important; min-height: min(calc(100svh - 64px), 760px) !important; }
+  .cult-hero-content, .cult-hero-below { padding-inline: 20px; }
+  .cult-hero h1, .cult-hero h1.cult-poster-title { font-size: 22vw !important; }
+  .sv-hero-below, .pk-hero-below .pk-facts { grid-template-columns: 1fr; }
+}

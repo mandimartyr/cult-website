@@ -17,7 +17,7 @@ export default async function Blog() {
   return (
     <>
       <main id="main" className="journal journal-index">
-        <header className="journal-hero">
+        <header className="journal-hero cult-hero">
           <div className="journal-art">
             <PrintArt name="creative" priority />
           </div>

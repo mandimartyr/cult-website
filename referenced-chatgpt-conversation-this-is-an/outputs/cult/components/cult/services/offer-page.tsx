@@ -119,7 +119,7 @@ export function OfferPage({ slug }: { slug: string }) {
         className={`sv-page pk-page pk-${offer.name.toLowerCase()}`}
       >
         <ServicesMotion />
-        <section className="pk-hero">
+        <section className="pk-hero cult-hero">
           <div className="pk-art">
             <PrintArt name={art} priority />
           </div>

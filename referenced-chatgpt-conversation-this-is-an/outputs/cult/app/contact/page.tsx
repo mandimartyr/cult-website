@@ -12,7 +12,7 @@ export default function Contact() {
   return (
     <>
       <main id="main" className="inner-page contact-page contact-rebuilt">
-        <section className="section page-hero contact-hero">
+        <section className="section page-hero contact-hero cult-hero">
           <div className="route-print-art">
             <PrintArt name="media" priority />
           </div>

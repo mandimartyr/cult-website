@@ -9,7 +9,8 @@ const HERO_SRCSET =
 
 export function Hero() {
   return (
-    <section className="hero print-hero hero-locked">
+    <>
+    <section className="hero print-hero hero-locked cult-hero">
       <div className="print-hero-art" aria-hidden="true">
         <div className="print-art-layer is-active">
           <img
@@ -32,6 +33,9 @@ export function Hero() {
           <span aria-hidden="true">ATTENTION</span>
           <span aria-hidden="true">MATTER.</span>
         </h1>
+      </div>
+    </section>
+      <div className="cult-hero-below">
         <p className="hero-description">
           {whoItsFor}
           <br />
@@ -46,6 +50,6 @@ export function Hero() {
           </Action>
         </div>
       </div>
-    </section>
+    </>
   );
 }

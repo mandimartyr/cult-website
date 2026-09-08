@@ -26,7 +26,7 @@ export default function Work() {
   return (
     <>
       <main id="main" className="cult-gallery cult-gallery--open">
-        <header className="cg-hero cg-hero--open">
+        <header className="cg-hero cg-hero--open cult-hero">
           <div className="cg-hero-art" aria-hidden="true">
             <Image
               src="/artwork/cult/work-hero.png"

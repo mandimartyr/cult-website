@@ -23,7 +23,7 @@ export function ServicesPage() {
       <main id="main" className={`sv-page sv-main ${servicesDisplay.variable}`}>
         <ServicesMotion />
         <section
-          className="sv-hero sv-pad"
+          className="sv-hero sv-pad cult-hero"
           data-scene="01"
           aria-labelledby="sv-question"
         >

@@ -9,6 +9,7 @@ import './print-bookends.css';
 import './refinements.css';
 import './typography.css';
 import './cult-nav.css';
+import './cult-hero.css';
 import { MotionScenes } from '@/components/cult/motion-scenes';
 import { Header } from '@/components/cult/navigation';
 import { MotionProvider } from '@/components/cult/media';
